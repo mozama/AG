@@ -22,13 +22,19 @@
       <article >
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> conoce1 <small class="textoBlanco">Canastilla compartida con otros pasajeros</small></h2>
+            <h2><i class="fa fa-bookmark"></i> Xochimilco <small class="textoBlanco"></small></h2>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
             <h4 class="text-warning">Incluye:</h4>
             <ul>
+              <li>Viaje redondo.</li>
+              <li>La casa de Frida Kalo.</li>
+              <li>Xochimilco.</li>
+              <li>Estadio Azteca.</li>
+              <li>Coyoacán.</li>
+              <li>Ciudad Universitaria.</li>
 
             </ul>
             <br>
@@ -41,25 +47,11 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center ">
-              <h3 class="textoNaranja">MX $ 2,100.<sup>00</sup></h3>
-				<!-- vuelo compartido -->
-				<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-				<input type="hidden" name="cmd" value="_s-xclick">
-				<input type="hidden" name="hosted_button_id" value="6ATDWKVSXNWTJ">
-				<table>
-				<tr><td><input type="hidden" name="on0" value="Vuelo compartido">Vuelo compartido</td></tr><tr><td><select name="os0">
-				  <option value="Vuelo compartido (por persona)">Vuelo compartido (por persona) $2,100.00 MXN</option>
-				  <option value="Menores de 5 a 12 años">Menores de 5 a 12 años $1,700.00 MXN</option>
-				</select> </td></tr>
-				</table>
-				<input type="hidden" name="currency_code" value="MXN">
-				<input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-				<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-				</form>
-				<!-- fin del carrito-->
+              <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
+				
           </div>
                    <div class="col-md-4 text-center">
-            <h3 class="text-primary"> Precio por pasajero.</h3>
+            <h3 class="text-primary"> .</h3>
           </div>
         </div>
       </article>
