@@ -1,0 +1,645 @@
+@font-face {
+  font-family: junction;
+   src: url(../fonts/junction-regular.woff) format('woff');
+}
+@font-face {
+  font-family: pinyon;
+   src: url(../fonts/PinyonScript-Regular.ttf);
+}
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+/*****************/
+.fondoP{
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+
+#moodular {
+  overflow: hidden;
+  z-index: 1;
+  }
+
+#moodular, #moodular li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  width: 100%;
+
+  }
+
+#moodular, #moodular li {
+   height: 100%;
+
+   }
+#moodular li p {
+  display: block;
+  height: 100%;
+
+  }
+  #moodular li p span {
+   display: inline-block;
+   padding: 10px 10px 10px 10px;
+   color: #FFF; margin: 10px;
+   }
+.contenidoPrincipal{
+  z-index: 3;
+  height: 100%;
+}
+/******************/
+.pinyon{
+  font-family: pinyon,'Open Sans',serif;
+}
+.junction{
+  font-family: junction,'Open Sans',serif;
+  font-weight: 600;
+}
+
+@media(min-width:900px) {
+    .navbar {
+        padding: 10px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+     .top-nav-collapse {
+        padding: 0;
+    }
+}
+#barraNav{
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}
+.colorNav li a:hover,
+.colorNav li a:active,
+.colorNav li a:focus{
+  background-color: #428bca;
+  color: #eceff1;
+}
+.colorNavActivo{
+  background-color: #428bca;
+  color: #eceff1;
+}
+.imgI{
+  padding: 2%;
+}
+.navbar-default {
+  border-color: transparent;
+  box-shadow:0 0 3px 3px rgba(38,50,56, 0.25); /*efecto de sombra para 3d*/
+
+  /*background: -webkit-linear-gradient(-60deg, #0288d1, #01579b);
+  background: -o-linear-gradient(135deg, #0288d1, #01579b);
+  background: -moz-linear-gradient(135deg, #0288d1, #01579b);*/
+  /*background: linear-gradient(-60deg, #2196f3, #1565c0);*/
+  background:#0073aa;
+}
+.navbar-default .nav li a {
+  font-family: junction,'Open Sans',serif;
+  font-weight: 400;
+  font-size: 1em;
+  letter-spacing: 2px;
+  color: #FFF;
+}
+.dropdown-menu{
+  background-color: #fff;
+}
+.colorNav{
+  background-color: #37474f;
+}
+
+.navbar-default .nav li a:hover,
+.navbar-default .nav li a:active,
+.navbar-default .nav li a:focus {
+  outline: 0;
+  color: #ffd54f;
+}
+.activoLi{
+  background-color: #1b5e20;
+  outline: 0;
+}
+.sangria{
+  text-indent: 5%;
+}
+.sangriaTodoTxt{
+  padding: 0 0 2% 5%;
+}
+.paddingArriba{
+  padding: 5% 0 0 0;
+}
+.interlineadoA{
+  line-height: 200%;
+}
+.textoBlanco{
+  color:#fff;
+}
+.textoNaranja{
+  color:#9c27b0;
+}
+.textoNaranja{
+  color:#e65100;
+}
+.paddindTargeta{
+  padding: 0 0 0 0;
+}
+.textMC{
+  color: #13689a;
+  background: rgba(255, 255, 255, 0.8);
+}
+.textPy{
+  color: #faa727;
+}
+.textBienvenida{
+  font-size: 3em;
+}
+.textoAmarillo{
+  color:#ffc107;
+}
+.texto3d{
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+    font-family: junction,'Open Sans',serif;
+    font-weight: 400;
+}
+p{
+  color:#212121;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-inverse .navbar-nav > li > a:focus {
+    border-bottom-color: #3E84C2;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    border-bottom-color: #3E84C2;
+}
+.navbar-inverse .dropdown-menu > li > a:hover,
+.navbar-inverse .dropdown-menu > li > a:focus {
+    color: #000;
+}
+.navbarf{
+  background: #00bf8f;
+}
+.nav.open > a,
+.nav.open > a:hover,
+.nav.open > a:focus {
+    background-color: #3E84C2;
+    border-color: #3E84C2;
+    color: #ffffff;
+}
+.nav-tabs.nav-stacked > li > a:hover,
+.nav-tabs.nav-stacked > li > a:focus,
+.nav-tabs.nav-stacked > .active > a,
+.nav-tabs.nav-stacked > .active > a:hover,
+.nav-tabs.nav-stacked > .active > a:focus {
+    border-left-color: #418d49;
+    background-color: #3E84C2;
+}
+.nav-list > .active > a,
+.nav-list > .active > a:hover,
+.nav-list > .active > a:focus {
+   background-color: #3E84C2;
+}
+.nav .caret {
+    border-top-color: #3E84C2;
+    border-bottom-color: #3E84C2;
+}
+.nav a:hover .caret {
+    border-top-color: #418d49;
+    border-bottom-color: #418d49;
+}
+
+.nav-tabs>li>a {
+  background-color: #673ab7;
+  border-color: #90a4ae;
+  color:#fff;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+  color: #eceff1;
+  background-color: #428bca;
+  border: 1px solid #888888;
+}
+.nav-tabs>li>a:hover {
+  border-color: #fff;
+  background-color: #428bca;
+  color: #fff;
+}
+.form-control:focus {
+    border-color: #3E84C2;
+}
+list-group-item.active .list-group-item-text {
+    color: #eff7f0;
+    text-align : justify;
+}
+
+.panel-primary .panel-heading {
+    background-color: #3E84C2;
+    border-color: #3E84C2;
+}
+/*primera seccion*/
+.jumbotron{
+    padding: 0;
+    margin: 0;
+}
+
+img{
+    max-width: 100%;
+}
+.img1{
+	width: 100%;
+  height: 100%;
+}
+.imgF{
+	width: 100%;
+  height: 100%;
+}
+.principal {
+  height: 100%;
+  width: auto;
+}
+
+.servicios{
+  background: url(../images/aventuraEnGlobos.jpg);
+  min-height: 400px;
+  position: relative;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+}
+section.servicios .dmaskS1{
+  padding: 15% 0 15% 0;
+  background: rgba(3,155,229,.5);
+}
+section.servicios .dmaskS2{
+  padding: 15% 0 15% 0;
+  background: rgba(233,30,99,.5);
+}
+section.servicios .dmaskS3{
+  padding: 15% 0 15% 0;
+  background: rgba(255,193,7,.4);
+}
+section.about{
+  background: url(../images/arqueologica.jpg);
+  position: relative;
+  min-height: 400px;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+section.about .dmask{
+  padding: 15% 0 15% 0;
+}
+section.contact{
+  background: url(../images/aerostatico2.jpg);
+  min-height: 400px;
+  background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+  margin: 0;
+  padding: 15% 0 15% 0;
+}
+a.list-group-item .list-group-item-heading{
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+
+.features {
+    padding-top: 30px;
+}
+.features p{
+    margin: 30px 0;
+}
+.label{
+    font-weight: 300;
+}
+
+div.feature-box {
+    clear: both;
+}
+
+div.feature-box div.feature-box-icon {
+    -moz-border-radius: 35px;
+    -webkit-border-radius: 35px;
+    background: #ffffff;
+    border-radius: 35px;
+    color: #52AD81;
+    display: inline-block;
+    float: left;
+    height: 35px;
+    line-height: 35px;
+    margin-right: 10px;
+    position: relative;
+    text-align: center;
+    top: 5px;
+    width: 35px;
+}
+
+div.feature-box div.feature-box-info {
+    padding-left: 50px;
+}
+
+div.feature-box div.feature-box-icon i.image-icon {
+    position: relative;
+    top: 5px;
+}
+
+div.feature-box div.feature-box-icon i.image-icon.small {
+    top: 2px;
+}
+
+footer div.footer-ribbon:before {
+    border-right-color: #005580;
+}
+.fija{
+  position: fixed;
+}
+footer div.footer-ribbon:before {
+    border-right: 10px solid #005580;
+    border-top: 16px solid rgba(0, 0, 0, 0);
+    content: "";
+    display: block;
+    height: 0;
+    left: -10px;
+    position: absolute;
+    top: 0;
+    width: 7px;
+}
+footer div.container div.row > div {
+    margin-bottom: 25px;
+}
+
+footer div.footer-ribbon {
+    background: #0088CC;
+    margin: -100px 0 0 30px;
+    padding: 10px 20px 6px;
+    position: absolute;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+footer div.footer-ribbon span{
+    color: #ffffff;
+    font-weight: 700;
+}
+
+footer {
+    background: #212121;
+    border-top: 4px solid #1F1F1F;
+    font-size: 0.9em;
+    padding: 80px 0 0;
+    position: relative;
+}
+
+img{
+    max-width: 100%;
+    height: 100%;
+}
+footer *{
+    color: #ffffff;
+}
+
+.footer-copyright{
+    margin-top: -3%;
+}
+
+#footer-menu {
+    text-align: right;
+}
+#footer-menu li{
+    display: inline;
+    list-style: none;
+    margin-left: 8%;
+}
+.title span{
+    font-weight: 900;
+}
+
+.margServicio{
+  padding: 3%;
+  color: #e8f5e9;
+}
+
+.enlaceSimpleR,
+.enlaceSimpleR:visited,
+.enlaceSimpleR:link{
+  /*color:#e65100;*/
+  color:#fff;
+}
+.enlaceSimpleR:active,
+.enlaceSimpleR:hover{
+  text-decoration: none;
+  color: #ef6c00;
+}
+.enlaceSimple,
+.enlaceSimple:visited,
+.enlaceSimple:link{
+  color:#fff;
+}
+.enlaceSimple:active,
+.enlaceSimple:hover{
+  text-decoration: none;
+  color: #ffd54f;
+}
+.enlaceSimple2,
+.enlaceSimple2:visited,
+.enlaceSimple2:link{
+  color:#2196f3;
+}
+
+.enlaceNosotros:active,
+.enlaceNosotros:hover{
+  text-decoration: none;
+  color: #e8f5e9;
+}
+.enlaceNosotros{
+  color: #e8f5e9;
+}
+.contenidoPie{
+  margin: 1%;
+}
+.contenidoPag{
+  padding: 6% 0 6% 0;
+}
+.contenidoPagMenu{
+  padding: 6% 2% 6% 2%;
+}
+.cabecera{
+  background:#9c27b0;
+	color:#f3e5f5;
+}
+.cabeceraVuelo{
+  background:#43a047;
+	color:#fff;
+}
+.cabeceraHospedaje{
+  background:#9c27b0;
+	color:#fff;
+}
+.cabeceraAventura{
+  background:#689f38;
+	color:#fff;
+}
+.cabecera2{
+	background:#1b5e20;
+	color:#fff;
+  border-color: #1b5e20;
+}
+
+
+.ribbon2 {
+    background-color: rgba(255,152,0, 0.2);
+    margin: 68px 0 0 0px;
+    padding: 8px 5px 8px 0px;
+    position: absolute;
+    font-weight: 700;
+    box-shadow:0 5px 5px 3px rgba(0, 0, 0, 0.25);
+}
+.ribbon2 span{
+    color: #ffffff;
+    font-weight: 700;
+}
+.imgP{
+  height: 120%;
+  width: 120%;
+}
+.imgPrincipal{
+  height: 70%;
+  width: 70%;
+}
+.imgPie{
+  height: 40%;
+  width: 40%;
+
+}
+.imgPie2{
+  height: 35%;
+  width: 35%;
+
+}
+.trasparente{
+  background-color: rgba(236, 239, 241, 0.8);
+  border-top: #eceff1;
+  border-left: #eceff1;
+  border-bottom: #eceff1;
+  box-shadow:0 5px 5px 3px rgba(0, 0, 0, 0.25);
+}
+.fondoTexto{
+  background:rgba(250,250,250,.7);
+}
+article {
+	background:rgba(236, 239, 241, 0.8);
+	padding:0 15px 20px 15px;
+	margin:20px 0;
+	color:#000;
+	box-shadow:0 5px 5px 3px rgba(0, 0, 0, 0.25);
+}
+.sombra{
+  	box-shadow:0 5px 5px 3px rgba(0, 0, 0, 0.25);
+}
+.facebook:hover,
+.facebook:focus,
+.facebook:active,
+.facebook.active {
+  padding-top:6px;
+  color: #3b5998;
+}
+.twitter:hover,
+.twitter:focus,
+.twitter:active,
+.twitter.active {
+  padding-top:2px;
+  color: #5ea9dd;
+}
+.google:hover,
+.google:focus,
+.google:active,
+.google.active{
+  padding-top:4px;
+  color: #d14836;
+}
+.pinterest:hover,
+.pinterest:focus,
+.pinterest:active,
+.pinterest.active{
+  padding-top:2px;
+  color: #cb2027;
+}
+.youtube:hover,
+.youtube:focus,
+.youtube:active,
+.youtube.active{
+  padding-top:3px;
+  color: #df2425;
+}
+.instagram:hover,
+.instagram:focus,
+.instagram:active,
+.instagram.active{
+  padding-top:3px;
+  color: #125586;
+}
+
+.fondo2{
+	background:rgba(254,254,254,.3);
+}
+.vuelosFondo {
+	background:url(../images/globos.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	line-height:20px;
+}
+.hospedajeFondo {
+	background:url(../images/globos.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	line-height:20px;
+}
+.aventuraFondo {
+	background:url(../images/globosTeotihuacan.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	line-height:20px;
+}
+.nosotrosFondo {
+	background:url(../images/turismo.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	line-height:20px;
+}
+.galeriaFondo {
+	background:url(../images/vuelos.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	line-height:20px;
+}
+.recervacionFondo {
+	background:url(../images/piramide.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	line-height:20px;
+}
+.mapaFondo {
+	background:url(../images/despegue.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	line-height:20px;
+}

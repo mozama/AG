@@ -1,0 +1,44 @@
+.vuelosFondo {
+	background:url(../images/globos.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	font-family:helvetica, arial, sans-serif;
+	line-height:20px;
+}
+body {
+	background:url(../images/teotihuacan.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	font-family:helvetica, arial, sans-serif;
+	line-height:20px;
+}
+
+.fondo2{
+	background:rgba(245,245,245,.5);
+}
+
+.img1{
+	width: 100%;
+  height: 100%;
+}
+.imgF{
+	width: 100%;
+  height: 100%;
+}
+.nav-tabs>li>a {
+  background-color: #673ab7;
+  border-color: #90a4ae;
+  color:#fff;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+  color: #eceff1;
+  background-color: #428bca;
+  border: 1px solid #888888;
+}
+.nav-tabs>li>a:hover {
+  border-color: #fff;
+  background-color: #428bca;
+  color: #fff;
+}
