@@ -22,14 +22,19 @@
       <article >
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> conoce1 <small class="textoBlanco">Canastilla compartida con otros pasajeros</small></h2>
+            <h2><i class="fa fa-bookmark"></i> conoce1 <small class="textoBlanco">Xochimilco</small></h2>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
             <h4 class="text-warning">Incluye:</h4>
             <ul>
-
+            <li>Viaje de ida</li>
+            <li>La casa de Frida Kalo</li>  
+            <li>Xochimilco</li>
+            <li>Estadio Azteca</li>
+            <li>Coyoacán</li>
+            <li>Ciudad Universitaia</li>
             </ul>
             <br>
             <h4 class="text-warning text-center"><b> <br> </b></h4>
