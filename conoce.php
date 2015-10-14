@@ -35,6 +35,77 @@
               <li>Estadio Azteca.</li>
               <li>Coyoacán.</li>
               <li>Ciudad Universitaria.</li>
+            </ul>
+            <br>
+            <h4 class="text-warning text-center"><b> <br> </b></h4>
+          </div>
+          <div class="col-md-4">
+            <br><br>
+              
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-7 text-center ">
+              <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
+              <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
+          </div>
+                   <div class="col-md-4 text-center">
+            <h3 class="text-primary"> .</h3>
+          </div>
+        </div>
+      </article>
+      <br>
+      <article >
+        <div class="row cabeceraVuelo">
+          <div class="col-lg-12">
+            <h2><i class="fa fa-bookmark"></i> Grutas de Tolantongo <small class="textoBlanco"></small></h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-7">
+            <h4 class="text-warning">Incluye:</h4>
+            <ul>
+              <li>Viaje redondo.</li>
+              <li>Descenso a las grutas.</li>
+              <li>Dos días de estancia.</li>
+              <li>Zona de camping.</li>
+              <li>Lunch.</li>
+              <li>Tirolesa.</li>
+            </ul>
+            <br>
+            <h4 class="text-warning text-center"><b> <br> </b></h4>
+          </div>
+          <div class="col-md-4">
+            <br><br>
+              
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-7 text-center ">
+              <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
+              <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
+          </div>
+                   <div class="col-md-4 text-center">
+            <h3 class="text-primary"> .</h3>
+          </div>
+        </div>
+      </article>
+      <article >
+        <div class="row cabeceraVuelo">
+          <div class="col-lg-12">
+            <h2><i class="fa fa-bookmark"></i> Taxco <small class="textoBlanco"></small></h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-7">
+            <h4 class="text-warning">Incluye:</h4>
+            <ul>
+              <li>Visita a la iglesia.</li>
+              <li>Visita a los talleres artesanales de plata.</li>
+              <li>Paseo visita a la grutas.</li>
+              <li>Paseo por los ríos.</li>
+              <li>Paseo en el teleférico.</li>
+              <li>Viosita a los restaurantes.</li>
 
             </ul>
             <br>
@@ -48,173 +119,13 @@
         <div class="row">
           <div class="col-md-7 text-center ">
               <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
-        
+              <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
           </div>
                    <div class="col-md-4 text-center">
             <h3 class="text-primary"> .</h3>
           </div>
         </div>
       </article>
-      <br>
-      <article >
-        <div class="row cabeceraVuelo">
-          <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Vuelo VIP: <small class="textoBlanco">Vuelo para entregar anillo de compromiso o quieres ser mi novia</small></h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7">
-            <h4 class="text-warning">Incluye:</h4>
-            <ul>
-              <li>Coffe break en zona de despegue.</li>
-              <li>Vuelo en Globo de 45 a 60 minutos.</li>
-              <li>Desplegado de banner " TE QUIERES CASAR CONMIGO " "QUIERES SER MI NOVIA" durante el vuelo.</li>
-              <li>Botella de vino blanco espumoso para brindar durante el vuelo.</li>
-              <li>Video con camara fija (Gopro).</li>
-              <li>Certificado de vuelo por pasajero.</li>
-              <li>Ramo de rosas (una docena).</li>
-              <li>Transportacion local durante la actividad.</li>
-            </ul>
-			<br>
-            <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos.<br> </b></h4>
-          </div>
-          <div class="col-md-4">
-            <br><br><br><br><br>
-              <img class="img-responsive img-rounded img" src="images/galeria/compromiso.jpg" alt="">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7 text-center">
-              <h3 class="textoNaranja">MX $ 6,400.<sup>00</sup></h3>
-              <br>
-              <!--Carrito vip-->
-			  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-				<input type="hidden" name="cmd" value="_s-xclick">
-				<input type="hidden" name="hosted_button_id" value="7KYNSL6L8VPJ6">
-				<table>
-				<tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado VIP">Paquete Vuelo Privado VIP</td></tr><tr><td><select name="os0">
-				  <option value="Vuelo privado VIP (por pareja)">Vuelo privado VIP (por pareja) $6,400.00 MXN</option>
-				  <option value="Vuelo privado VIP de LUNES a VIERNES(por pareja)">Vuelo privado VIP de LUNES a VIERNES(por pareja) $6,000.00 MXN</option>
-				</select> </td></tr>
-				</table>
-				<input type="hidden" name="currency_code" value="MXN">
-				<input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-				<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-			  </form>
-            <!--fin del carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary">2 Pasajeros.</h3>
-          </div>
-        </div>
-      </article>
-      <br>
-      <article >
-        <div class="row cabeceraVuelo">
-          <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Vuelo Madrugador: <small class="textoBlanco">Vive la experiencia de ver el amanecer del valle de Teotihuacán</small></h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7">
-            <h4 class="text-warning">Incluye:</h4>
-            <ul>
-              <li>Coffe break en zona de despegue.</li>
-              <li>Vuelo en Globo de 45 a 60 minutos.</li>
-              <li> Banner de "FELIZ CUMPLEAÑOS O FELIZ ANIVERSARIO"</li>
-              <li>Botella de vino blanco espumoso para brindar durante el vuelo.</li>
-              <li>Certificado de vuelo por pasajero</li>
-              <li>Transportacion local durante la actividad</li>
-            </ul>
-            <br>
-            <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br></b></h4>
-          </div>
-          <div class="col-md-4">
-            <br><br>
-              <img class="img-responsive img-rounded img" src="images/amanecer.jpg" alt="">
-          </div>
-
-        <div class="row">
-          <div class="col-md-7 text-center">
-              <h3 class="textoNaranja">MX $ 6,200.<sup>00</sup></h3>
-              <!--vuelo madrugador carrito-->
-			  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-				<input type="hidden" name="cmd" value="_s-xclick">
-				<input type="hidden" name="hosted_button_id" value="BE9JNHZFTNCDG">
-				<table>
-				<tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado VIP">Paquete Vuelo Privado VIP</td></tr><tr><td><select name="os0">
-				  <option value="Vuelo madrugador (por pareja)">Vuelo madrugador (por pareja) $6,200.00 MXN</option>
-				  <option value="Vuelo madrugador de LUNES a VIERNES(por pareja)">Vuelo madrugador de LUNES a VIERNES(por pareja) $5,400.00 MXN</option>
-				</select> </td></tr>
-				</table>
-				<input type="hidden" name="currency_code" value="MXN">
-				<input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-				<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-			  </form>
-              <!-- fin de carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary">2 Pasajeros.</h3>
-          </div>
-        </div>
-      </article>
-      <br>
-      <article >
-        <div class="row cabeceraVuelo">
-          <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Vuelo Privado: <small class="textoBlanco"> Exclusivo para ti y tus acompañantes mínimo dos personas</small></h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7">
-            <h4 class="text-warning">Incluye:</h4>
-            <ul>
-              <li>Coffe break en zona de despegue.</li>
-              <li>Vuelo exclusivo para dos personas de 45 a 60 minutos.</li>
-              <li>Botella de vino blanco espumoso para brindar durante el vuelo.</li>
-              <li>Banner " FELIZ CUMPLEAÑOS O FELIZ ANIVERSARIO ".</li>
-              <li>Video ( camara Gopro ).</li>
-              <li>Pastel individual para el cumpleañero durante el desayuno.</li>
-              <li>Transportacion local durante la actividad.</li>
-            </ul>
-            <br>
-            <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br> </b></h4>
-          </div>
-          <div class="col-md-4">
-            <br>
-            <img class="img-responsive img-rounded img" src="images/cumpleaños.jpg" alt="">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7 text-center">
-              	<h3 class="textoNaranja">Sábados y Domingos: MX $ 3,000.<sup>00</sup>  </h3>
-                <h3 class="textoNaranja">Lunes a Viernes: MX $ 2,600.<sup>00</sup>  </h3>
-		          <!--carrito vuelo privado-->
-				  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-					<input type="hidden" name="cmd" value="_s-xclick">
-					<input type="hidden" name="hosted_button_id" value="G96YV3MXGYDHC">
-					<table>
-					<tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado">Paquete Vuelo Privado</td></tr><tr><td><select name="os0">
-					  <option value="Vuelo privador (por persona)">Vuelo privador (por persona) $3,000.00 MXN</option>
-					  <option value="Vuelo privado de LUNES a VIERNES (por persona)">Vuelo privado de LUNES a VIERNES (por persona) $2,600.00 MXN</option>
-					  <option value="Vuelo privado mas hospedaje (por persona)">Vuelo privado mas hospedaje (por persona) $7,400.00 MXN</option>
-					</select> </td></tr>
-					</table>
-					<input type="hidden" name="currency_code" value="MXN">
-					<input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-					<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-				  </form>
-		          <!--fin del carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary">Precio por pasajero.</h3>
-          </div>
-        </div>
-      </article>
-
     </div>  <!-- /contenido -->
   </div>
 
