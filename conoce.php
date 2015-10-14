@@ -126,6 +126,36 @@
           </div>
         </div>
       </article>
+            <article >
+        <div class="row cabeceraVuelo">
+          <div class="col-lg-12">
+            <h2><i class="fa fa-bookmark"></i> Puebla <small class="textoBlanco"></small></h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-7">
+            <h4 class="text-warning">Incluye:</h4>
+            <ul>
+
+            </ul>
+            <br>
+            <h4 class="text-warning text-center"><b> <br> </b></h4>
+          </div>
+          <div class="col-md-4">
+            <br><br>
+              
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-7 text-center ">
+              <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
+              <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
+          </div>
+                   <div class="col-md-4 text-center">
+            <h3 class="text-primary"> .</h3>
+          </div>
+        </div>
+      </article>
     </div>  <!-- /contenido -->
   </div>
 
