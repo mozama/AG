@@ -23,9 +23,9 @@
       <div class="col-lg-12">
 
           <ul id="myTab" class="nav nav-tabs nav-justified">
-              <li class="active"><a href="#tblProceso" data-toggle="tab" class="junction">Proceso</a>
+              <li class=""><a href="#tblProceso" data-toggle="tab" class="junction">Proceso</a>
               </li>
-              <li class=""><a href="#tblPre" data-toggle="tab" class="junction"> Pre-reservación </a>
+              <li class="active"><a href="#tblPre" data-toggle="tab" class="junction"> Pre-reservación </a>
               </li>
               <li class=""><a href="#tblPoliticas" data-toggle="tab" class="junction"> Politícas </a>
               </li>
@@ -36,7 +36,7 @@
           </ul>
 
           <div id="myTabContent" class="tab-content">
-              <div class="tab-pane fade active in" id="tblProceso">
+              <div class="tab-pane fade  " id="tblProceso">
                 <br>
                 <div class="row">
                   <div class="col-md-8">
@@ -66,41 +66,196 @@
 
               </div>
 
-              <div class="tab-pane fade" id="tblPre">
+              <div class="tab-pane fade active in" id="tblPre">
                 <div class="row">
                   <div class="col-md-8">
-                    <br><h4 class="text-center">Realiza tu pre-reservación aqui</h4>
+                    <br><h3 class="text-center">Realiza tu pre-reservación aqui</h3>
 
                     <form class="clearfix" accept-charset="utf-8" action="php/preRecervacion.php" method="post" >
                       <div class="control-group form-group">
                         <div class="input-group">
                           <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                          <input name="nombre" id="nombre" pattern="[a-zA-Z\sáéíóúÁÉÍÓÚñÑ]+" type="text" class="form-control grisObscuro"  placeholder="*Nombre" maxlength="50">
+                          <input name="nombre" id="nombre" pattern="[a-zA-Z\sáéíóúÁÉÍÓÚñÑ]+" type="text" class="form-control grisObscuro"  placeholder="*Nombre" maxlength="50" required>
                         </div>
                         <p class="text-danger" id="spnNombre"> </p>
                       </div>
                       <div class="control-group form-group">
                         <div class="input-group">
                           <span class="input-group-addon glyphicon"><i class="fa fa-at"></i></span>
-                          <input name="email" id="email" type="email" class="form-control grisObscuro"  placeholder="*Correo Electrónico" maxlength="50">
+                          <input name="email" id="email" type="email" class="form-control grisObscuro"  placeholder="*Correo Electrónico" maxlength="50" required>
                           <p class="text-danger" id="spnCorreo"> </p>
                         </div>
                       </div>
                       <div class="control-group form-group">
                           <div class="input-group">
                             <span class="input-group-addon"><i class="fa fa-phone"></i></span>
-                            <input  name="telefono" id="telefono" pattern="[0-9a-zA-Z\+\s]+" type="tel" class="form-control grisObscuro"  placeholder="*Número Telefónico" maxlength="20">
+                            <input  name="telefono" id="telefono" pattern="[0-9a-zA-Z\+\s]+" type="tel" class="form-control grisObscuro"  placeholder="*Número Telefónico" maxlength="20" required>
                           </div>
                           <p class="text-danger" id="spnTel"> </p>
                       </div>
+
+                      <h4 class="text-center">Datos del sevicio</h4>
+
+                      <div class="row">
+                        <div class="col-md-6">
+
+                          <div class="panel panel-default panelTrans">
+                            <div class="panel-body">
+                              <h4 class="text-center">Paquete de vuelo:</h4>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="vuelo[]" value="1">
+                                  Vuelo Compartido
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="vuelo[]" value="2">
+                                  Vuelo VIP
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="vuelo[]" value="3">
+                                  Vuelo Madrugador
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="vuelo[]" value="4">
+                                  Vuelo Privado
+                                </label>
+                              </div>
+
+                            </div>
+                          </div>
+
+
+                        </div>
+                        <div class="col-md-6">
+                          <div class="panel panel-default panelTrans">
+                            <div class="panel-body">
+                              <h4 class="text-center">Hospedaje:</h4>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="hospedaje[]" value="1">
+                                  Hotel Quinto Sol
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="hospedaje[]" value="2">
+                                  Hotel Villas Arqueológicas
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="hospedaje[]" value="3">
+                                  Hotel Ollin Teotl
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="hospedaje[]" value="4">
+                                  Posada Jade
+                                </label>
+                              </div>
+
+
+                              </div>
+                            </div>
+
+                        </div>
+
+                      </div>
+                      <div class="row">
+                        <div class="col-md-12">
+
+                        <div class="panel panel-default panelTrans">
+                          <div class="panel-body">
+                            <h4 class="text-center">Más Aventura: </h4>
+                            <div class="col-md-6">
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="1">
+                                  Ultraligero
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="2">
+                                  Temazcal
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="3">
+                                  Visita Guiada
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="4">
+                                  Tour en Cuatrimoto
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="5">
+                                  Reino Animal
+                                </label>
+                              </div>
+                            </div>
+                            <div class="col-md-6">
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="6">
+                                  Tour en bici: Ruta pulque-arqueológica
+                                </label>
+                              </div>
+
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="7">
+                                  Bicitour Teotihuacan: Bike Cueva
+                                </label>
+                              </div>
+
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="8">
+                                  Bike tour Teotihuacan: Rodada-nadada
+                                </label>
+                              </div>
+
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="9">
+                                  Bici-Campamento: Solo los fines de semana
+                                </label>
+                              </div>
+
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="aventura[]" value="10">
+                                  Biketour Teotihuacan: Ruta gastronómica
+                                </label>
+                              </div>
+
+
+                            </div>
+                          </div>
+                        </div>
+
+                      </div>
+                      </div>
+
                       <div class="control-group form-group">
                         <div class="controls">
                           <textarea id="txtMensaje" name="mensaje" rows="8" cols="100" class="form-control grisObscuro"  maxlength="500" style="resize:none" placeholder="*Notas, indicar fecha de reservación"></textarea>
                           <p class="text-danger" id="spnMensaje"> </p>
                         </div>
                       </div>
-
-                      <h3 class="text-center">Datos del sevicio</h3> 
 
                             <button class="btn btn-success btn-xlg" type="submit"><i class="fa fa-calendar-check-o"></i> Realizar pre-reservación</button>
                     </form>
@@ -189,7 +344,7 @@
 <script src="js/jquery.js"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="js/efectos.js"></script>
-<script src="js/index.js"></script>
+<script src="js/reservacion.js"></script>
 </script>
 </div>
 </body>
