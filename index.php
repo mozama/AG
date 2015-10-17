@@ -49,6 +49,7 @@
                   <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="pinyon texto3d textoNaranja textBienvenida">Certificado de regalo.</i>
                   <br><br><br>
                     <img class="img-responsive cer pull-left"  src="images/cer.jpg" alt="">
+                  <br><br><br><br><br><br><br>
                   <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
