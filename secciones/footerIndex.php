@@ -29,7 +29,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
             <a href="https://twitter.com/AventuraGlobos" target="_blank" ><i class="fa fa-twitter twitter fa-2x"></i></a>
           </div>
           <div class="col-md-2 col-sm-2 col-xs-3 text-center">
-            <a href="#" ><i class="fa google fa-google-plus fa-2x"></i></a>
+            <a href="https://plus.google.com/u/0/113152436929318049776/posts" target="_blank"><i class="fa google fa-google-plus fa-2x"></i></a>
           </div>
           <div class="col-md-2 col-sm-2 col-xs-3 text-center">
             <a href="#" ><i class="fa youtube fa-youtube-play fa-2x"></i></a>

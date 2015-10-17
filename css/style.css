@@ -1,4 +1,4 @@
-@font-face {
+texto@font-face {
   font-family: junction;
    src: url(../fonts/junction-regular.woff) format('woff');
 }
@@ -490,6 +490,10 @@ footer *{
 .cabeceraAventura{
   background:#689f38;
 	color:#fff;
+}
+.cabeceraConoce{
+  background:#9c27b0;
+  color:#fff;
 }
 .cabecera2{
 	background:#1b5e20;

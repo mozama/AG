@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <?php include ("./secciones/head.php"); ?>
-  <title>Vuelos | Aventura en Globos</title>
+  <title>Conoce México | Aventura en Globos</title>
   <meta name="description" content="">
 </head>
 
@@ -20,9 +20,9 @@
 
        <div class="col-md-10">  <!-- contenido -->
       <article >
-        <div class="row cabeceraVuelo">
+        <div class="row cabeceraConoce">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Xochimilco <small class="textoBlanco"></small></h2>
+            <h2><i class="fa fa-suitcase"></i> Xochimilco <small class="textoBlanco"></small></h2>
           </div>
         </div>
         <div class="row">
@@ -51,9 +51,9 @@
       </article>
       <br>
       <article >
-        <div class="row cabeceraVuelo">
+        <div class="row cabeceraConoce">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Grutas de Tolantongo <small class="textoBlanco"></small></h2>
+            <h2><i class="fa fa-suitcase"></i> Grutas de Tolantongo <small class="textoBlanco"></small></h2>
           </div>
         </div>
         <div class="row">
@@ -83,9 +83,9 @@
         </div>
       </article>
       <article >
-        <div class="row cabeceraVuelo">
+        <div class="row cabeceraConoce">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Taxco <small class="textoBlanco"></small></h2>
+            <h2><i class="fa fa-suitcase"></i> Taxco <small class="textoBlanco"></small></h2>
           </div>
         </div>
         <div class="row">
@@ -128,7 +128,7 @@
 <script src="./js/efectos.js"></script>
 <script src="./bootstrap/js/bootstrap.min.js"></script>
 <script charset="utf-8">
-  $('#liVuelo').addClass('colorNavActivo');
+  $('#liConoce').addClass('colorNavActivo');
 </script>
 </div>
 </body>
