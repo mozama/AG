@@ -48,6 +48,7 @@
                   <br><br><br>
                   <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="pinyon texto3d textoNaranja textBienvenida">Certificado de regalo.</i>
                   <br><br><br>
+                    <img class="img-responsive cer pull-left"  src="images/cer.jpg" alt="">
                   <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
@@ -76,7 +77,9 @@
                   <i class="fa fa-bookmark"></i>
                   Certificado de regalo
                 </h1>
-                  <article >
+                  <article>
+                  <br>
+                    <center><img class="img-responsive imgPrincipal "  src="images/cer.jpg" alt=""></center>
                   </article>
               </div>
               <div class="col-md-6 text-center">

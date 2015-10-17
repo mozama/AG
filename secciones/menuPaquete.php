@@ -26,5 +26,8 @@
     <div class="col-md-12">
       <h2 class="pinyon text-center">Certificado de regalo </h2>
     </div>
+    <div class="col-md-12">
+      <img class="img-responsive imgPrincipal pull-left"  src="images/cer.jpg" alt="">
+    </div>
   </div>
 </article>

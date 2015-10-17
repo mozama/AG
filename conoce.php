@@ -26,7 +26,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-7">
+          <div class="col-md-4">
             <h4 class="text-warning">Incluye:</h4>
             <ul>
               <li>Viaje redondo.</li>
@@ -40,18 +40,16 @@
             <h4 class="text-warning text-center"><b> <br> </b></h4>
           </div>
           <div class="col-md-4">
-            <br><br>
-              
+            <img class="img-responsive img-rounded img" src="images/frico.jpg" alt="">    
+          </div>
+          <div class="col-md-4">
+            <img class="img-responsive img-rounded img" src="images/xocu.jpg" alt="">              
           </div>
         </div>
         <div class="row">
-          <div class="col-md-7 text-center ">
+          <div class="col-md-12 text-center ">
               <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
               <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
-          </div>
-                   <div class="col-md-4 text-center">
-            <h3 class="text-primary"> .</h3>
-          </div>
         </div>
       </article>
       <br>
@@ -77,16 +75,13 @@
           </div>
           <div class="col-md-4">
             <br><br>
-              
+            <img class="img-responsive img-rounded img" src="images/grutas.jpg" alt="">   
           </div>
         </div>
         <div class="row">
-          <div class="col-md-7 text-center ">
+          <div class="col-md-12 text-center ">
               <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
               <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
-          </div>
-                   <div class="col-md-4 text-center">
-            <h3 class="text-primary"> .</h3>
           </div>
         </div>
       </article>
