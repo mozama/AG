@@ -20,7 +20,7 @@
 <div class="jumbotron principal" id="home">
              <ul id="moodular">
 
-                <li><p style="background-image: url(./images/aerostatico1.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/1.jpg);" class="fondoP"><span>
                   <br><br><br>
                   <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="">
 
@@ -47,7 +47,7 @@
                 <li><p style="background-image: url(./images/aventura3.jpg);" class="fondoP"><span>
                   <br><br><br>
                   <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="pinyon texto3d textoNaranja textBienvenida">Certificado de regalo.</i>
-                  <br><br><br>
+                  <br>
                     <img class="img-responsive cer pull-left"  src="images/cer.jpg" alt="">
                   <br><br><br><br><br><br><br>
                   <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>

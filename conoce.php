@@ -39,11 +39,8 @@
             <br>
             <h4 class="text-warning text-center"><b> <br> </b></h4>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-8 text-center">
             <img class="img-responsive img-rounded img" src="images/frico.jpg" alt="">    
-          </div>
-          <div class="col-md-4">
-            <img class="img-responsive img-rounded img" src="images/xocu.jpg" alt="">              
           </div>
         </div>
         <div class="row">
@@ -60,7 +57,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-7">
+          <div class="col-md-4">
             <h4 class="text-warning">Incluye:</h4>
             <ul>
               <li>Viaje redondo.</li>
@@ -73,7 +70,7 @@
             <br>
             <h4 class="text-warning text-center"><b> <br> </b></h4>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-8">
             <br><br>
             <img class="img-responsive img-rounded img" src="images/grutas.jpg" alt="">   
           </div>
@@ -92,7 +89,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-7">
+          <div class="col-md-4">
             <h4 class="text-warning">Incluye:</h4>
             <ul>
               <li>Visita a la iglesia.</li>
@@ -106,13 +103,13 @@
             <br>
             <h4 class="text-warning text-center"><b> <br> </b></h4>
           </div>
-          <div class="col-md-4">
-            <br><br>
-              
+          <div class="col-md-8 text-center"><br>
+            <img class="img-responsive img-rounded img" src="images/taxco.jpg" alt="">    
           </div>
+
         </div>
         <div class="row">
-          <div class="col-md-7 text-center ">
+          <div class="col-md-12 text-center ">
               <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
               <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
           </div>

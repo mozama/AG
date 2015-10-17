@@ -14,7 +14,7 @@
           <h3><i class="fa fa-bicycle"></i> Más aventura </h3>
         </a>
     </li>
-    <li id="liVuelo">
+    <li id="lixo">
         <a class="enlaceSimple texto3d" href="./conoce.php">
           <h3><i class="fa fa-plane"></i> Conoce México </h3>
         </a>

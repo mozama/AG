@@ -22,11 +22,7 @@
 
           <div class="col-md-8">
             <p class="text-justify">
-              Contamos con 5 globos aerostáticos todos con su debida matricula de aeronavegabilidad y seguros correspondientes, esto nos permite brindar vuelos hasta para 23 pasajeros al mismo tiempo garantizando como siempre el mejor servicio y atención hacia todas aquellas personas que nos visitan. Nuestros vuelos son de mínimo <strong class="junction"> 45 minutos </strong> pero en la mayoría de las veces llegan hasta <strong class="junction"> una hora </strong>de vuelo libre.
-            </p>
-            <br>
-            <p>
-              El 90% de nuestros paseos en globo sobrevolamos la zona de <strong class="junction"> monumentos arqueológicos de Teotihuacán </strong> ya que antes de iniciar actividades nuestros pilotos hacen pruebas de viento por lo que están en tiempo de elegir el mejor lugar para el despegue y llegar lo más cerca de las pirámides.
+              Somos una empresa dedicada a generar experiencias en globo Contamos con pilotos certificados por la DGAC ( Dirección General de Aeronáutica Civil ) 17 años de experiencia nos avalan.
             </p>
           </div>
           <div class="col-md-4">
