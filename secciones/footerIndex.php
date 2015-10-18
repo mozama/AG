@@ -37,10 +37,11 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           </div>
         </div>
       </div>
-
       <div class="col-md-2 col-sm-12 col-xs-12" class="text-center">
         <img class="img-responsive imgPie" src="./images/moderniza0.jpg"/>
       </div>
-
+  </div>
+  <div class="col-md-12 text-center">
+    &copy; 2015 Aventura en Globo | Todos los derechos reservados. | Diseñado por:<a href="http://www.mozama.esy.es/" class="enlaceN"> MOZAMA</a>
   </div>
 </footer>
