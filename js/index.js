@@ -78,6 +78,9 @@ function comprobarMensaje(e){
     document.getElementById('spnMensaje').innerHTML = '<i class="fa fa-exclamation-circle"></i> Solo se aceptan caracteres alfanuméricos.';
   }
 }
+function enviado(){
+  alert("mensaje enviado");
+}
 
 //btnEnviar.on('click', enviar);
 $(document).on('ready', function(){
