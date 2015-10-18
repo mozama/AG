@@ -39,10 +39,10 @@
             <strong><i class="fa fa-envelope"></i></strong> <a href="mailto:ventas@aventuraenglobos.com">ventas@aventuraenglobos.com</a>
           </div>
         </div>
-        <br><br>
-
+        <br>
         <div class="row">
           <div class="col-md-12">
+            <h4 class="text-center">Busca los señalamientos:</h4>
             <img class="img-responsive img-rounded"  src="images/letrero.jpg" alt="">
           </div>
         </div>

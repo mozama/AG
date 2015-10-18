@@ -1,4 +1,4 @@
-texto@font-face {
+@font-face{
   font-family: junction;
    src: url(../fonts/junction-regular.woff) format('woff');
 }
@@ -278,7 +278,7 @@ img{
   margin: 0;
 }
 section.servicios .dmaskS1{
-  padding: 15% 0 15% 0;
+  padding: 13% 0 13% 0;
   background: rgba(3,155,229,.5);
 }
 section.servicios .dmaskS2{
@@ -434,8 +434,7 @@ footer *{
 .enlaceSimpleR,
 .enlaceSimpleR:visited,
 .enlaceSimpleR:link{
-  /*color:#e65100;*/
-  color:#fff;
+  color:#263238;
 }
 .enlaceSimpleR:active,
 .enlaceSimpleR:hover{
@@ -503,7 +502,7 @@ footer *{
 
 
 .ribbon2 {
-    background-color: rgba(255,152,0, 0.2);
+    background-color: rgba(255,152,0, 0.25);
     margin: 68px 0 0 0px;
     padding: 8px 5px 8px 0px;
     position: absolute;
@@ -523,8 +522,14 @@ footer *{
   width: 70%;
 }
 .cer{
-  height: 50%;
-  width: 50%;
+  height: 17%;
+  width: 17%;
+  box-shadow:0 5px 5px 3px rgba(0, 0, 0, 0.25);
+}
+.cer2{
+  height: 35%;
+  width: 35%;
+  box-shadow:0 5px 5px 3px rgba(0, 0, 0, 0.25);
 }
 .imgPie{
   height: 40%;

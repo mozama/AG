@@ -11,7 +11,6 @@
     <link href="./css/font-awesome.min.css" rel="stylesheet">
     <link href="./css/style.css" rel="stylesheet">
     <link rel="icon" type="./image/png" href="./images/favicon.png"/>
-<!-- flotar -->
 </head>
 
 <body data-spy="scroll" data-target="#barraNav" >
@@ -20,7 +19,7 @@
 <div class="jumbotron principal" id="home">
              <ul id="moodular">
 
-                <li><p style="background-image: url(./images/1.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
                   <br><br><br>
                   <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="">
 
@@ -33,7 +32,7 @@
                   <i class="fa fa-cc-paypal fa-3x textMC"></i>
                 </span>  </p></li>
 
-                <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/aventura3.jpg);" class="fondoP"><span>
                   <br><br><br>
                   <i class="pinyon texto3d textoAmarillo textBienvenida">Vuela sobre el valle de Teotihuacán, <br> vive la emoción.</i>
                   <br><br><br>
@@ -44,9 +43,9 @@
                   <i class="fa fa-cc-paypal fa-3x textMC"></i>
                 </span></p></li>
 
-                <li><p style="background-image: url(./images/aventura3.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/calzada.jpg);" class="fondoP"><span>
                   <br><br><br>
-                  <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="pinyon texto3d textoNaranja textBienvenida">Certificado de regalo.</i>
+                  <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="pinyon texto3d textoAmarillo textBienvenida">Certificado de regalo.</i>
                   <br>
                     <img class="img-responsive cer pull-left"  src="images/cer.jpg" alt="">
                   <br><br><br><br><br><br><br>
@@ -72,20 +71,15 @@
 
             <div class="row">
               <div class="col-md-6 text-center">
-
-                  <br>
                 <h1 class="pinyon text-center textoAmarillo texto3d">
                   <i class="fa fa-bookmark"></i>
                   Certificado de regalo
                 </h1>
-                  <article>
-                  <br>
-                    <center><img class="img-responsive imgPrincipal "  src="images/cer.jpg" alt=""></center>
-                  </article>
+                    <center><img class="img-responsive imgPrincipal cer2"  src="images/cer.jpg" alt=""></center>
               </div>
               <div class="col-md-6 text-center">
                 <br><br>
-                  <a class="btn btn-primary btn-md" href="./vuelos.php">Ver más <i class="fa fa-chevron-right"></i></a>
+                  <a class="btn btn-success btn-md" href="./vuelos.php">Ver más <i class="fa fa-chevron-right"></i></a>
               </div>
             </div>
 
@@ -103,7 +97,7 @@
             <h3 class="texto3d textoBlanco">Completa tu paquete con hospedaje, ocupación doble.</h3>
           </a>
           <br>
-          <a class="btn btn-primary btn-md" href="./hospedaje.php">Ver más <i class="fa fa-chevron-right"></i></a>
+          <a class="btn btn-success btn-md" href="./hospedaje.php">Ver más <i class="fa fa-chevron-right"></i></a>
         </div>
       </div>
     </div>
@@ -118,7 +112,7 @@
             <h3 class="texto3d textoBlanco">Paseo en bici, cuatrimotos, visitas guiadas.</h3>
           </a>
           <br>
-          <a class="btn btn-primary btn-md" href="./masAventura.php">Ver más <i class="fa fa-chevron-right"></i></a>
+          <a class="btn btn-success btn-md" href="./masAventura.php">Ver más <i class="fa fa-chevron-right"></i></a>
         </div>
       </div>
     </div>
@@ -127,7 +121,7 @@
 
 <section class="about" id="features">
     <div class="dmask">
-    <div class="container">     <!-- SOBRE NOSOTROS***************************** -->
+    <div class="container">
       <div class="row">
         <div class="col-md-12 text-center">
           <a href="./nosotros.php" class="enlaceNosotros texto3d">
@@ -137,12 +131,12 @@
             </h4>
           </a>
           <br>
-          <a class="btn btn-primary btn-md" href="./nosotros.php">Ver más <i class="fa fa-chevron-right"></i></a>
+          <a class="btn btn-success btn-md" href="./nosotros.php">Ver más <i class="fa fa-chevron-right"></i></a>
         </div>
       </div>
       </div>
     </div>
-</section>  <!-- SOBRE NOSOTROS *************************** -->
+</section>
 
 <section class="contact" id="contact">
     <div class="container">
@@ -200,8 +194,6 @@
                             <i class="fa fa-mobile"></i></strong> 55 51 98 63 99
                             <br><br>
                             <i class="icon-envelope"></i> <strong><i class="fa fa-envelope"></i></strong> <a href="mailto:ventas@aventuraenglobos.com">ventas@aventuraenglobos.com</a>
-
-
                     </div>
                   </div>
                   </article>
@@ -221,8 +213,6 @@
                   </article>
                 </div>
               </div>
-
-
             </div>
 
         </div>
@@ -238,9 +228,5 @@
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="js/moodular.js"></script>
 <script src="js/index.js"></script> <!-- async -->
-<script charset="utf-8">
-
-
-</script>
 </body>
 </html>
