@@ -1,7 +1,13 @@
 <!html>
   <head>
-    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="./image/png" href="../images/favicon.png"/>
+    <title>Enviar Mensaje Contacto</title>
   </head>
+  <body style="background-image: url(../images/aerostatico2.jpg); background-size:cover; background-repeat:no-repeat;">
+
+  </body>
 </html>
 
 <?php
@@ -36,23 +42,23 @@
   $mail->Body    = "
   <table border='0' cellspacing='3' cellpadding='2'>
     <tr>
-      <td width='30%' align='left'><strong>Nombre:</strong></td>
+      <td width='30%' align='right'><strong>Nombre:</strong></td>
       <td width='80%' align='left'>".$nombre." </td>
       </tr>
       <tr>
-        <td align='left'><strong>E-mail:</strong></td>
+        <td align='right'><strong>E-mail:</strong></td>
         <td align='left'>".$email."</td>
       </tr>
       <tr>
-        <td width='30%' align='left'><strong>Teléfono:</strong></td>
+        <td width='30%' align='right'><strong>Teléfono:</strong></td>
         <td width='70%' align='left'>".$telefono." </td>
       </tr>
       <tr>
-        <td align='left'><strong>Comentario:</strong></td>
+        <td align='right'><strong>Comentario:</strong></td>
         <td align='left'>".$mensaje." </td>
       </tr>
       <tr>
-        <td align='left'><strong>Fecha:</strong></td>
+        <td align='right'><strong>Fecha:</strong></td>
         <td align='left'>".$condiciones." </td>
       </tr>
     </table>";
@@ -68,8 +74,14 @@
   }
 
   if(!$exito){
-    echo "Problemas enviando correo electrónico";
+    echo '<script language="javascript" type="text/javascript">
+            alert("No se pudo realizar el envio del mensaje, intentalo más tarde" );
+            document.location.href="../index.php";
+            </script>';
   }
   else{
-    echo "Mensaje enviado correctamente";
-  }
+    echo '<script language="javascript" type="text/javascript">
+            alert("Mensaje enviado correctamente, gracias por ponerse en contacto con nosotros." );
+            document.location.href="../index.php";
+            </script>';
+    }

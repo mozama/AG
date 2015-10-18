@@ -1,7 +1,13 @@
 <!html>
   <head>
-    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="./image/png" href="../images/favicon.png"/>
+    <title>Enviar Mensaje Contacto</title>
   </head>
+  <body style="background-image: url(../images/piramide.jpg); background-size:cover; background-repeat:no-repeat;">
+
+  </body>
 </html>
 
 <?php
@@ -145,8 +151,14 @@
   }
 
   if(!$exito){
-    echo "Problemas enviando correo electrónico";
+    echo '<script language="javascript" type="text/javascript">
+            alert("No se pudo realizar la pre-reservación, intentalo más tarde" );
+            document.location.href="../index.php";
+            </script>';
   }
   else{
-    echo "Mensaje enviado correctamente";
+    echo '<script language="javascript" type="text/javascript">
+            alert("Se envió la pre-reservación correctamente, pronto nos pondremos en contacto con usted." );
+            document.location.href="../index.php";
+            </script>';
   }
