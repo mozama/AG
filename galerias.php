@@ -133,20 +133,19 @@
       </div>
   </article>
 <br><br>
-  <article >
+  <!--  <article >
     <div class="row cabecera">
       <div class="col-lg-12">
         <h2><i class="fa fa-film"></i> Videos</h2>
       </div>
     </div>
     <br>
-    <!--    <hr> -->
       <div class="row">
         <div class="col-md-12">
           <h1>Enlace a video 1</h1>
         </div>
       </div>
-  </article>
+  </article> -->
 </div>
 </div>
 

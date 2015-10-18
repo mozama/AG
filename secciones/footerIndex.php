@@ -14,9 +14,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
     <div class="container">
     <div class="row">
       <div class="col-md-3 col-sm-12 text-center">
-        <!--  <a  href="../index.html"> -->
             <img class="img-responsive imgPie" src="./images/logo2.png">
-        <!-- </a>  -->
       </div>
 
       <div class="col-md-6 col-sm-12 col-xs-12">

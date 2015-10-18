@@ -89,7 +89,6 @@ html {
 .navbar-default {
   border-color: transparent;
   box-shadow:0 0 3px 3px rgba(38,50,56, 0.25); /*efecto de sombra para 3d*/
-
   /*background: -webkit-linear-gradient(-60deg, #0288d1, #01579b);
   background: -o-linear-gradient(135deg, #0288d1, #01579b);
   background: -moz-linear-gradient(135deg, #0288d1, #01579b);*/

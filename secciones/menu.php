@@ -11,7 +11,6 @@
           <img id="imgI" class="img-responsive" src="images/globos_01.jpg">
         </a>
       </div>
-
     </div>
 
     <div class="collapse navbar-collapse navbar-ex1-collapse text-right">
