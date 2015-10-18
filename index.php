@@ -123,7 +123,7 @@
     <div class="dmask">
     <div class="container">
       <div class="row">
-        <div class="col-md-12 text-center">
+        <div class="col-md-6 text-center">
           <a href="./nosotros.php" class="enlaceNosotros texto3d">
             <h1>Sobre Nosotros</h1>
             <br>
@@ -133,6 +133,16 @@
           <br>
           <a class="btn btn-success btn-md" href="./nosotros.php">Ver más <i class="fa fa-chevron-right"></i></a>
         </div>
+         <div class="col-md-6 text-center">
+          <div class="fb-page" data-href="https://www.facebook.com/Aventura-En-Globos-1021078371265806/?ref=hl" data-width="400" data-height="420" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
+           <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
       </div>
       </div>
     </div>
