@@ -252,7 +252,7 @@
 
                       <div class="control-group form-group">
                         <div class="controls">
-                          <textarea id="txtMensaje" name="mensaje" rows="8" cols="100" class="form-control grisObscuro"  maxlength="500" style="resize:none" placeholder="*Notas, indicar fecha de reservación"></textarea>
+                          <textarea id="txtMensaje" name="mensaje" rows="8" cols="100" class="form-control grisObscuro"  maxlength="500" style="resize:none" placeholder="*Notas, indicar fecha de reservación, especificaciones o dudas"></textarea>
                           <p class="text-danger" id="spnMensaje"> </p>
                         </div>
                       </div>

@@ -9,6 +9,6 @@
 	Doctype: HTML5
 	Standards: HTML5, CSS3, JavaScript
 	Images: Aventura en Globos S. DE R.L. DE C.V.
-  Components: Bootstrap, BookBlock, Font Awesome, jQuery, Moodular, Modernizr.
-	IDE: Atom, Notepad++, Sublime Text,.
-	Software: Gimp, Corel Draw.
+  Components: Bootstrap, BookBlock, Font Awesome, jQuery, Moodular, Modernizr, PHPMailer.
+	IDE: Atom, Sublime Text, Notepad++.
+	Software: Gimp, FileZilla, Corel Draw.

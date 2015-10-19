@@ -22,16 +22,14 @@
   $vuelo = $_POST['vuelo'];
 
   require 'PHPMailerAutoload.php';
-/*  require 'codigoCondiciones.php';
-  $condiciones = codigoC();*/
 
   $mail = new PHPMailer;
 
   $mail->isSMTP();
   $mail->Host = 'smtp.gmail.com';
   $mail->SMTPAuth = true;
-  $mail->Username = 'pruebasMoza@gmail.com';
-  $mail->Password = 'pruebasM';
+  $mail->Username = 'sitiowebaventuraglobos@gmail.com';
+  $mail->Password = 'agSitio2015';
   $mail->SMTPSecure = 'tls';
   $mail->Port = 587;
 
@@ -43,20 +41,24 @@
   $mail->CharSet = 'UTF-8';
 
   $vuelos="";
-      if (in_array("1", $vuelo)) {
-        $vuelos=$vuelos." Vuelo Compartido -";
-      }
-      if (in_array("2", $vuelo)) {
-          $vuelos=$vuelos." Vuelo VIP -";
-      }
-      if (in_array("3", $vuelo)) {
-        $vuelos=$vuelos." Vuelo Madrugador -";
-      }
-      if (in_array("4", $vuelo)) {
-        $vuelos=$vuelos." Vuelo Privado ";
-      }
+  if (isset($vuelo)) {
+    if (in_array("1", $vuelo)) {
+      $vuelos=$vuelos." Vuelo Compartido -";
+    }
+    if (in_array("2", $vuelo)) {
+        $vuelos=$vuelos." Vuelo VIP -";
+    }
+    if (in_array("3", $vuelo)) {
+      $vuelos=$vuelos." Vuelo Madrugador -";
+    }
+    if (in_array("4", $vuelo)) {
+      $vuelos=$vuelos." Vuelo Privado ";
+    }
+
+  }
 
   $hospedajes="";
+  if (isset($vuelo)) {
     if (in_array("1", $hospedaje)) {
       $hospedajes=$hospedajes." Hotel Quinto Sol -";
     }
@@ -69,38 +71,44 @@
     if (in_array("4", $hospedaje)) {
       $hospedajes=$hospedajes." Posada Jade";
     }
+  }
 
-    $aventuras="";
-        if (in_array("1", $aventura)) {
-          $aventuras=$aventuras." Ultraligero <br>";
-        }
-        if (in_array("2", $aventura)) {
-            $aventuras=$aventuras." Temazcal <br>";
-        }
-        if (in_array("3", $aventura)) {
-          $aventuras=$aventuras." Visita Guiada <br>";
-        }
-        if (in_array("4", $aventura)) {
-          $aventuras=$aventuras." Tour en Cuatrimoto <br>";
-        }
-        if (in_array("5", $aventura)) {
-          $aventuras=$aventuras." Reino Animal <br>";
-        }
-        if (in_array("6", $aventura)) {
-          $aventuras=$aventuras." Tour en bici: Ruta pulque-arqueológica <br>";
-        }
-        if (in_array("7", $aventura)) {
-          $aventuras=$aventuras." Bicitour Teotihuacan: Bike Cueva <br>";
-        }
-        if (in_array("8", $aventura)) {
-          $aventuras=$aventuras." Bike tour Teotihuacan: Rodada-nadada <br>";
-        }
-        if (in_array("9", $aventura)) {
-          $aventuras=$aventuras." Bici-Campamento <br>";
-        }
-        if (in_array("10", $aventura)) {
-          $aventuras=$aventuras." Biketour Teotihuacan: Ruta gastronómica <br>";
-        }
+  $aventuras="";
+    if (isset($vuelo)) {
+      if (in_array("1", $aventura)) {
+        $aventuras=$aventuras." Ultraligero <br>";
+      }
+      if (in_array("2", $aventura)) {
+          $aventuras=$aventuras." Temazcal <br>";
+      }
+      if (in_array("3", $aventura)) {
+        $aventuras=$aventuras." Visita Guiada <br>";
+      }
+      if (in_array("4", $aventura)) {
+        $aventuras=$aventuras." Tour en Cuatrimoto <br>";
+      }
+      if (in_array("5", $aventura)) {
+        $aventuras=$aventuras." Reino Animal <br>";
+      }
+      if (in_array("6", $aventura)) {
+        $aventuras=$aventuras." Tour en bici: Ruta pulque-arqueológica <br>";
+      }
+      if (in_array("7", $aventura)) {
+        $aventuras=$aventuras." Bicitour Teotihuacan: Bike Cueva <br>";
+      }
+      if (in_array("8", $aventura)) {
+        $aventuras=$aventuras." Bike tour Teotihuacan: Rodada-nadada <br>";
+      }
+      if (in_array("9", $aventura)) {
+        $aventuras=$aventuras." Bici-Campamento <br>";
+      }
+      if (in_array("10", $aventura)) {
+        $aventuras=$aventuras." Biketour Teotihuacan: Ruta gastronómica <br>";
+      }
+
+    }
+
+
 
   $mail->Subject = 'PRE-RECERVACIÓN desde sitio web';
   $mail->Body    = "

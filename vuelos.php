@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <?php include ("./secciones/head.php"); ?>
-  <title>Vuelos | Aventura en Globos</title>
+  <title>Vuelos | Aventura en Globos</title>  
   <meta name="description" content="">
 </head>
 

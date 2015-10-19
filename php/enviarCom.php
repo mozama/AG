@@ -26,8 +26,8 @@
   $mail->isSMTP();
   $mail->Host = 'smtp.gmail.com';
   $mail->SMTPAuth = true;
-  $mail->Username = 'pruebasMoza@gmail.com';
-  $mail->Password = 'pruebasM';
+  $mail->Username = 'sitiowebaventuraglobos@gmail.com';
+  $mail->Password = 'agSitio2015';
   $mail->SMTPSecure = 'tls';
   $mail->Port = 587;
 
