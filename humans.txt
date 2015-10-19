@@ -1,0 +1,14 @@
+/* TEAM */
+	Web Developers, Web designer: MOZAMA(Reyna Hernández, Edgar Santiago, Rene Hernández)
+	Site: www.mozama.esy.es
+	From: Valle de Teotihuacan, Estado de México, México.
+
+/* SITE */
+	Last update: 2015/10/17
+	Language: Español
+	Doctype: HTML5
+	Standards: HTML5, CSS3, JavaScript
+	Images: Aventura en Globos S. DE R.L. DE C.V.
+  Components: Bootstrap, BookBlock, Font Awesome, jQuery, Moodular, Modernizr.
+	IDE: Atom, Notepad++, Sublime Text,.
+	Software: Gimp, Corel Draw.

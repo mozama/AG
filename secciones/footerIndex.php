@@ -41,7 +41,12 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
         <img class="img-responsive imgPie" src="./images/moderniza0.jpg"/>
       </div>
   </div>
-  <div class="col-md-12 text-center">
-    &copy; 2015 Aventura en Globo | Todos los derechos reservados. | Diseñado por:<a href="http://www.mozama.esy.es/" class="enlaceN"> MOZAMA</a>
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <p class="textoGris">
+        &copy; 2015 Aventura en Globo | Diseño:<a href="http://www.mozama.esy.es/" class="enlaceSimple" target=blanck> MOZAMA</a>
+      </p>
+    </div>
   </div>
+
 </footer>

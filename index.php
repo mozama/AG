@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords"content="globo aerostático, globo teotihuacan, flotar, flotar méxico, vuelo, viaje globo teotihuacan, globo aerostático méxico">
     <meta name="description" content="Vive la emoción de volar en globo aerostático sobre el valle de Teotihuacan, México.">
-    <meta name="author" content="MOZAMA">
+    <link rel="author" href="humans.txt" />
     <title>Aventura en Globos</title>
     <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/font-awesome.min.css" rel="stylesheet">
@@ -127,23 +127,25 @@
           <a href="./nosotros.php" class="enlaceNosotros texto3d">
             <h1>Sobre Nosotros</h1>
             <br>
-            <h4 class="interlineadoA"><strong class="juntion">Aventura en Globos</strong> nace en el 2004  con la finalidad de reunir a los mejores pilotos de nuestro país, los cuales con sus más de 20 años de experiencia volando en todo México nos permiten ofrecer un servicio turístico y de publicidad de vuelo en globo aerostático más exclusivo, más personalizado y sobretodo más seguro para que nuestros visitantes se lleven la mejor experiencia de su vida.
+            <h4 class="interlineadoA text-justify"><strong class="juntion">Aventura en Globos</strong> nace en el 2004  con la finalidad de reunir a los mejores pilotos de nuestro país, los cuales con sus más de 20 años de experiencia volando en todo México nos permiten ofrecer un servicio turístico y de publicidad de vuelo en globo aerostático más exclusivo, más personalizado y sobretodo más seguro para que nuestros visitantes se lleven la mejor experiencia de su vida.
             </h4>
           </a>
           <br>
           <a class="btn btn-success btn-md" href="./nosotros.php">Ver más <i class="fa fa-chevron-right"></i></a>
         </div>
          <div class="col-md-6 text-center">
-          <div class="fb-page" data-href="https://www.facebook.com/Aventura-En-Globos-1021078371265806/?ref=hl" data-width="400" data-height="420" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
+
+          <div class="fb-page" data-href="https://www.facebook.com/Aventura-En-Globos-1021078371265806/?ref=hl" data-width="400" data-height="450" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
            <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-      </div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5";
+              fjs.parentNode.insertBefore(js, fjs);
+              }(document, 'script', 'facebook-jssdk'));</script>
+
+          </div>
       </div>
     </div>
 </section>
