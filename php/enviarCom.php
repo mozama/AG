@@ -33,7 +33,7 @@
 
   $mail->From = $email;
   $mail->FromName = $nombre;
-  $mail->addAddress('sili_santiago@hotmail.com', 'Contacto AG');
+  $mail->addAddress('ventas@aventuraenglobos.com', 'Contacto AG');
 
   $mail->isHTML(true);
   $mail->CharSet = 'UTF-8';

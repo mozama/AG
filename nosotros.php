@@ -26,7 +26,7 @@
             </p>
           </div>
           <div class="col-md-4">
-            <img class="img-responsive img-rounded imgP" src="images/Aventura.jpg" alt="" />
+            <img class="img-responsive img-rounded imgP" src="images/aventura.jpg" alt="" />
           </div>
         </div>
       </article>

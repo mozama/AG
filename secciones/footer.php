@@ -48,6 +48,6 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
       </div>
   </div>
       <div class="col-md-12 text-center">
-        &copy; 2015 Aventura en Globo | Todos los derechos reservados | Diseñado por:<a href="http://www.mozama.esy.es/" class="enlaceN"> MOZAMA</a>
+        &copy; 2015 Aventura en Globo | Diseño:<a href="http://www.mozama.esy.es/" class="enlaceSimple" target=blanck> MOZAMA</a>
       </div>
 </footer>

@@ -20,7 +20,6 @@
   $aventura = $_POST['aventura'];
   $hospedaje = $_POST['hospedaje'];
   $vuelo = $_POST['vuelo'];
-
   require 'PHPMailerAutoload.php';
 
   $mail = new PHPMailer;
@@ -35,7 +34,7 @@
 
   $mail->From = $email;
   $mail->FromName = $nombre;
-  $mail->addAddress('sili_santiago@hotmail.com', 'Contacto AG');
+  $mail->addAddress('ventas@aventuraenglobos.com', 'Contacto AG');
 
   $mail->isHTML(true);
   $mail->CharSet = 'UTF-8';
