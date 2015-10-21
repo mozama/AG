@@ -128,7 +128,7 @@
             <h1>Sobre Nosotros</h1>
             <br>
             <!--  <h4 class="interlineadoA text-justify"><strong class="juntion">Aventura en Globos</strong> nace en el 2004  con la finalidad de reunir a los mejores pilotos de nuestro país, los cuales con sus más de 20 años de experiencia volando en todo México nos permiten ofrecer un servicio turístico y de publicidad de vuelo en globo aerostático más exclusivo, más personalizado y sobretodo más seguro para que nuestros visitantes se lleven la mejor experiencia de su vida. -->
-            <h4 class="interlineadoA text-justify"><strong class="juntion">
+            <h4 class="interlineadoA text-justify"><strong class="juntion">Aventura en Globos</strong> nace en el 2004 con la finalidad de reunir a los mejores pilotos de nuestro país y ellos a su vez con más de 20 años de experiencia volando sobre todo México nos permiten ofrecer un servicio turístico y de publicidad en vuelo de globo aerostático exclusivo,  personalizado y sobretodo más seguro, para que nuestros visitantes se lleven la mejor experiencia de su vida.
 
             </h4>
           </a>
