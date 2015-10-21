@@ -4,10 +4,10 @@
 	From: Valle de Teotihuacan, Estado de México, México.
 
 /* SITE */
-	Last update: 2015/10/17
+	Last update: 20/10/2015
 	Language: Español
 	Doctype: HTML5
-	Standards: HTML5, CSS3, JavaScript
+	Standards: HTML5, CSS3
 	Images: Aventura en Globos S. DE R.L. DE C.V.
   Components: Bootstrap, BookBlock, Font Awesome, jQuery, Moodular, Modernizr, PHPMailer.
 	IDE: Atom, Sublime Text, Notepad++.

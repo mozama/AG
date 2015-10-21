@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <?php include ("./secciones/head.php"); ?>
-  <title>Vuelos | Aventura en Globos</title>  
+  <title>Vuelos | Aventura en Globos</title>
   <meta name="description" content="">
 </head>
 
@@ -212,10 +212,10 @@
 					<input type="hidden" name="cmd" value="_s-xclick">
 					<input type="hidden" name="hosted_button_id" value="G96YV3MXGYDHC">
 					<table>
-					<tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado">Paquete Vuelo Privado</td></tr><tr><td><select name="os0">
-					  <option value="Vuelo privador (por persona)">Vuelo privador (por persona) $3,000.00 MXN</option>
+					<tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado"> <!--  Paquete Vuelo Privado --></td></tr><tr><td><select name="os0">
+					  <option value="Vuelo privador (por persona)">Vuelo privado (por persona) $3,000.00 MXN</option>
 					  <option value="Vuelo privado de LUNES a VIERNES (por persona)">Vuelo privado de LUNES a VIERNES (por persona) $2,600.00 MXN</option>
-					  <option value="Vuelo privado mas hospedaje (por persona)">Vuelo privado mas hospedaje (por persona) $7,400.00 MXN</option>
+					  <option value="Vuelo privado mas hospedaje (por persona)">Vuelo privado más hospedaje (por persona) $7,400.00 MXN</option>
 					</select> </td></tr>
 					</table>
 					<input type="hidden" name="currency_code" value="MXN">

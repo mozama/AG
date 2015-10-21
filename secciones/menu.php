@@ -31,7 +31,7 @@
           <a href="galerias.php">Galerías</a>
         </li>
         <li id="navRecervacion">
-          <a href="recervacion.php">Recervación</a>
+          <a href="recervacion.php">Reservación</a>
         </li>
         <li>
           <img id="imgI" class="img-responsive" src="images/banderag.gif">
@@ -46,7 +46,7 @@
          <div class="ribbon2" style="right: 0"> <!-- a la derecha con margen de 0 -->
              <a href="recervacion.php" class="enlaceSimpleR">
                <h4 class="txtRibbon" style="margin: 0;padding: 5px 10px ">
-                 <strong>Recervación</strong>
+                 <strong>Reservación</strong>
                  <br>
                  <i class="fa fa-mobile"></i></strong> 55 51 98 63 99 <br><br>
                  <a href="index.php#contact" class="enlaceSimpleR">Contacto</a>

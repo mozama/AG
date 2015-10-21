@@ -22,7 +22,7 @@
 
           <div class="col-md-8">
             <p class="text-justify">
-              Somos una empresa dedicada a generar experiencias en globo Contamos con pilotos certificados por la DGAC ( Dirección General de Aeronáutica Civil ) 17 años de experiencia nos avalan.
+              Somos una empresa dedicada a generar experiencias en globo, contamos con pilotos certificados por la DGAC ( Dirección General de Aeronáutica Civil ), 17 años de experiencia nos avalan.
             </p>
           </div>
           <div class="col-md-4">

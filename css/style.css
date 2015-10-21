@@ -294,7 +294,7 @@ section.servicios .dmaskS3{
 section.about{
   background: url(../images/arqueologica.jpg);
   position: relative;
-  min-height: 400px;
+  min-height: 600px;
   background-repeat:no-repeat;
   background-attachment: fixed;
   background-size: cover;
