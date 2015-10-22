@@ -34,7 +34,7 @@
 
   $mail->From = $email;
   $mail->FromName = $nombre;
-  $mail->addAddress('ventas@aventuraenglobos.com', 'Contacto AG');
+  $mail->addAddress('aventuraenglobos@hotmail.com', 'Contacto AG');
 
   $mail->isHTML(true);
   $mail->CharSet = 'UTF-8';
