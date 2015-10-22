@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords"content="vuelos en globo aerostático, globo aerostático, vuelo en globo teotihuacán, paseo en globo teotihuacán, viaje en globo aerostático, vuelos en globo méxico, vuelos en globo aerostático méxico, vuelo sobre pirámides de Teotihuacán, flotar en globo, visita teotihuacán, actividades turísticas, paseo en bici teotihuacan, ultraligero, temazcal, globos, ballons méxico, zona arqueológica">
+    <meta name="keywords"content="vuelos en globo aerostático, globo aerostático, vuelo en globo teotihuacán, paseo en globo teotihuacán, viaje en globo teotihuacan, viaje en globo aerostático, vuelos en globo méxico, vuelos en globo aerostático méxico, vuelo sobre pirámides de Teotihuacán, flotar en globo, visita teotihuacán, actividades turísticas, paseo en bici teotihuacan, ultraligero, temazcal, globos, ballons méxico, zona arqueológica">
     <meta name="description" content="Vive la emoción de volar en globo aerostático sobre el valle de Teotihuacan, México.">
     <link rel="author" href="www.aventuraenglobos.com/humans.txt" />
     <title>Aventura en Globos</title>
@@ -122,8 +122,10 @@
 <section class="about" id="features">
     <div class="dmask">
     <div class="container">
+
       <div class="row">
-        <div class="col-md-6 text-center">
+
+        <div class="col-md-6 col-xs-12 text-center">
           <a href="./nosotros.php" class="enlaceNosotros texto3d">
             <h1>Sobre Nosotros</h1>
             <br>
@@ -137,18 +139,12 @@
           <br><br>
         </div>
 
-         <div class="col-md-6 text-center">
+        <div class="col-md-6 col-xs-12 text-center">
           <div class="fb-page" data-href="https://www.facebook.com/Aventura-En-Globos-1021078371265806/?ref=hl" data-width="400" data-height="450" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
-           <div id="fb-root"></div>
-            <script>(function(d, s, id) {
-              var js, fjs = d.getElementsByTagName(s)[0];
-              if (d.getElementById(id)) return;
-              js = d.createElement(s); js.id = id;
-              js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5";
-              fjs.parentNode.insertBefore(js, fjs);
-              }(document, 'script', 'facebook-jssdk'));</script>
+          <div id="fb-root"></div>
+         </div>
 
-          </div>
+
       </div>
     </div>
     </div>
@@ -239,10 +235,18 @@
 </section>
 <?php include ("./secciones/footerIndex.php"); ?>
 
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
 <script src="js/jquery.js"></script>
 <script src="js/efectos.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="js/moodular.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="js/index.js"></script> <!-- async -->
 </body>
 </html>

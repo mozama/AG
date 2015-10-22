@@ -294,7 +294,7 @@ section.servicios .dmaskS3{
 section.about{
   background: url(../images/arqueologica.jpg);
   position: relative;
-  min-height: 600px;
+  min-height: 900px;
   background-repeat:no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -310,7 +310,7 @@ section.contact{
 	background-size:cover;
 	background-attachment: fixed;
   margin: 0;
-  padding: 15% 0 15% 0;
+  padding: 13% 0 13% 0;
 }
 a.list-group-item .list-group-item-heading{
     margin-bottom: 10px;
@@ -471,7 +471,7 @@ footer *{
   margin: 1%;
 }
 .contenidoPag{
-  padding: 6% 0 6% 0;
+  padding: 8% 4% 6% 4%;
 }
 .contenidoPagMenu{
   padding: 6% 2% 6% 2%;

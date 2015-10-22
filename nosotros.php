@@ -10,7 +10,7 @@
 <div class="fondo2">
 <?php include ("./secciones/menu.php"); ?>
 
-<div class="container contenidoPag">
+<div class="contenidoPag">
       <article >
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
@@ -52,31 +52,35 @@
     <div class="col-md-6">
 
       <div class="row">
-        <article >
-          <div class="row cabeceraVuelo">
-            <div class="col-lg-12">
-              <h2><i class="fa fa-users"></i> Misión:</h2>
+        <div class="col-md-12">
+          <article >
+            <div class="row cabeceraVuelo">
+              <div class="col-lg-12">
+                <h2><i class="fa fa-users"></i> Misión:</h2>
+              </div>
             </div>
-          </div>
-          <br>
-          <p class="text-justify">
-            Prestar servicios turísticos de vuelo en globo aerostático con el compromiso de cumplir a las necesidades, deseos y demandas de cada uno de nuestros visitantes mediante un servicio exclusivo, altamente seguro y de calidad que contribuya de igual manera al desarrollo sustentable de la región del Valle de Teotihuacán.
-          </p>
-        </article>
+            <br>
+            <p class="text-justify">
+              Prestar servicios turísticos de vuelo en globo aerostático con el compromiso de cumplir a las necesidades, deseos y demandas de cada uno de nuestros visitantes mediante un servicio exclusivo, altamente seguro y de calidad que contribuya de igual manera al desarrollo sustentable de la región del Valle de Teotihuacán.
+            </p>
+          </article>
+        </div>
       </div>
       <br>
       <div class="row">
-        <article >
-          <div class="row cabeceraVuelo">
-            <div class="col-lg-12">
-              <h2><i class="fa fa-users"></i> Valores:</h2>
+        <div class="col-md-12">
+          <article >
+            <div class="row cabeceraVuelo">
+              <div class="col-lg-12">
+                <h2><i class="fa fa-users"></i> Valores:</h2>
+              </div>
             </div>
-          </div>
-          <br>
-          <p class="text-justify">
-            Nuestra empresa cree en el profesionalismo, la honestidad, la responsabilidad, la honradez, el respeto, el cuidado al medio ambiente y la capacitación constante para alcanzar la excelencia en el servicio que ofrecemos a nuestros visitantes.
-          </p>
-        </article>
+            <br>
+            <p class="text-justify">
+              Nuestra empresa cree en el profesionalismo, la honestidad, la responsabilidad, la honradez, el respeto, el cuidado al medio ambiente y la capacitación constante para alcanzar la excelencia en el servicio que ofrecemos a nuestros visitantes.
+            </p>
+          </article>
+        </div>       
 
       </div>
 

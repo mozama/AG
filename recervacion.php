@@ -27,7 +27,7 @@
               </li>
               <li class="active"><a href="#tblPre" data-toggle="tab" class="junction"> Pre-reservación </a>
               </li>
-              <li class=""><a href="#tblPoliticas" data-toggle="tab" class="junction"> Politícas </a>
+              <li class=""><a href="#tblPoliticas" data-toggle="tab" class="junction"> Políticas </a>
               </li>
               <li class=""><a href="#tblRestricciones" data-toggle="tab" class="junction"> Restricciones </a>
               </li>
