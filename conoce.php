@@ -30,7 +30,7 @@
             <h4 class="text-warning">Incluye:</h4>
             <ul>
               <li>Viaje redondo.</li>
-              <li>La casa de Frida Kalo.</li>
+              <li>La casa de Frida Kahlo.</li>
               <li>Xochimilco.</li>
               <li>Estadio Azteca.</li>
               <li>Coyoacán.</li>
@@ -45,7 +45,7 @@
         </div>
         <div class="row">
           <div class="col-md-12 text-center ">
-              <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
+              <h3 class="textoNaranja">Ponte en contacto con nosotros para conocer precios.</h3>
               <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
         </div>
       </article>
@@ -77,7 +77,7 @@
         </div>
         <div class="row">
           <div class="col-md-12 text-center ">
-              <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
+              <h3 class="textoNaranja">Ponte en contacto con nosotros para conocer precios.</h3>
               <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
           </div>
         </div>
@@ -94,10 +94,10 @@
             <ul>
               <li>Visita a la iglesia.</li>
               <li>Visita a los talleres artesanales de plata.</li>
-              <li>Paseo visita a la grutas.</li>
+              <li>Paseo a las grutas.</li>
               <li>Paseo por los ríos.</li>
               <li>Paseo en el teleférico.</li>
-              <li>Viosita a los restaurantes.</li>
+              <li>Visita a los restaurantes.</li>
 
             </ul>
             <br>
@@ -110,7 +110,7 @@
         </div>
         <div class="row">
           <div class="col-md-12 text-center ">
-              <h3 class="textoNaranja">Ponte en contacto con nosotros para conecer precios.</h3>
+              <h3 class="textoNaranja">Ponte en contacto con nosotros para conocer precios.</h3>
               <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
           </div>
                    <div class="col-md-4 text-center">

@@ -76,8 +76,8 @@
               <li>Temazcal de 2 horas (4 puertas).</li>
               <li>Té o agua.</li>
               <li>Mascarilla de sábila o barro durante el Temazcal.</li>
-              <li>Duración de la activadad de 2 horas aproximadamente.</li>
             </ul>
+            <h3 class="text-warning" >Duración 2 horas aproximadamente.</h3>
           </div>
           <div class="col-md-4">
             <br>
@@ -127,7 +127,7 @@
               <li>Visita al conjunto de Jaguares.</li>
               <li>Museo.</li>
             </ul>
-            <span class="text-warning">Recorrido de 3 a 4 horas aproximadamente.</span>
+            <h3 class="text-warning">Duración de 3 a 4 horas aproximadamente.</h3>
           </div>
           <div class="col-md-4" align="center">
             <br>
@@ -168,7 +168,7 @@
       <article >
         <div class="row cabeceraAventura">
           <div class="col-lg-12">
-            <h2><i class="fa fa-motorcycle"></i> Tour en Cuatrimoto: <small class="textoBlanco"></small></h2>
+            <h2><i class="fa fa-motorcycle"></i> Tour en Cuatrimoto: <small class="textoBlanco">Aventura al máximo</small></h2>
           </div>
         </div>
         <div class="row">
@@ -186,7 +186,7 @@
               <li>Taller de maguey.</li>
               <li>Guía durante el recorrido.</li>
             </ul>
-            <span class="text-warning">Duración 3 horas 30 minutos aproximadamente.</span>
+            <h3 class="text-warning">Duración 3 horas 30 minutos aproximadamente.</h3>
           </div>
           <div class="col-md-4">
             <br><br><br>
@@ -235,9 +235,9 @@
               <li>Guía en todo el recorrido.</li>
               <li>Botella de agua y Lunch.</li>
               <li>De Lunes a Domingo a las 9:00 hrs.</li>
-              <li>Duración de 5 hrs aprox.</li>
               <li>Distancia promedio 10 km.</li>
             </ul>
+            <h3 class="text-warning">Duración 5 horas aproximadamente.</h3>
           </div>
           <div class="col-md-4">
             <br><br><br><br><br>
@@ -284,9 +284,9 @@
               <li>Guía en todo el recorrido.</li>
               <li>Botella de agua y Lunch.</li>
               <li>De Lunes a Domingo a las 9:00 hrs.</li>
-              <li>Duración de 5 hrs aprox.</li>
               <li>Distancia promedio 10 km.</li>
             </ul>
+            <h3 class="text-warning">Duración 5 horas aproximadamente.</h3>
             <span class="text-warning">
             * Puedes llevar tu propia bici (aplica 10% descuento).<br>
             * Pregunta por guías en ingles, frances, italiano (costo adicional).<br>
@@ -338,11 +338,11 @@
               <li>Visita a la Fábrica de Licores (Tuna, Nopal y Xoconoxtle).</li>
               <li>Botella de Agua.</li>
               <li>Guía en todo el recorrido.</li>
-              <li>Duración del recorrido en bici 3 hrs.</li>
               <li>Estancia en Alberca Villas Arqueológicas (libre).</li>
               <li>Únicamente Domingos a las 9:00 hs.</li>
               <li>Distancia promedio 10 km.</li>
             </ul>
+            <h3 class="text-warning">Duración 3 horas aproximadamente.</h3>
           </div>
           <div class="col-md-4" align="center">
             <br>
@@ -388,10 +388,10 @@
                     <li>Visita Taller de Obsidianas.</li>
                     <li>Visita a la Fabrica de productos de Tuna, Nopal y Xoconoxtle.</li>
                     <li>Guía en todo el recorrido.</li>
-                    <li>Duración del recorrido en bici 5 hrs.</li>
                     <li>De Lunes a Domingo a las 9:00 hrs.</li>
                     <li>Distancia promedio 10 km.</li>
                   </ul>
+                  <h3 class="text-warning">Duración 5 horas aproximadamente.</h3>
                 </div>
           <div class="col-md-4" align="center">
             <br><br><br><br>
@@ -438,11 +438,10 @@
                     <li>Visita Taller de Obsidianas.</li>
                     <li>Visita a la Fábrica de licores (Tuna, Nopal y Xoconoxtle).</li>
                     <li>Guía en todo el recorrido.</li>
-
-                    <li>Duración 2 días.</li>
                     <li>De Lunes a Domingo a las 9:00 hrs.</li>
                     <li>Distancia promedio 10 km.</li>
                   </ul>
+                  <h3 class="text-warning">Duración 2 dias.</h3>
                   <span class="text-warning">* No incluye tienda de campaña.</span>
                 </div>
                 <div class="col-md-4" align="center">
