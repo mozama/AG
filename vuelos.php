@@ -11,13 +11,11 @@
 <?php include ("./secciones/menu.php"); ?>
 
 <div class="contenidoPagMenu">
-  <div class="row">
     <div class="col-md-2">
       <div>
         <?php include ("./secciones/menuPaquete.php"); ?>
       </div>
     </div>
-
     <div class="col-md-10">  <!-- contenido -->
       <article >
         <div class="row cabeceraVuelo">
