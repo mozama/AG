@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords"content="vuelos en globo aerostático, globo aerostático, vuelo en globo teotihuacán, paseo en globo teotihuacán, viaje en globo teotihuacan, viaje en globo aerostático, vuelos en globo méxico, vuelos en globo aerostático méxico, vuelo sobre pirámides de Teotihuacán, flotar en globo, visita teotihuacán, actividades turísticas, paseo en bici teotihuacan, ultraligero, temazcal, globos, ballons méxico, zona arqueológica">
-    <meta name="description" content="Vive la emoción de volar en globo aerostático sobre el valle de Teotihuacan, México.">
+    <meta name="description" content="Vive la emoción de volar en globo aerostático sobre el valle de Teotihuacán, México | Vuelo para entregar anillo de compromiso | Vuelo amanecer en el valle de Teotihuacán | Vuelo compartido">
     <link rel="author" href="www.aventuraenglobos.com/humans.txt" />
     <title>Aventura en Globos</title>
     <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
