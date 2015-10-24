@@ -5,4 +5,4 @@
     <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/font-awesome.min.css" rel="stylesheet">
     <link href="./css/style.css" rel="stylesheet">
-    <link rel="icon" type="./image/png" href="./images/favicon.png"/>
+    <link rel="icon" type="./image/png" href="./favicon.png"/>
