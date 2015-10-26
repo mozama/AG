@@ -3,7 +3,7 @@
 <head>
   <?php include ("./secciones/head.php"); ?>
   <title>Más aventura | Aventura en Globos</title>
-  <meta name="description" content="">
+  <meta name="description" content="Conoce el valle de teotihuacan a través de diversas actividades como paseos en bici, cuatrimoto, ultraligero. Conoce la gastronomía y bebidas regionales.">
 </head>
 
 <body data-spy="scroll" data-target="#topnav" class="aventuraFondo">

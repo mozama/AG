@@ -21,7 +21,7 @@
 
                 <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
                   <br><br><br>
-                  <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="">
+                  <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="Aventura el Globos">
 
 
                   <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -47,7 +47,7 @@
                   <br><br><br>
                   <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="pinyon texto3d textoAmarillo textBienvenida">Certificado de regalo.</i>
                   <br>
-                    <img class="img-responsive cer pull-left img-rounded"  src="images/cer.jpg" alt="">
+                    <img class="img-responsive cer pull-left img-rounded"  src="images/cer.jpg" alt="certificado de vuelo">
                   <br><br><br><br><br><br><br>
                   <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
                   <br><br>
@@ -75,7 +75,7 @@
                   <i class="fa fa-bookmark"></i>
                   Certificado de regalo
                 </h1>
-                    <center><img class="img-responsive imgPrincipal cer2"  src="images/cer.jpg" alt=""></center>
+                    <center><img class="img-responsive imgPrincipal cer2"  src="images/cer.jpg" alt="certificado de vuelo"></center>
               </div>
               <div class="col-md-6 text-center">
                 <br><br>

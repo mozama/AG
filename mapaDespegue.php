@@ -43,7 +43,7 @@
         <div class="row">
           <div class="col-md-12">
             <h4 class="text-center">Busca los señalamientos:</h4>
-            <img class="img-responsive img-rounded"  src="images/letrero.jpg" alt="">
+            <img class="img-responsive img-rounded"  src="images/letrero.jpg" alt="zona de despegue">
           </div>
         </div>
 
