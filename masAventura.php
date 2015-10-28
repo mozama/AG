@@ -3,7 +3,7 @@
 <head>
   <?php include ("./secciones/head.php"); ?>
   <title>Más aventura | Aventura en Globos</title>
-  <meta name="description" content="">
+  <meta name="description" content="Conoce el valle de teotihuacan a través de diversas actividades como paseos en bici, cuatrimoto, ultraligero. Conoce la gastronomía y bebidas regionales.">
 </head>
 
 <body data-spy="scroll" data-target="#topnav" class="aventuraFondo">
@@ -37,7 +37,7 @@
           </div>
           <div class="col-md-4">
             <br>
-            <img class="img-responsive img-rounded img" src="images/ultra.jpg" alt="">
+            <img class="img-responsive img-rounded img" src="images/ultra.jpg" alt="ultraligero">
           </div>
         </div>
 
@@ -81,7 +81,7 @@
           </div>
           <div class="col-md-4">
             <br>
-            <img class="img-responsive img-rounded img" src="images/temazcal.jpg" alt="">
+            <img class="img-responsive img-rounded img" src="images/temazcal.jpg" alt="temazcal">
           </div>
         </div>
 
@@ -131,7 +131,7 @@
           </div>
           <div class="col-md-4" align="center">
             <br>
-            <img class="img-responsive img-rounded img" src="images/visita.jpg" alt="">
+            <img class="img-responsive img-rounded img" src="images/visita.jpg" alt="visita guiada teotihuacan">
           </div>
         </div>
 
@@ -190,7 +190,7 @@
           </div>
           <div class="col-md-4">
             <br><br><br>
-            <img class="img-responsive img-rounded img" src="images/tcuatri.jpg" alt="">
+            <img class="img-responsive img-rounded img" src="images/tcuatri.jpg" alt="cuatrimoto">
           </div>
         </div>
 
@@ -241,7 +241,7 @@
           </div>
           <div class="col-md-4">
             <br><br><br><br><br>
-            <img class="img-responsive img-rounded img" src="images/bicip.jpg" alt="">
+            <img class="img-responsive img-rounded img" src="images/bicip.jpg" alt=" tour en bici">
           </div>
         </div>
 
@@ -295,7 +295,7 @@
           </div>
           <div class="col-md-4">
             <br><br><br><br><br>
-            <img class="img-responsive img-rounded img" src="images/cueva.jpg" alt="">
+            <img class="img-responsive img-rounded img" src="images/cueva.jpg" alt="tour en cuevas">
           </div>
         </div>
 
@@ -346,7 +346,7 @@
           </div>
           <div class="col-md-4" align="center">
             <br>
-            <img class="img-responsive img-rounded img" src="images/bina.png" alt="">
+            <img class="img-responsive img-rounded img" src="images/bina.png" alt="tour rn bici teotihuacan">
           </div>
         </div>
 
@@ -395,7 +395,7 @@
                 </div>
           <div class="col-md-4" align="center">
             <br><br><br><br>
-            <img class="img-responsive img-rounded img" src="images/gastronomico.jpg" alt="">
+            <img class="img-responsive img-rounded img" src="images/gastronomico.jpg" alt="bici gastronomico">
           </div>
               </div>
 
@@ -446,7 +446,7 @@
                 </div>
                 <div class="col-md-4" align="center">
                   <br><br><br><br><br>
-                  <img class="img-responsive img-rounded img" src="images/campamento.jpg" alt="">
+                  <img class="img-responsive img-rounded img" src="images/campamento.jpg" alt="campamento">
                 </div>
               </div>
 
@@ -508,7 +508,7 @@
                       </div>
                       <div class="col-md-4" align="center">
                         <br><br><br><br><br>
-                        <img class="img-responsive img-rounded img" src="images/reino.jpg" alt="">
+                        <img class="img-responsive img-rounded img" src="images/reino.jpg" alt="reino animal">
                       </div>
                     </div>
 

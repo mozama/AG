@@ -3,7 +3,7 @@
 <head>
   <?php include ("./secciones/head.php"); ?>
   <title>Reservación | Aventura en Globos</title>
-  <meta name="description" content="">
+  <meta name="description" content="Realiza tu pre-reservación indica el tipo de vuelo así como los demás paquetes a disfrutar.">
 </head>
 
 <body data-spy="scroll" data-target="#topnav" class="recervacionFondo">
@@ -263,7 +263,7 @@
                   </div>
                   <div class="col-md-4">
                     <br><br><br>
-                    <img class="img-responsive img-rounded img" src="images/mexico.jpg" alt="">
+                    <img class="img-responsive img-rounded img" src="images/mexico.jpg" alt="globos aerostaticos">
                   </div>
                 </div>
 
@@ -306,7 +306,7 @@
                   </div>
                   <div class="col-md-4">
                     <br>
-                    <img class="img-responsive img-rounded img" src="images/nubes.jpg" alt="">
+                    <img class="img-responsive img-rounded img" src="images/nubes.jpg" alt="nubes debajo de globo aerostatico">
                   </div>
                 </div>
                 <br>
@@ -326,7 +326,7 @@
                   </div>
                   <div class="col-md-4">
                     <br>
-                    <img class="img-responsive img-rounded img" src="images/aventura.jpg" alt="">
+                    <img class="img-responsive img-rounded img" src="images/aventura.jpg" alt="aventura sobre teotihuacan">
                   </div>
 
                 </div>

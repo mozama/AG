@@ -2,7 +2,8 @@
 <html lang="es">
 <head>
   <?php include ("./secciones/head.php"); ?>
-  <title>Vuelos | Aventura en Globos</title>
+  <title>Paquetes de Vuelo | Aventura en Globos</title>
+  <meta name="description" content="Conoce nuestros paquetes de vuelo | Vuelo Compartido | Vuelo VIP | Vuelo Madrugador | Vuelo Privado">
   <meta name="description" content="">
 </head>
 
@@ -11,11 +12,11 @@
 <?php include ("./secciones/menu.php"); ?>
 
 <div class="contenidoPagMenu">
+  <div class="row">
     <div class="col-md-2">
-      <div>
         <?php include ("./secciones/menuPaquete.php"); ?>
-      </div>
     </div>
+
     <div class="col-md-10">  <!-- contenido -->
       <article >
         <div class="row cabeceraVuelo">
@@ -42,7 +43,7 @@
           </div>
           <div class="col-md-4">
             <br><br>
-              <img class="img-responsive img-rounded img" src="images/vueloCompartido.jpg" alt="">
+              <img class="img-responsive img-rounded img" src="images/vueloCompartido.jpg" alt="vuelo compartido">
           </div>
         </div>
         <div class="row">
@@ -96,7 +97,7 @@
           </div>
           <div class="col-md-4">
             <br><br><br><br><br>
-              <img class="img-responsive img-rounded img" src="images/galeria/compromiso.jpg" alt="">
+              <img class="img-responsive img-rounded img" src="images/galeria/compromiso.jpg" alt="anillo de compromiso">
           </div>
         </div>
         <div class="row">
@@ -151,7 +152,7 @@
           </div>
           <div class="col-md-4">
             <br><br>
-              <img class="img-responsive img-rounded img" src="images/amanecer.jpg" alt="">
+              <img class="img-responsive img-rounded img" src="images/amanecer.jpg" alt="vuelo amananecer">
           </div>
 
         <div class="row">
@@ -205,7 +206,7 @@
           </div>
           <div class="col-md-4">
             <br>
-            <img class="img-responsive img-rounded img" src="images/cumpleanios.jpg" alt="">
+            <img class="img-responsive img-rounded img" src="images/cumpleanios.jpg" alt="cumpleanos">
           </div>
         </div>
         <div class="row">

@@ -3,7 +3,7 @@
 <head>
   <?php include ("./secciones/head.php"); ?>
   <title>Hospedaje | Aventura en Globos</title>
-  <meta name="description" content="">
+  <meta name="description" content="Conoce las distintas opciones de hospedaje que te ofrecemos para acompletar tu aventura.">
 </head>
 
 <body data-spy="scroll" data-target="#topnav" class="hospedajeFondo">

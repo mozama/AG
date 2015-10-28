@@ -3,7 +3,7 @@
 <head>
   <?php include ("./secciones/head.php"); ?>
   <title>Nosotros | Aventura en Globos</title>
-  <meta name="description" content="">
+  <meta name="description" content="Aventura en Globos empresa dedicada a generar experiencias en globo aerostático.">
 </head>
 
 <body data-spy="scroll" data-target="#topnav" class="nosotrosFondo">
@@ -26,7 +26,7 @@
             </p>
           </div>
           <div class="col-md-4">
-            <img class="img-responsive img-rounded imgP" src="images/aventura.jpg" alt="" />
+            <img class="img-responsive img-rounded imgP" src="images/aventura.jpg" alt="valle de teotihuacan" />
           </div>
         </div>
       </article>
@@ -44,7 +44,7 @@
           Consolidarnos como una de las empresas más importantes y reconocidas por sus altos estándares de calidad en el servicio de vuelos en globo aerostático en México.
         </p>
         <div aling="center">
-          <img class="img-responsive img-rounded imgP" src="images/aerostatico3.jpg" alt="" />
+          <img class="img-responsive img-rounded imgP" src="images/aerostatico3.jpg" alt="vuelo en globo" />
         </div>
       </article>
     </div>
@@ -80,7 +80,7 @@
               Nuestra empresa cree en el profesionalismo, la honestidad, la responsabilidad, la honradez, el respeto, el cuidado al medio ambiente y la capacitación constante para alcanzar la excelencia en el servicio que ofrecemos a nuestros visitantes.
             </p>
           </article>
-        </div>       
+        </div>
 
       </div>
 

@@ -40,7 +40,7 @@
             <h4 class="text-warning text-center"><b> <br> </b></h4>
           </div>
           <div class="col-md-8 text-center">
-            <img class="img-responsive img-rounded img" src="images/frico.jpg" alt="">    
+            <img class="img-responsive img-rounded img" src="images/frico.jpg" alt="xochimilco">
           </div>
         </div>
         <div class="row">
@@ -72,7 +72,7 @@
           </div>
           <div class="col-md-8">
             <br><br>
-            <img class="img-responsive img-rounded img" src="images/grutas.jpg" alt="">   
+            <img class="img-responsive img-rounded img" src="images/grutas.jpg" alt="grutas tolantongo">
           </div>
         </div>
         <div class="row">
@@ -104,7 +104,7 @@
             <h4 class="text-warning text-center"><b> <br> </b></h4>
           </div>
           <div class="col-md-8 text-center"><br>
-            <img class="img-responsive img-rounded img" src="images/taxco.jpg" alt="">    
+            <img class="img-responsive img-rounded img" src="images/taxco.jpg" alt="taxco">
           </div>
 
         </div>

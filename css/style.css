@@ -128,6 +128,9 @@ html {
 .paddingArriba{
   padding: 5% 0 0 0;
 }
+.paddingMenu{
+  padding: 5% 0 0 0;
+}
 .interlineadoA{
   line-height: 200%;
 }
@@ -476,8 +479,9 @@ footer *{
   padding: 8% 4% 6% 4%;
 }
 .contenidoPagMenu{
-  padding: 6% 2% 6% 2%;
+  padding: 8% 2% 6% 2%;
 }
+
 .cabecera{
   background:#9c27b0;
 	color:#f3e5f5;

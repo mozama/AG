@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords"content="vuelos en globo aerostático, globo aerostático, vuelo en globo teotihuacán, paseo en globo teotihuacán, viaje en globo teotihuacan, viaje en globo aerostático, vuelos en globo méxico, vuelos en globo aerostático méxico, vuelo sobre pirámides de Teotihuacán, flotar en globo, visita teotihuacán, actividades turísticas, paseo en bici teotihuacan, ultraligero, temazcal, globos, ballons méxico, zona arqueológica">
-    <meta name="description" content="Vive la emoción de volar en globo aerostático sobre el valle de Teotihuacan, México.">
+    <meta name="description" content="Vive la emoción de volar en globo aerostático sobre el valle de Teotihuacán, México | Vuelo para entregar anillo de compromiso | Vuelo amanecer en el valle de Teotihuacán | Vuelo compartido">
     <link rel="author" href="www.aventuraenglobos.com/humans.txt" />
     <title>Aventura en Globos</title>
     <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/font-awesome.min.css" rel="stylesheet">
     <link href="./css/style.css" rel="stylesheet">
-    <link rel="icon" type="./image/png" href="./images/favicon.png"/>
+    <link rel="icon" type="./image/png" href="./favicon.png"/>
 </head>
 
 <body data-spy="scroll" data-target="#barraNav" >
@@ -21,7 +21,7 @@
 
                 <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
                   <br><br><br>
-                  <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="">
+                  <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="Aventura el Globos">
 
 
                   <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -47,7 +47,7 @@
                   <br><br><br>
                   <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="pinyon texto3d textoAmarillo textBienvenida">Certificado de regalo.</i>
                   <br>
-                    <img class="img-responsive cer pull-left img-rounded"  src="images/cer.jpg" alt="">
+                    <img class="img-responsive cer pull-left img-rounded"  src="images/cer.jpg" alt="certificado de vuelo">
                   <br><br><br><br><br><br><br>
                   <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
                   <br><br>
@@ -75,7 +75,7 @@
                   <i class="fa fa-bookmark"></i>
                   Certificado de regalo
                 </h1>
-                    <center><img class="img-responsive imgPrincipal cer2"  src="images/cer.jpg" alt=""></center>
+                    <center><img class="img-responsive imgPrincipal cer2"  src="images/cer.jpg" alt="certificado de vuelo"></center>
               </div>
               <div class="col-md-6 text-center">
                 <br><br>
