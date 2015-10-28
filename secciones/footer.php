@@ -1,6 +1,5 @@
 <footer > <!-- id="footer" -->
 
-
 <!--Start of Zopim Live Chat Script-->
 <script type="text/javascript">
 window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=

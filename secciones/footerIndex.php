@@ -49,4 +49,3 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
     </div>
   </div>
 
-</footer>
