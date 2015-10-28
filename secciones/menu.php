@@ -19,7 +19,7 @@
           <a  href="index.php#home">Inicio</a>
         </li>
         <li id="navPaquete">
-          <a href="index.php#services">Paquetes</a>
+          <a href="vuelos.php">Paquetes</a>
         </li>
         <li id="navNosotros">
           <a  href="index.php#features">Nosotros</a>

@@ -103,7 +103,7 @@
         <div class="row">
           <div class="col-md-7 text-center">
               <h3 class="textoNaranja">MXN $ 6,400.<sup>00</sup></h3>
-              <h3 class="textoNaranja">Promoción de Lunes a Viernes: MXN $ 6,000.<sup>00</sup>  </h3>
+              <h3 class="textoAmber"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: MXN $ 6,000.<sup>00</sup>  </h3>
               <h4 class="text-warning">No aplica en días festivos</h4>
               <br>
               <!--Carrito vip-->
@@ -158,7 +158,7 @@
         <div class="row">
           <div class="col-md-7 text-center">
               <h3 class="textoNaranja">MXN $ 6,200.<sup>00</sup></h3>
-               <h3 class="textoNaranja">Promoción de Lunes a Viernes: MXN $ 5,800.<sup>00</sup>  </h3>
+               <h3 class="textoAmber"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: MXN $ 5,800.<sup>00</sup>  </h3>
               <h4 class="text-warning">No aplica en días festivos</h4>
               <!--vuelo madrugador carrito-->
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
