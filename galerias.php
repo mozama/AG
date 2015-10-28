@@ -53,7 +53,7 @@
           <img class="imgF" src="images/galeria/aerostatico.jpg" alt="aerostatico"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/pareja.jpg" alt="pareja"/>
+          <img class="imgF" src="images/galeria/valle.jpg" alt="valle de teotihuacan"/>
         </div>
         <div class="bb-item">
           <img class="imgF" src="images/galeria/amanecer.jpg" alt="vuelo amanecer"/>
