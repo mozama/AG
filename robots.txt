@@ -1,8 +1,3 @@
 User-Agent: *
-Disallow: /bootstrap/
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /js/
-Disallow: /css/
 Disallow: /php/
 Sitemap: http://www.aventuraenglobos.com/sitemap.xml
