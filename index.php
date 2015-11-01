@@ -36,7 +36,7 @@
                   <br><br><br>
                   <i class="pinyon texto3d textoAmarillo textBienvenida">Vuela sobre el valle de Teotihuacán, <br> vive la emoción.</i>
                   <br><br><br>
-                  <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
+                  <a class="btn btn-warning btn-md" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                   <i class="fa fa-cc-visa fa-3x textMC"></i>
@@ -49,7 +49,7 @@
                   <br>
                     <img class="img-responsive cer pull-left img-rounded"  src="images/cer.jpg" alt="certificado de vuelo">
                   <br><br><br><br><br><br><br>
-                  <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
+                  <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce las promociones de vuelo <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                   <i class="fa fa-cc-visa fa-3x textMC"></i>
@@ -79,7 +79,7 @@
               </div>
               <div class="col-md-6 text-center">
                 <br><br>
-                  <a class="btn btn-success btn-md" href="./vuelos.php">Ver más <i class="fa fa-chevron-right"></i></a>
+                  <a class="btn btn-success btn-md" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
               </div>
             </div>
 
@@ -97,7 +97,7 @@
             <h3 class="texto3d textoBlanco">Completa tu paquete con hospedaje, ocupación doble.</h3>
           </a>
           <br>
-          <a class="btn btn-success btn-md" href="./hospedaje.php">Ver más <i class="fa fa-chevron-right"></i></a>
+          <a class="btn btn-success btn-md" href="./hospedaje.php">Ver paquetes de hospedaje <i class="fa fa-chevron-right"></i></a>
         </div>
       </div>
     </div>
@@ -112,7 +112,7 @@
             <h3 class="texto3d textoBlanco">Paseo en bici, cuatrimotos, visitas guiadas.</h3>
           </a>
           <br>
-          <a class="btn btn-success btn-md" href="./masAventura.php">Ver más <i class="fa fa-chevron-right"></i></a>
+          <a class="btn btn-success btn-md" href="./masAventura.php">Ver opciones de aventura <i class="fa fa-chevron-right"></i></a>
         </div>
       </div>
     </div>
@@ -135,7 +135,7 @@
             </h4>
           </a>
           <br>
-          <a class="btn btn-success btn-md" href="./nosotros.php">Ver más <i class="fa fa-chevron-right"></i></a>
+          <a class="btn btn-success btn-md" href="./nosotros.php">Ver más sobre nosotros<i class="fa fa-chevron-right"></i></a>
           <br><br>
         </div>
 
@@ -197,7 +197,7 @@
 
                   <div class="row">
                     <div class="col-md-12">
-                        <h4><strong>Oficinas <a class="enlaceSimple2" href="./mapa.php"><i class="fa fa-map-marker"></i> Ver mapa</a>  </strong></h4>
+                        <h4><strong>Oficinas <a class="enlaceSimple2" href="./mapa.php"><i class="fa fa-map-marker"></i> Ver mapa de oficinas</a>  </strong></h4>
 
                             <i class="icon-map-marker"></i> <strong><i class="fa fa-map-marker"></i></strong> Privada de niños heroes No.3,<br> San Martín de las Pirámides, <br>Estado de México
                             <br><br>
@@ -216,7 +216,7 @@
                   <article>
                   <div class="row">
                     <div class="col-md-12">
-                      <h4><strong>Zona despegue <a class="enlaceSimple2" href="./mapaDespegue.php"><i class="fa fa-map-marker"></i> Ver mapa</a>  </strong></h4>
+                      <h4><strong>Zona despegue <a class="enlaceSimple2" href="./mapaDespegue.php"><i class="fa fa-map-marker"></i> Ver zona despegue</a>  </strong></h4>
 
                         <i class="icon-map-marker"></i> <strong><i class="fa fa-map-marker"></i></strong> Carretera libre México-Tulancingo Km 27,<br> San Francisco Mazapa,<br> Teotihuacán, Estado de México
 

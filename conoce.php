@@ -78,7 +78,7 @@
         <div class="row">
           <div class="col-md-12 text-center ">
               <h3 class="textoNaranja">Ponte en contacto con nosotros para conocer precios.</h3>
-              <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
+              <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos para saber más!</button></a>
           </div>
         </div>
       </article>
@@ -111,7 +111,7 @@
         <div class="row">
           <div class="col-md-12 text-center ">
               <h3 class="textoNaranja">Ponte en contacto con nosotros para conocer precios.</h3>
-              <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
+              <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos para conocer precios!</button></a>
           </div>
                    <div class="col-md-4 text-center">
             <h3 class="text-primary"> .</h3>
