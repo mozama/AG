@@ -11,6 +11,16 @@
     <link href="./css/font-awesome.min.css" rel="stylesheet">
     <link href="./css/style.css" rel="stylesheet">
     <link rel="icon" type="./image/png" href="./favicon.png"/>
+
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-69468292-1', 'auto');
+    ga('send', 'pageview');
+</script>
 </head>
 
 <body data-spy="scroll" data-target="#barraNav" >
@@ -22,7 +32,6 @@
                 <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
                   <br><br><br>
                   <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="Aventura el Globos">
-
 
                   <br><br><br><br><br><br><br><br><br><br><br><br>
                   <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
@@ -129,9 +138,7 @@
           <a href="./nosotros.php" class="enlaceNosotros texto3d">
             <h1>Sobre Nosotros</h1>
             <br>
-            <!--  <h4 class="interlineadoA text-justify"><strong class="juntion">Aventura en Globos</strong> nace en el 2004  con la finalidad de reunir a los mejores pilotos de nuestro país, los cuales con sus más de 20 años de experiencia volando en todo México nos permiten ofrecer un servicio turístico y de publicidad de vuelo en globo aerostático más exclusivo, más personalizado y sobretodo más seguro para que nuestros visitantes se lleven la mejor experiencia de su vida. -->
             <h4 class="interlineadoA text-justify"><strong class="juntion">Aventura en Globos</strong> nace en el 2004 con la finalidad de reunir a los mejores pilotos de nuestro país y ellos a su vez con más de 20 años de experiencia volando sobre todo México nos permiten ofrecer un servicio turístico y de publicidad en vuelo de globo aerostático exclusivo,  personalizado y sobretodo más seguro, para que nuestros visitantes se lleven la mejor experiencia de su vida.
-
             </h4>
           </a>
           <br>
@@ -143,7 +150,6 @@
           <div class="fb-page" data-href="https://www.facebook.com/Aventura-En-Globos-1021078371265806/?ref=hl" data-width="400" data-height="450" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
           <div id="fb-root"></div>
          </div>
-
 
       </div>
     </div>
@@ -230,8 +236,6 @@
         </div>
     </div>
 
-
-
 </section>
 <?php include ("./secciones/footerIndex.php"); ?>
 
@@ -247,6 +251,6 @@
 <script src="js/efectos.js"></script>
 <script src="js/moodular.js"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
-<script src="js/index.js"></script> <!-- async -->
+<script src="js/index.js"></script>
 </body>
 </html>
