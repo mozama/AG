@@ -17,7 +17,6 @@
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
     ga('create', 'UA-69468292-1', 'auto');
     ga('send', 'pageview');
 </script>
@@ -25,21 +24,20 @@
 
 <body data-spy="scroll" data-target="#barraNav" >
     <?php include ("./secciones/menu.php"); ?>
-
 <div class="jumbotron principal" id="home">
              <ul id="moodular">
-
-                <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP">
+                  <span>
                   <br><br><br>
                   <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="Aventura el Globos">
-
                   <br><br><br><br><br><br><br><br><br><br><br><br>
                   <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                   <i class="fa fa-cc-visa fa-3x textMC"></i>
                   <i class="fa fa-cc-paypal fa-3x textMC"></i>
-                </span>  </p></li>
+                  </span>
+                </p></li>
 
                 <li><p style="background-image: url(./images/aventura3.jpg);" class="fondoP"><span>
                   <br><br><br>
@@ -166,27 +164,27 @@
                   <div class="control-group form-group sombra">
                     <div class="input-group">
                       <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                      <input name="nombre" id="nombre" pattern="[a-zA-Z\sáéíóúÁÉÍÓÚñÑ]+" type="text" class="form-control grisObscuro"  placeholder="*Nombre" maxlength="50">
+                      <input name="nombre" id="nombre" pattern="[a-zA-Z\sáéíóúÁÉÍÓÚñÑ]+" type="text" class="form-control grisObscuro"  placeholder="*Nombre" maxlength="50" required>
                     </div>
                     <p class="text-danger" id="spnNombre"> </p>
                   </div>
                   <div class="control-group form-group sombra">
                     <div class="input-group">
                       <span class="input-group-addon glyphicon"><i class="fa fa-at"></i></span>
-                      <input name="email" id="email" type="email" class="form-control grisObscuro"  placeholder="*Correo Electrónico" maxlength="50">
+                      <input name="email" id="email" type="email" class="form-control grisObscuro"  placeholder="*Correo Electrónico" maxlength="50" required>
                       <p class="text-danger" id="spnCorreo"> </p>
                     </div>
                   </div>
                   <div class="control-group form-group sombra">
                       <div class="input-group">
                         <span class="input-group-addon"><i class="fa fa-phone"></i></span>
-                        <input  name="telefono" id="telefono" pattern="[0-9a-zA-Z\+\s]+" type="tel" class="form-control grisObscuro"  placeholder="*Número Telefónico" maxlength="20">
+                        <input  name="telefono" id="telefono" pattern="[0-9a-zA-Z\+\s]+" type="tel" class="form-control grisObscuro"  placeholder="*Número Telefónico" maxlength="20" required>
                       </div>
                       <p class="text-danger" id="spnTel"> </p>
                   </div>
                   <div class="control-group form-group sombra">
                     <div class="controls">
-                      <textarea id="txtMensaje" name="mensaje" rows="8" cols="100" class="form-control grisObscuro"  maxlength="500" style="resize:none" placeholder="*Mensaje"></textarea>
+                      <textarea id="txtMensaje" name="mensaje" rows="8" cols="100" class="form-control grisObscuro"  maxlength="500" style="resize:none" placeholder="*Mensaje" required></textarea>
                       <p class="text-danger" id="spnMensaje"> </p>
                     </div>
                   </div>

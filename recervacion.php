@@ -17,10 +17,8 @@
 </head>
 
 <body data-spy="scroll" data-target="#topnav" class="recervacionFondo">
-
 <div class="fondo2">
 <?php include ("./secciones/menu.php"); ?>
-
 <div class="container contenidoPag">
   <article >
     <div class="row cabeceraVuelo">
@@ -67,13 +65,11 @@
                     <p class="sangriaTodoTxt text-justify">Con esto queda confirmada al 100% la reservación, al momento de reservar se solicitaran los pesos de las personas que realizaran la actividad, si no se envía los pesos reales Aventura en Globos S. de R.L. de C.V. se reserva el derecho de modificar el servicio por logística del vuelo.
                     </p>
 
-
                   </div>
                   <div class="col-md-4">
 
                   </div>
                 </div>
-
               </div>
 
               <div class="tab-pane fade active in" id="tblPre">
@@ -140,7 +136,6 @@
                             </div>
                           </div>
 
-
                         </div>
                         <div class="col-md-6">
                           <div class="panel panel-default panelTrans">
@@ -171,10 +166,8 @@
                                 </label>
                               </div>
 
-
                               </div>
                             </div>
-
                         </div>
 
                       </div>
@@ -252,7 +245,6 @@
                                 </label>
                               </div>
 
-
                             </div>
                           </div>
                         </div>
@@ -266,7 +258,6 @@
                           <p class="text-danger" id="spnMensaje"> </p>
                         </div>
                       </div>
-
                             <button class="btn btn-success btn-xlg" type="submit"><i class="fa fa-calendar-check-o"></i> Realizar pre-reservación</button>
                     </form>
 
@@ -276,8 +267,6 @@
                     <img class="img-responsive img-rounded img" src="images/mexico.jpg" alt="globos aerostaticos">
                   </div>
                 </div>
-
-
               </div>
 
               <div class="tab-pane fade" id="tblPoliticas">

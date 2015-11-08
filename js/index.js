@@ -12,39 +12,6 @@ function limpiar(){
   txtMensaje.val('');
 }
 
-function verificarContenido(){
-
-  if((inpNombre.val() == '' )||(inpNombre == null)){
-    inpNombre.focus();
-    swal("Favor de indicar nombre.","", "warning");
-    return false;
-  }
-  if((inpTelefono.val() == '' )||(inpTelefono == null)){
-    inpTelefono.focus();
-    swal("Favor de indicar número telefonico.","", "warning");
-    return false;
-  }
-  if((inpEmail.val() == '' )||(inpEmail == null)){
-    inpEmail.focus();
-    swal("Favor de indicar correo electrónico.","", "warning");
-    return false;
-  }
-  if((txtMensaje.val() == '' )||(txtMensaje == null)){
-    txtMensaje.focus();
-    swal("Favor de ingresar su mensaje.","", "warning");
-    return false;
-  }
-
-  if (chkAcepto.is(':checked')){
-    return true;
-  }
-  else{
-    chkAcepto.focus();
-    swal("Debe aceptar las políticas de uso y privacidad.","Para hacer uso de este sitio web usted debera aceptar las políticas de uso y privacidad.", "warning");
-    return false;
-  }
-}
-
 function comprobarNombre(e){
   var elem = e.target;
   if (elem.validity.valid) {
@@ -81,8 +48,6 @@ function comprobarMensaje(e){
 function enviado(){
   alert("mensaje enviado");
 }
-
-//btnEnviar.on('click', enviar);
 $(document).on('ready', function(){
   $(window).scroll(function() {
       if ($(".navbar").offset().top > 50) {
@@ -91,7 +56,6 @@ $(document).on('ready', function(){
           $(".navbar-fixed-top").removeClass("top-nav-collapse");
       }
   });
-
 
   jQuery('#moodular').moodular({
     effects: 'fade mosaic',
@@ -102,13 +66,12 @@ $(document).on('ready', function(){
     timer: 3500,
     speed: 2000,
     queue: false,
-    keyPrev: 37, // left key
-    keyNext: 39, // right key
+    keyPrev: 37,
+    keyNext: 39,
     slices: [10, 5],
     mode: 'random',
     your_params : 'cause you can create your own effect or control'
 });
-
 
   limpiar();
   intNombre = document.querySelector("input[name='nombre']");

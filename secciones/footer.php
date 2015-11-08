@@ -19,7 +19,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
     <div class="container">
     <div class="row">
       <div class="col-md-3 col-sm-12 contenidoPie text-center">
-            <img class="img-responsive imgPie" src="./images/logo2.png">
+            <img class="img-responsive imgPie" src="./images/logo1.png">
       </div>
 
       <div class="col-md-5 col-sm-12 col-xs-12">
