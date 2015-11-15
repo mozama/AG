@@ -17,28 +17,22 @@ html {
 	background-size:cover;
 	background-attachment: fixed;
 }
-
 #moodular {
   overflow: hidden;
   z-index: 1;
   }
-
 #moodular, #moodular li {
   margin: 0;
   padding: 0;
   list-style: none;
   width: 100%;
-
   }
-
 #moodular, #moodular li {
    height: 100%;
-
    }
 #moodular li p {
   display: block;
   height: 100%;
-
   }
   #moodular li p span {
    display: inline-block;
@@ -89,10 +83,6 @@ html {
 .navbar-default {
   border-color: transparent;
   box-shadow:0 0 3px 3px rgba(38,50,56, 0.25); /*efecto de sombra para 3d*/
-  /*background: -webkit-linear-gradient(-60deg, #0288d1, #01579b);
-  background: -o-linear-gradient(135deg, #0288d1, #01579b);
-  background: -moz-linear-gradient(135deg, #0288d1, #01579b);*/
-  /*background: linear-gradient(-60deg, #2196f3, #1565c0);*/
   background:#0073aa;
 }
 .navbar-default .nav li a {
@@ -172,14 +162,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 p{
   color:#212121;
 }
-
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus,
 .navbar-inverse .navbar-nav > li > a:focus {
     border-bottom-color: #3E84C2;
 }
-
 .navbar-default .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
@@ -298,12 +286,10 @@ section.servicios .dmaskS3{
 }
 section.about{
   background: url(../images/arqueologica.jpg);
-  /*position: relative;*/
   min-height: 1000px;
   background-repeat:no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  /*height: 100%;*/
 }
 section.about .dmask{
   padding: 10% 0 15% 0;
@@ -508,11 +494,10 @@ footer *{
   border-color: #1b5e20;
 }
 
-
 .ribbon2 {
     background-color: rgba(255,152,0, 0.25);
-    margin: 68px 0 0 0px;
-    padding: 8px 5px 8px 0px;
+    margin: 30px 0 0 0px;
+    padding: 8px 0px 8px 0px;
     position: absolute;
     font-weight: 700;
     box-shadow:0 5px 5px 3px rgba(0, 0, 0, 0.25);

@@ -36,16 +36,14 @@
         <li>
           <img id="imgI" class="img-responsive" src="images/banderag.gif">
         </li>
-
-
       </ul>
     </div>
 
     <div class="container"> <!-- Elemento ribbon que se queda fijo -->
      <div class="row">
-         <div class="ribbon2" style="right: 0"> <!-- a la derecha con margen de 0 -->
+         <div class="ribbon2" style="right: 0">
              <a href="recervacion.php" class="enlaceSimpleR">
-               <h4 class="txtRibbon" style="margin: 0;padding: 5px 10px ">
+               <h4 style="margin: 0;padding: 5px 5px ">
                  <strong>Reservación</strong>
                  <br>
                  <i class="fa fa-mobile"></i></strong> 55 51 98 63 99 <br><br>

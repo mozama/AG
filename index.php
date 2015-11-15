@@ -31,7 +31,7 @@
                   <br><br><br>
                   <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="Aventura el Globos">
                   <br><br><br><br><br><br><br><br><br><br><br><br>
-                  <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
+                  <a class="btn btn-warning btn-md sombra" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                   <i class="fa fa-cc-visa fa-3x textMC"></i>
@@ -43,7 +43,7 @@
                   <br><br><br>
                   <i class="pinyon texto3d textoAmarillo textBienvenida">Vuela sobre el valle de Teotihuacán, <br> vive la emoción.</i>
                   <br><br><br>
-                  <a class="btn btn-warning btn-md" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
+                  <a class="btn btn-warning btn-md sombra" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                   <i class="fa fa-cc-visa fa-3x textMC"></i>
@@ -56,7 +56,7 @@
                   <br>
                     <img class="img-responsive cer pull-left img-rounded"  src="images/cer.jpg" alt="certificado de vuelo">
                   <br><br><br><br><br><br><br>
-                  <a class="btn btn-warning btn-md" href="./vuelos.php">Conoce las promociones de vuelo <i class="fa fa-chevron-right"></i></a>
+                  <a class="btn btn-warning btn-md sombra" href="./vuelos.php">Conoce las promociones de vuelo <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                   <i class="fa fa-cc-visa fa-3x textMC"></i>
@@ -86,7 +86,7 @@
               </div>
               <div class="col-md-6 text-center">
                 <br><br>
-                  <a class="btn btn-success btn-md" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
+                  <a class="btn btn-success btn-md sombra" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
               </div>
             </div>
 
@@ -104,7 +104,7 @@
             <h3 class="texto3d textoBlanco">Completa tu paquete con hospedaje, ocupación doble.</h3>
           </a>
           <br>
-          <a class="btn btn-success btn-md" href="./hospedaje.php">Ver paquetes de hospedaje <i class="fa fa-chevron-right"></i></a>
+          <a class="btn btn-success btn-md sombra" href="./hospedaje.php">Ver paquetes de hospedaje <i class="fa fa-chevron-right"></i></a>
         </div>
       </div>
     </div>
@@ -119,7 +119,7 @@
             <h3 class="texto3d textoBlanco">Paseo en bici, cuatrimotos, visitas guiadas.</h3>
           </a>
           <br>
-          <a class="btn btn-success btn-md" href="./masAventura.php">Ver opciones de aventura <i class="fa fa-chevron-right"></i></a>
+          <a class="btn btn-success btn-md sombra" href="./masAventura.php">Ver opciones de aventura <i class="fa fa-chevron-right"></i></a>
         </div>
       </div>
     </div>
@@ -140,7 +140,7 @@
             </h4>
           </a>
           <br>
-          <a class="btn btn-success btn-md" href="./nosotros.php">Ver más sobre nosotros<i class="fa fa-chevron-right"></i></a>
+          <a class="btn btn-success btn-md sombra" href="./nosotros.php">Ver más sobre nosotros<i class="fa fa-chevron-right"></i></a>
           <br><br>
         </div>
 
