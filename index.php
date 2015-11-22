@@ -196,6 +196,21 @@
 
             <div class="col-md-6">
               <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                  <article>
+                  <div class="row">
+                    <div class="col-md-12">
+                      <h4><strong>Zona despegue <a class="enlaceSimple2" href="./mapaDespegue.php"><i class="fa fa-map-marker"></i> Ver zona despegue</a>  </strong></h4>
+
+                        <i class="icon-map-marker"></i> <strong><i class="fa fa-map-marker"></i></strong> Carretera libre México-Tulancingo Km 27,<br> San Francisco Mazapa,<br> Teotihuacán, Estado de México
+
+                    </div>
+                  </div>
+                  </article>
+                </div>
+              </div>
+
+              <div class="row">
                 <div class="col-md-8 col-md-offset-2 ">
                   <article>
 
@@ -215,20 +230,7 @@
                   </article>
                 </div>
               </div>
-              <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <article>
-                  <div class="row">
-                    <div class="col-md-12">
-                      <h4><strong>Zona despegue <a class="enlaceSimple2" href="./mapaDespegue.php"><i class="fa fa-map-marker"></i> Ver zona despegue</a>  </strong></h4>
 
-                        <i class="icon-map-marker"></i> <strong><i class="fa fa-map-marker"></i></strong> Carretera libre México-Tulancingo Km 27,<br> San Francisco Mazapa,<br> Teotihuacán, Estado de México
-
-                    </div>
-                  </div>
-                  </article>
-                </div>
-              </div>
             </div>
 
         </div>
