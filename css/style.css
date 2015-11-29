@@ -652,3 +652,13 @@ article {
 	background-attachment: fixed;
 	line-height:20px;
 }
+.errorFondo{
+  background:url(../images/globosaerostaticos.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	line-height:20px;
+}
+.contenidoErr{
+  height: 100%;
+}
