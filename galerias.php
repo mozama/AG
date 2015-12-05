@@ -42,85 +42,85 @@
 
       <div id="bb-bookblock" class="bb-bookblock">
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/teotihuacan.jpg" alt="teotihuacan"/>
+          <img class="imgF" src="images/galeria/1.jpg" alt="teotihuacan"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/vuelo.jpg" alt="vuelo teotihuacan"/>
+          <img class="imgF" src="images/galeria/2.jpg" alt="vuelo teotihuacan"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/familias.jpg" alt="vuelo en familia"/>
+          <img class="imgF" src="images/galeria/3.jpg" alt="vuelo en familia"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/canasta.jpg" alt="canasta globo aerostatico"/>
+          <img class="imgF" src="images/galeria/4.jpg" alt="canasta globo aerostatico"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/familia.jpg" alt="globo aerostatico familia"/>
+          <img class="imgF" src="images/galeria/5.jpg" alt="globo aerostatico familia"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/despegues.jpg" alt="zona despegue"/>
+          <img class="imgF" src="images/galeria/6.jpg" alt="zona despegue"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/aerostatico.jpg" alt="aerostatico"/>
+          <img class="imgF" src="images/galeria/7.jpg" alt="aerostatico"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/valle.jpg" alt="valle de teotihuacan"/>
+          <img class="imgF" src="images/galeria/8.jpg" alt="valle de teotihuacan"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/amanecer.jpg" alt="vuelo amanecer"/>
+          <img class="imgF" src="images/galeria/9.jpg" alt="vuelo amanecer"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/compromiso.jpg" alt="anillo compromiso"/>
+          <img class="imgF" src="images/galeria/10.jpg" alt="anillo compromiso"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/gobloAerostatico.jpg" alt="valle teotihuacan"/>
+          <img class="imgF" src="images/galeria/11.jpg" alt="valle teotihuacan"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/luna.jpg" alt="piramide de la luna"/>
+          <img class="imgF" src="images/galeria/12.jpg" alt="piramide de la luna"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/brindis.jpg" alt="brindis en globo"/>
+          <img class="imgF" src="images/galeria/13.jpg" alt="brindis en globo"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/novia.jpg" alt="quieres ser mi novia"/>
+          <img class="imgF" src="images/galeria/14.jpg" alt="quieres ser mi novia"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/valleTeotihuacan.jpg" alt="sobre el valle de teotihuacan"/>
+          <img class="imgF" src="images/galeria/15.jpg" alt="sobre el valle de teotihuacan"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/anillo.jpg" alt="anillo"/>
+          <img class="imgF" src="images/galeria/16.jpg" alt="anillo"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/cumpleaños.jpg" alt="cumpleaños"/>
+          <img class="imgF" src="images/galeria/17.jpg" alt="cumpleaños"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/globo.jpg" alt="globos"/>
+          <img class="imgF" src="images/galeria/18.jpg" alt="globos"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/mexico.jpg" alt="mexico"/>
+          <img class="imgF" src="images/galeria/19.jpg" alt="mexico"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/calzada.jpg" alt="image05"/>
+          <img class="imgF" src="images/galeria/20.jpg" alt="image05"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/grupo.jpg" alt="vuelo en grupo"/>
+          <img class="imgF" src="images/galeria/21.jpg" alt="vuelo en grupo"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/teotihuacanMexico.jpg" alt="image02"/>
+          <img class="imgF" src="images/galeria/22.jpg" alt="image02"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/grupos.jpg" alt="viaje en grupo"/>
+          <img class="imgF" src="images/galeria/23.jpg" alt="viaje en grupo"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/novio.jpg" alt="novio"/>
+          <img class="imgF" src="images/galeria/24.jpg" alt="novio"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/nube.jpg" alt="nubes"/>
+          <img class="imgF" src="images/galeria/25.jpg" alt="nubes"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/mensaje.jpg" alt="mensaje"/>
+          <img class="imgF" src="images/galeria/26.jpg" alt="mensaje"/>
         </div>
         <div class="bb-item">
-          <img class="imgF" src="images/galeria/mujeres.jpg" alt="inflado globo"/>
+          <img class="imgF" src="images/galeria/27.jpg" alt="inflado globo"/>
         </div>
 
 
