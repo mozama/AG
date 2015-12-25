@@ -10,19 +10,14 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 </script>
 <!--End of Zopim Live Chat Script-->
 
-      <div class="row">
-          <div class="footer-ribbon" style="right: 0">
-              <a href="javascript:history.back()"> <h3 class="title" style="margin: 0;padding: 5px 10px">Regresar</h3></a>
-          </div>
-      </div>
-  <div class="footer-copyright">
+   <div class="footer-copyright">
     <div class="container">
     <div class="row">
-      <div class="col-md-3 col-sm-12 contenidoPie text-center">
+      <div class="col-md-3 col-sm-12  text-center">
             <img class="img-responsive imgPie" src="./images/logo2.png">
       </div>
 
-      <div class="col-md-5 col-sm-12 col-xs-12">
+      <div class="col-md-7 col-sm-12 col-xs-12">
         <div class="row paddingArriba">
 
           <div class="col-md-2 col-sm-2 col-xs-3 text-center">
@@ -42,11 +37,18 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           </div>
         </div>
       </div>
-      <div class="col-md-2 col-sm-12 col-xs-12" class="text-center">
+
+      <div class="col-md-2 col-sm-6 col-xs-6" class="text-center">
         <img src="./images/moderniza0.jpg" class="imgPie2"/>
       </div>
   </div>
-      <div class="col-md-12 text-center">
-        &copy; 2015 Aventura en Globos | Diseño:<a href="http://www.mozama.esy.es/" class="enlaceSimple" target=blanck> MOZAMA</a>
-      </div>
+  <div class="row">
+    <div class="col-md-12 text-center">
+      &copy; 2015 Aventura en Globos | Diseño:<a href="http://www.mozama.esy.es/" class="enlaceSimple" target=blanck> MOZAMA</a>
+    </div>
+  </div>
+
+  </div>
+  </div>
+
 </footer>

@@ -22,7 +22,7 @@
           <a href="vuelos.php">Paquetes</a>
         </li>
         <li id="navNosotros">
-          <a  href="index.php#features">Nosotros</a>
+          <a  href="nosotros.php">Nosotros</a>
         </li>
         <li id="navContacto">
           <a href="index.php#contact">Contacto</a>
