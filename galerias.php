@@ -250,5 +250,9 @@
     Page.init();
 </script>
 
+<script charset="utf-8">
+  $('#navGaleria').addClass('activoLi');
+</script>
+
 </body>
 </html>

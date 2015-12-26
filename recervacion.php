@@ -345,6 +345,9 @@
 <script src="js/efectos.js"></script>
 <script src="js/reservacion.js"></script>
 </script>
+<script charset="utf-8">
+  $('#navRecervacion').addClass('activoLi');
+</script>
 </div>
 </body>
 </html>

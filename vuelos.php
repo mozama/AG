@@ -256,8 +256,11 @@
 <script src="./js/jquery.js"></script>
 <script src="./js/efectos.js"></script>
 <script src="./bootstrap/js/bootstrap.min.js"></script>
-<script charset="utf-8">
+<script>
   $('#liVuelo').addClass('colorNavActivo');
+</script>
+<script charset="utf-8">
+  $('#navPaquete').addClass('activoLi');
 </script>
 </div>
 </body>

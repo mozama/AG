@@ -139,6 +139,9 @@
 <script charset="utf-8">
   $('#liConoce').addClass('colorNavActivo');
 </script>
+<script charset="utf-8">
+  $('#navPaquete').addClass('activoLi');
+</script>
 </div>
 </body>
 </html>

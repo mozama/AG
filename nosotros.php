@@ -106,6 +106,9 @@
 <script src="./bootstrap/js/bootstrap.min.js"></script>
 <script src="./js/efectos.js"></script>
 </script>
+<script charset="utf-8">
+  $('#navNosotros').addClass('activoLi');
+</script>
 </div>
 </body>
 </html>

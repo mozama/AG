@@ -71,6 +71,10 @@
 <script src="./js/jquery.js"></script>
 <script src="./js/efectos.js" async></script>
 <script src="./bootstrap/js/bootstrap.min.js"></script>
+<script charset="utf-8">
+  $('#navContacto').addClass('activoLi');
+</script>
+
 </div>
 </body>
 </html>

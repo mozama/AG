@@ -553,6 +553,9 @@
  <script charset="utf-8">
   $('#liAventura').addClass('colorNavActivo');
 </script>
+<script charset="utf-8">
+  $('#navPaquete').addClass('activoLi');
+</script>
 </div>
 </body>
 </html>

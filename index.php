@@ -254,5 +254,9 @@
 <script src="js/moodular.js"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="js/index.js"></script>
+
+<script>
+  	$('#navInicio').addClass('activoLi');
+</script>
 </body>
 </html>

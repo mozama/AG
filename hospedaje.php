@@ -193,6 +193,9 @@
 <script>
   $('#liHospedaje').addClass('colorNavActivo');
 </script>
+<script charset="utf-8">
+  $('#navPaquete').addClass('activoLi');
+</script>
 </div>
 </body>
 </html>
