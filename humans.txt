@@ -1,10 +1,10 @@
 /* TEAM */
 	Web Developers, Web designer: MOZAMA(Reyna Hernández, Edgar Santiago, Rene Hernández)
-	Site: www.mozama.esy.es
+	Site: www.mozama.com.mx
 	From: Valle de Teotihuacan, Estado de México, México.
 
 /* SITE */
-	Last update: 25/12/2015
+	Last update: 10/04/2016
 	Language: Español
 	Doctype: HTML5
 	Standards: HTML5, CSS3

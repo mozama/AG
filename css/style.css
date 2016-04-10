@@ -560,7 +560,7 @@ article {
 }
 
 .servicios{
-  background: url(../images/aventuraEnGlobos.jpg);
+  background: url(../images/arqueologica.jpg);
   min-height: 400px;
   position: relative;
   background-repeat:no-repeat;
@@ -583,7 +583,7 @@ section.servicios .dmaskS3{
   height: 100%;
 }
 section.about{
-  background: url(../images/piramide.jpg);
+  background: url(../images/globos.jpg);
   min-height: 1000px;
   background-repeat:no-repeat;
   background-attachment: fixed;

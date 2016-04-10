@@ -26,8 +26,8 @@
     <?php include ("./secciones/menu.php"); ?>
 <div class="jumbotron principal" id="home">
              <ul id="moodular">
-              <!--    <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"> -->
-              <li><p style="background-image: url(./images/globos.jpg);" class="fondoP">
+                  <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
+              <!--  <li><p style="background-image: url(./images/globos.jpg);" class="fondoP"> -->
                   <span>
                   <br><br><br>
                   <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="Aventura el Globos">
@@ -40,8 +40,8 @@
                   </span>
                 </p></li>
 
-                  <li><p style="background-image: url(./images/arqueologica.jpg);" class="fondoP"><span>
-          <!--      <li><p style="background-image: url(./images/calzada.jpg);" class="fondoP"><span> -->
+
+                <li><p style="background-image: url(./images/calzada.jpg);" class="fondoP"><span>
                   <br><br><br>
                   <i class="pinyon texto3d textoAmarillo textBienvenida">Vuela sobre el valle de Teotihuacán, <br> vive la emoción.</i>
                   <br><br><br>
@@ -52,7 +52,7 @@
                   <i class="fa fa-cc-paypal fa-3x textMC"></i>
                 </span></p></li>
 
-                <li><p style="background-image: url(./images/calzada.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/arqueologica.jpg);" class="fondoP"><span>
                   <br><br><br>
                   <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="pinyon texto3d textoAmarillo textBienvenida">Certificado de regalo.</i>
                   <br>

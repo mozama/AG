@@ -32,7 +32,7 @@
     <div class="row">
       <div class="col-md-8">
 
-              <iframe width="100%" height="400px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d25269.144784034608!2d-98.82611975656341!3d19.700663787330367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1440304416768" ></iframe>
+              <iframe width="100%" height="400px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2502.897180255352!2d-98.82871056035513!3d19.688987226835938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1460307269461" ></iframe>
       </div>
       <div class="col-md-4">
         <div class="row">
