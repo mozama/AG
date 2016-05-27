@@ -32,7 +32,8 @@
                   <br><br><br>
                   <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="Aventura el Globos">
                   <br><br><br><br><br><br><br><br><br><br><br><br>
-                  <a class="btn btn-warning btn-md sombra" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
+                  <!--  <a class="btn btn-warning btn-md sombra" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a> -->
+                  <a class="enlaceSimple texto3d textoBlanco textBienvenida2 dancing" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                   <i class="fa fa-cc-visa fa-3x textMC"></i>
@@ -41,11 +42,48 @@
                 </p></li>
 
 
+                <li><p style="background-image: url(./images/arqueologica.jpg);" class="fondoP"><span>
+                  <br><br><br>
+                  <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="dancing texto3d textoAmarillo textBienvenida">Promociones.</i>
+                  <br>
+
+                        <i class="texto3d textoBlanco textBienvenida2 dancing">
+                           Vuelo compartido:
+                        </i>
+                        <i class="texto3d textoAmarillo juntion"><i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                             MXN $ 1,790.<sup>00</sup>
+                             <i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                        </i>
+                        <br>
+                        <i class="texto3d textoBlanco dancing">
+                           Válido hasta 31 de Junio de 2016
+                        </i>
+                        <br><br>
+                        <a class="btn btn-success btn-md sombra" href="./vuelos.php#vueloCompartido">Ver detalles <i class="fa fa-chevron-right"></i></a>
+
+                        <br><br><br>
+
+                        <i class="texto3d textoBlanco textBienvenida2 dancing">
+                           Vuelo VIP:
+                        </i>
+                        <br>
+                        <i class="texto3d textoAmarillo juntion"><i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                             MXN $ 6,200.<sup>00</sup>
+                             <i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                        </i>
+                        <br><br>
+                        <a class="btn btn-success btn-md sombra" href="./vuelos.php#vueloVip">Ver detalles <i class="fa fa-chevron-right"></i></a>
+
+
+
+                </span></li>
+
+
                 <li><p style="background-image: url(./images/calzada.jpg);" class="fondoP"><span>
                   <br><br><br>
-                  <i class="pinyon texto3d textoAmarillo textBienvenida">Vuela sobre el valle de Teotihuacán, <br> vive la emoción.</i>
+                  <i class="dancing texto3d textoAmarillo textBienvenida">Vuela sobre el valle de Teotihuacán, <br> vive la emoción.</i>
                   <br><br><br>
-                  <a class="btn btn-warning btn-md sombra" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
+                  <a class="enlaceSimple texto3d textoBlanco textBienvenida2 dancing" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                   <i class="fa fa-cc-visa fa-3x textMC"></i>
@@ -54,11 +92,11 @@
 
                 <li><p style="background-image: url(./images/arqueologica.jpg);" class="fondoP"><span>
                   <br><br><br>
-                  <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="pinyon texto3d textoAmarillo textBienvenida">Certificado de regalo.</i>
+                  <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="dancing texto3d textoAmarillo textBienvenida">Certificado de regalo.</i>
                   <br>
                     <img class="img-responsive cer pull-left img-rounded"  src="images/cer.jpg" alt="certificado de vuelo">
                   <br><br><br><br><br><br><br>
-                  <a class="btn btn-warning btn-md sombra" href="./vuelos.php">Conoce las promociones de vuelo <i class="fa fa-chevron-right"></i></a>
+                  <a class="enlaceSimple texto3d textoBlanco textBienvenida2 dancing" href="./vuelos.php">Conoce las promociones de vuelo <i class="fa fa-chevron-right"></i></a>
                   <br><br>
                   <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                   <i class="fa fa-cc-visa fa-3x textMC"></i>
@@ -74,7 +112,7 @@
       <div class="row">
         <div class="col-md-12 text-center">
           <a href="./vuelos.php" class="enlaceSimple">
-            <h1 class="texto3d textoBlanco"> Paquetes de vuelo </h1>
+            <h1 class="textBienvenida texto3d textoBlanco dancing"> Paquetes de vuelo </h1>
             <h3 class="texto3d textoBlanco">Vuelos al amanecer, compartido, privado, eventos especiales.</h3>
           </a>
           <br><br>
@@ -147,10 +185,11 @@
       <div class="row">
         <div class="col-md-12 text-center">
           <a href="./hospedaje.php" class="enlaceSimple">
-            <h1 class="texto3d textoBlanco"> Hospedaje </h1>
+            <h1 class="textBienvenida texto3d textoBlanco dancing"> Hospedaje </h1>
+          <br>
             <h3 class="texto3d textoBlanco">Completa tu paquete con hospedaje, ocupación doble.</h3>
           </a>
-          <br>
+          <br><br>
           <a class="btn btn-success btn-md sombra" href="./hospedaje.php">Ver paquetes de hospedaje <i class="fa fa-chevron-right"></i></a>
         </div>
       </div>
@@ -162,10 +201,11 @@
       <div class="row">
         <div class="col-md-12 text-center">
           <a href="./masAventura.php" class="enlaceSimple">
-            <h1 class="texto3d textoBlanco">  Más Aventura </h1>
+            <h1 class="textBienvenida texto3d textoBlanco dancing">  Más Aventura </h1>
+            <br>
             <h3 class="texto3d textoBlanco">Paseo en bici, cuatrimotos, visitas guiadas.</h3>
           </a>
-          <br>
+          <br><br>
           <a class="btn btn-success btn-md sombra" href="./masAventura.php">Ver opciones de aventura <i class="fa fa-chevron-right"></i></a>
         </div>
       </div>
@@ -181,7 +221,7 @@
 
         <div class="col-md-6 col-xs-12 text-center">
           <a href="./nosotros.php" class="enlaceNosotros texto3d">
-            <h1>Sobre Nosotros</h1>
+            <h1 class="textBienvenida texto3d textoBlanco dancing">Sobre Nosotros</h1>
             <br>
             <h4 class="interlineadoA text-justify"><strong class="juntion">Aventura en Globos</strong> nace en el 2004 con la finalidad de reunir a los mejores pilotos de nuestro país y ellos a su vez con más de 20 años de experiencia volando sobre todo México nos permiten ofrecer un servicio turístico y de publicidad en vuelo de globo aerostático exclusivo,  personalizado y sobretodo más seguro, para que nuestros visitantes se lleven la mejor experiencia de su vida.
             </h4>
@@ -210,7 +250,7 @@
         <div class="row">
             <div class="col-md-6">
 
-                <h2 class="short texto3d textoBlanco"><strong>Contáctenos</strong> </h2>
+                <h2 class="textBienvenida texto3d textoBlanco dancing">Contáctenos </h2>
                 <form class="clearfix" accept-charset="utf-8" action="php/enviarCom.php" method="post" >
                   <div class="control-group form-group sombra">
                     <div class="input-group">
@@ -251,7 +291,7 @@
                   <article>
                   <div class="row">
                     <div class="col-md-12">
-                      <h4><strong>Zona despegue <a class="enlaceSimple2" href="./mapaDespegue.php"><i class="fa fa-map-marker"></i> Ver zona despegue</a>  </strong></h4>
+                      <h3 class="dancing">Zona despegue <a class="enlaceSimple2" href="./mapaDespegue.php"><i class="fa fa-map-marker"></i> Ver zona despegue</a>  </h3>
 
                         <i class="icon-map-marker"></i> <strong><i class="fa fa-map-marker"></i></strong> Carretera libre México-Tulancingo Km 27,<br> San Francisco Mazapa,<br> Teotihuacán, Estado de México
 
@@ -267,7 +307,7 @@
 
                   <div class="row">
                     <div class="col-md-12">
-                        <h4><strong>Oficinas <a class="enlaceSimple2" href="./mapa.php"><i class="fa fa-map-marker"></i> Ver mapa de oficinas</a>  </strong></h4>
+                        <h3 class="dancing">Oficinas <a class="enlaceSimple2" href="./mapa.php"><i class="fa fa-map-marker"></i> Ver mapa de oficinas</a> </h3>
 
                             <i class="icon-map-marker"></i> <strong><i class="fa fa-map-marker"></i></strong> Privada de niños heroes No.3,<br> San Martín de las Pirámides, <br>Estado de México
                             <br><br>
