@@ -185,14 +185,18 @@
             <br>
             <h4 class="interlineadoA text-justify"><strong class="juntion">Aventura en Globos</strong> nace en el 2004 con la finalidad de reunir a los mejores pilotos de nuestro país y ellos a su vez con más de 20 años de experiencia volando sobre todo México nos permiten ofrecer un servicio turístico y de publicidad en vuelo de globo aerostático exclusivo,  personalizado y sobretodo más seguro, para que nuestros visitantes se lleven la mejor experiencia de su vida.
             </h4>
+            <h4 class="interlineadoA text-justify"><strong class="juntion">¿CUANDO VOLAMOS?</strong>
+            <br>
+            Volamos todos los días del año bajo previa reservación, la cita es aproximadamente a las 6:40 am  en nuestra zona de despegue, carretera libre México-Tulancingo km 27, si tu servicio también es con  hospedaje, te recogeremos en tu hotel,  para trasladarte a la zona de despegue. Aquí podrás observar y si lo deseas participar con el proceso de inflado de nuestros equipos, podrás tomarte la fotos que desees siguiendo las indicaciones de nuestro personal, una vez listo comienza “La Aventura de volar en Globo” y disfrutar de la hermosa vista panorámica de Teotihuacán.</h4>
+
           </a>
           <br>
-          <a class="btn btn-success btn-md sombra" href="./nosotros.php">Ver más sobre nosotros<i class="fa fa-chevron-right"></i></a>
-          <br><br>
+          <a class="btn btn-success btn-md sombra" href="./nosotros.php">Ver más sobre nosotros <i class="fa fa-chevron-right"></i></a>
+          <br>
         </div>
 
         <div class="col-md-6 col-xs-12 text-center">
-          <div class="fb-page" data-href="https://www.facebook.com/Aventura-En-Globos-1021078371265806/?ref=hl" data-width="400" data-height="450" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
+          <div class="fb-page" data-href="https://www.facebook.com/Aventura-En-Globos-1021078371265806/?ref=hl" data-width="600" data-height="650" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
           <div id="fb-root"></div>
          </div>
 
