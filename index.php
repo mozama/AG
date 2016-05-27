@@ -77,19 +77,64 @@
             <h1 class="texto3d textoBlanco"> Paquetes de vuelo </h1>
             <h3 class="texto3d textoBlanco">Vuelos al amanecer, compartido, privado, eventos especiales.</h3>
           </a>
+          <br><br>
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2 col-sm-10 col-ms-offset-1 col-xs-10 col-xs-offset-1 text-center">
+              <h3 class="texto3d textoAmarillo"><i class="fa fa-star" aria-hidden="true" id="estrella"></i> Promociones <i class="fa fa-star" aria-hidden="true" id="estrella"></i></h3>
+
+              <div class="row">
+                  <div class="col-md-6">
+
+                    <p class="texto3d textoBlanco roboto">
+                       Vuelo compartido a solo:
+                    </p>
+                    <h3 class="texto3d textoBlanco roboto"><i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                         MXN $ 1,790.<sup>00</sup>
+                         <i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                    </h3>
+                    <p class="texto3d textoBlanco roboto">
+                       Promoción válida hasta el 31 de Junio de 2016
+                    </p>
+                    <a class="btn btn-warning btn-md sombra" href="./vuelos.php#vueloCompartido">Ver detalles <i class="fa fa-chevron-right"></i></a>
+
+                  </div>
+                  <div class="col-md-6">
+
+                    <p class="texto3d textoBlanco roboto">
+                       Vuelo VIP a solo:
+                    </p>
+                    <h3 class="texto3d textoBlanco roboto"><i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                         MXN $ 6,200.<sup>00</sup>
+                         <i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                    </h3>
+                    <p>.</p>
+                    <a class="btn btn-warning btn-md sombra" href="./vuelos.php#vueloVip">Ver detalles <i class="fa fa-chevron-right"></i></a>
+
+
+                  </div>
+              </div>
+
+
+            </div>
+          </div>
+          <br><br><br>
 
             <div class="row">
-              <div class="col-md-6 text-center">
-                <h1 class="pinyon text-center textoAmarillo texto3d">
-                  <i class="fa fa-bookmark"></i>
-                  Certificado de regalo
-                </h1>
-                    <center><img class="img-responsive imgPrincipal cer2"  src="images/cer.jpg" alt="certificado de vuelo"></center>
+              <div class="row">
+                <div class="col-md-6 text-center">
+                  <h1 class="pinyon text-center textoAmarillo texto3d">
+                    <i class="fa fa-bookmark"></i>
+                    Certificado de regalo
+                  </h1>
+                      <center><img class="img-responsive imgPrincipal cer2"  src="images/cer.jpg" alt="certificado de vuelo"></center>
+                </div>
+                <div class="col-md-6 text-center">
+                  <br><br>
+                    <a class="btn btn-success btn-md sombra" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
+                </div>
               </div>
-              <div class="col-md-6 text-center">
-                <br><br>
-                  <a class="btn btn-success btn-md sombra" href="./vuelos.php">Ver paquetes de vuelo <i class="fa fa-chevron-right"></i></a>
-              </div>
+              <br><br>
+
             </div>
 
         </div>

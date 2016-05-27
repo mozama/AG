@@ -28,7 +28,7 @@
     </div>
 
     <div class="col-md-10">  <!-- contenido -->
-      <article >
+      <article id="vueloCompartido">
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
             <h2><i class="fa fa-bookmark"></i> Vuelo Compartido: <small class="textoBlanco">Canastilla compartida con otros pasajeros</small></h2>
@@ -81,7 +81,7 @@
         </div>
       </article>
       <br>
-      <article >
+      <article id="vueloVip">
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
             <h2><i class="fa fa-bookmark"></i> Vuelo VIP: <small class="textoBlanco">Vuelo para entregar anillo de compromiso o quieres ser mi novia</small></h2>

@@ -6,6 +6,10 @@
   font-family: pinyon;
    src: url(../fonts/PinyonScript-Regular.ttf);
 }
+@font-face {
+  font-family: roboto;
+   src: url(../fonts/Roboto-Regular.ttf);
+}
 body,
 html {
   width: 100%;
@@ -51,6 +55,10 @@ html {
   font-family: junction,'Open Sans',serif;
   font-weight: 600;
 }
+.roboto{
+  font-family: roboto,'Open Sans',serif;
+  font-weight: 600;
+}
 
 @media(min-width:900px) {
     .navbar {
@@ -86,7 +94,7 @@ html {
   background:#0073aa;
 }
 .navbar-default .nav li a {
-  font-family: junction,'Open Sans',serif;
+  font-family: roboto,'Open Sans',serif;
   font-weight: 400;
   font-size: 1em;
   letter-spacing: 2px;
@@ -664,4 +672,51 @@ section.contact{
 }
 .contenidoErr{
   height: 100%;
+}
+#estrella{
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  animation-name: escalando;
+/*  animation-name: girando;*/
+}
+
+@keyframes escalando {
+  0% {
+    -moz-transform:scale(.5);
+    -webkit-transform: scale(.5);
+  
+  }
+  90% {
+    -moz-transform:scale(1.5);
+    -webkit-transform: scale(1.5);
+
+  }
+  100% {
+    -moz-transform:scale(.5);
+    -webkit-transform: scale(.5);
+
+  }
+}
+
+@keyframes girando {
+  0% {
+    -moz-transform:rotate(0deg);
+    -webkit-transform: rotate(0deg);
+  }
+  70% {
+    -moz-transform:rotate(0deg);
+    -webkit-transform: rotate(0deg);
+  }
+  80% {
+    -moz-transform:rotate(60deg);
+    -webkit-transform: rotate(60deg);
+  }
+  90% {
+    -moz-transform:rotate(-60deg);
+    -webkit-transform: rotate(-60deg);
+  }
+  100% {
+    -moz-transform:rotate(30deg);
+    -webkit-transform: rotate(30deg);
+  }
 }
