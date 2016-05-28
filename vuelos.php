@@ -65,6 +65,9 @@
               <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
               <input type="hidden" name="cmd" value="_s-xclick">
               <input type="hidden" name="hosted_button_id" value="6ATDWKVSXNWTJ">
+
+				<!-- fin del carrito-->
+
               <!--<table>
               <tr><td><input type="hidden" name="on0" value="Vuelo compartido">Vuelo compartido</td></tr><tr><td><select name="os0">
               <option value="Vuelo compartido (por persona)">Vuelo compartido (por persona) $2,100.00 MXN</option>  Nota este es para cuando se termine la promocion ya sera visible jiji
@@ -77,6 +80,7 @@
               </form>
 
         <!-- fin del carrito-->
+
           </div>
                    <div class="col-md-4 text-center">
             <h3 class="text-primary"> Precio por pasajero.</h3>
@@ -121,18 +125,22 @@
               <h4 class="text-warning">No aplica en días festivos</h4>
               <br>
               <!--Carrito vip-->
-                  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                  <input type="hidden" name="cmd" value="_s-xclick">
-                  <input type="hidden" name="hosted_button_id" value="7KYNSL6L8VPJ6">
-                  <table>
-                  <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado VIP"></td></tr><tr><td><select name="os0">
-                    <option value="Vuelo privado VIP (por pareja)">Vuelo privado VIP (por pareja) $6,600.00 MXN</option>                  <option value="Vuelo privado VIP de LUNES a VIERNES(por pareja)">Vuelo privado VIP de LUNES a VIERNES(por pareja) $6,200.00 MXN</option>
-                  </select> </td></tr>
-                  </table>
-                  <input type="hidden" name="currency_code" value="MXN">
-                  <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                  <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                  </form>
+
+              <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="7KYNSL6L8VPJ6">
+              <table>
+              <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado VIP"></td></tr><tr><td><select name="os0">
+                <option value="Vuelo privado VIP (por pareja)">Vuelo privado VIP (por pareja) $6,600.00 MXN</option>
+                <option value="Vuelo privado VIP promocion de Lunes a Viernes (por pareja)">Vuelo privado VIP promocion de Lunes a Viernes (por pareja) $6,200.00 MXN</option>
+              </select> </td></tr>
+              </table>
+              <input type="hidden" name="currency_code" value="MXN">
+              <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+              <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+              </form>
+
+
             <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">

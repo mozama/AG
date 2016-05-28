@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -50,10 +51,10 @@
                <input type="hidden" name="cmd" value="_s-xclick">
                <input type="hidden" name="hosted_button_id" value="TWB97YKBALNFL">
                <table>
-               <tr><td><input type="hidden" name="on0" value="Hotel Quinto Sol Habitacion">Hotel Quinto Sol Habitacion</td></tr><tr><td><select name="os0">
-                 <option value="Habitacion ocupacion doble">Habitacion ocupacion doble $1,100.00 MXN</option>
-                 <option value="Habitacion ocupacion triple">Habitacion ocupacion triple $1,350.00 MXN</option>
-                 <option value="Habitacion ocupacion cuádruple">Habitacion ocupacion cuádruple $1,450.00 MXN</option>
+               <tr><td><input type="hidden" name="on0" value="Hotel Quinto Sol Habitacion">Hotel Quinto Sol Habitación</td></tr><tr><td><select name="os0">
+                 <option value="Habitacion ocupacion doble">Habitación ocupación doble $1,100.00 MXN</option>
+                 <option value="Habitacion ocupacion triple">Habitación ocupación triple $1,350.00 MXN</option>
+                 <option value="Habitacion ocupacion cuadruple">Habitación ocupación cuadruple $1,450.00 MXN</option>
                </select> </td></tr>
                </table>
                <input type="hidden" name="currency_code" value="MXN">
@@ -152,9 +153,9 @@
                     <input type="hidden" name="hosted_button_id" value="WED23N73JYXVG">
                     <table>
                     <tr><td><input type="hidden" name="on0" value="Posada Jade Hataciones">Posada Jade Hataciones</td></tr><tr><td><select name="os0">
-                      <option value="Habitacion ocupacion doble">Habitacion ocupacion doble $600.00 MXN  </option>
-                      <option value="Habitacion Ocupaciotiple">Habitacion Ocupacion tiple $650.00 MXN</option>
-                      <option value="Habitacion Ocupacion Cuadruple">Habitacion Ocupacion Cuadruple $700.00 MXN</option>
+                      <option value="Habitacion ocupacion doble">Habitación ocupación doble $600.00 MXN</option>
+                      <option value="Habitacion ocupacion tiple">Habitación ocupación tiple $650.00 MXN</option>
+                      <option value="Habitacion ocupacion Cuadruple">Habitación ocupación Cuadruple $700.00 MXN</option>
                     </select> </td></tr>
                     </table>
                     <input type="hidden" name="currency_code" value="MXN">
@@ -187,20 +188,20 @@
                     <li>Cabaña <span class="text-primary"> 2 habitaciones, baño completo, sala, cocina y comedor terraza y jardín </span>  <span class="text-warning">MX $1,200</span> pesos por noche.</li>
                   </ul>
              <!--carrito ahuehuetes-->
-                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="RJVV425NUCSH6">
-                    <table>
-                    <tr><td><input type="hidden" name="on0" value="Posada Jade Hataciones">Posada Jade Hataciones</td></tr><tr><td><select name="os0">
-                      <option value="Habitacion ocupacion doble">Habitacion ocupacion doble $600.00 MXN</option>
-                      <option value="Habitacion ocupacion tiple">Habitacion ocupacion tiple $700.00 MXN</option>
-                      <option value="Cabana">Cabaña $1,200.00 MXN</option>
-                    </select> </td></tr>
-                    </table>
-                    <input type="hidden" name="currency_code" value="MXN">
-                    <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                    </form>
+                  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                   <input type="hidden" name="cmd" value="_s-xclick">
+                   <input type="hidden" name="hosted_button_id" value="RJVV425NUCSH6">
+                   <table>
+                   <tr><td><input type="hidden" name="on0" value="Posada Ahuehuetes Hataciones">Posada Ahuehuetes Hataciones</td></tr><tr><td><select name="os0">
+                     <option value="Habitacion ocupacion doble">Habitación ocupación doble $600.00 MXN</option>
+                     <option value="Habitacion ocupacion tiple">Habitación ocupación tiple $700.00 MXN</option>
+                     <option value="Cabana">Cabaña $1,200.00 MXN</option>
+                   </select> </td></tr>
+                   </table>
+                   <input type="hidden" name="currency_code" value="MXN">
+                   <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                   </form>
              <!-- fin carrito-->
                 </div>
                 <div class="col-md-4">
