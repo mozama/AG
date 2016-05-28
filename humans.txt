@@ -4,7 +4,7 @@
 	From: Valle de Teotihuacan, Estado de México, México.
 
 /* SITE */
-	Last update: 10/04/2016
+	Last update: 28/05/2016
 	Language: Español
 	Doctype: HTML5
 	Standards: HTML5, CSS3
