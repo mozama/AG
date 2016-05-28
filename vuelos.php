@@ -43,7 +43,7 @@
               <li>Brindis con vino blanco espumoso al aterrizar.</li>
               <li>Certificado de vuelo por pasajero.</li>
               <li>Desayuno Buffet en Restaurante Gran Teocalli.</li>
-              <li>Transportacion local durante la actividad.</li>
+              <li>Transportación local durante la actividad.</li>
               <li>Seguro de pasajeros.</li>
             </ul>
             <br>
@@ -58,8 +58,9 @@
         <div class="row">
           <div class="col-md-7 text-center ">
               <!--<h3 class="textoNaranja">MXN $ 2,100.<sup>00</sup></h3>-->
-              <h3 class="textoAmber"><i class="fa fa-star"></i> Promoción de $2,100.<sup>00</sup> a solo $1,790.<sup>00</sup> MXN</h3>
-              <h5 class="textoNaranja">Válido hasta el 31 de Junio 2016</h5>
+              <h3 class="textoAmber">Promoción de $2,100.<sup>00</sup></h3>
+              <h3 class="textoNaranja"><i class="fa fa-star" id="estrella"></i>  a solo $1,790.<sup>00</sup> MXN <i class="fa fa-star" id="estrella"></i></h3>
+              <h4 class="text-warning">Válido hasta el 31 de Junio 2016</h4>
         <!-- vuelo compartido -->
               <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
               <input type="hidden" name="cmd" value="_s-xclick">
@@ -95,8 +96,8 @@
             <ul>
               <li>Coffee break en zona de despegue.</li>
               <li>Vuelo en Globo de 45 a 60 minutos.</li>
-              <li>Desplegado de banner " TE QUIERES CASAR CONMIGO " "QUIERES SER MI NOVIA" durante el vuelo.</li>
-              <li>Botella de vino blanco espumoso para brindar durante el vuelo.</li>
+              <li>Desplegado de banner " TE QUIERES CASAR CONMIGO " " QUIERES SER MI NOVIA " durante el vuelo.</li>
+              <li>Botella de vino blanco espumoso para brindar después de la exhibición  el vuelo.</li>
               <li>Fotos con cámara fija (Gopro).</li>
               <li>Certificado de vuelo por pasajero.</li>
               <li>Desayuno Buffet en Restaurante Gran Teocalli.</li>
@@ -105,8 +106,8 @@
               <li>Seguro de pasajeros.</li>
             </ul>
       <br>
-            <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos.<br> </b></h4>
+        <!--    <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
+            regreso al DF, pregunta costos.<br> </b></h4> -->
           </div>
           <div class="col-md-4">
             <br><br><br><br><br>
@@ -124,10 +125,10 @@
                   <input type="hidden" name="cmd" value="_s-xclick">
                   <input type="hidden" name="hosted_button_id" value="7KYNSL6L8VPJ6">
                   <table>
-                  <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado VIP">Paquete Vuelo Privado VIP</td></tr><tr><td><select name="os0">
+                  <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado VIP"></td></tr><tr><td><select name="os0">
                     <option value="Vuelo privado VIP (por pareja)">Vuelo privado VIP (por pareja) $6,600.00 MXN</option>                  <option value="Vuelo privado VIP de LUNES a VIERNES(por pareja)">Vuelo privado VIP de LUNES a VIERNES(por pareja) $6,200.00 MXN</option>
                   </select> </td></tr>
-                  </table>-->
+                  </table>
                   <input type="hidden" name="currency_code" value="MXN">
                   <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
                   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
@@ -152,7 +153,7 @@
             <ul>
               <li>Coffee break en zona de despegue.</li>
               <li>Vuelo en Globo de 45 a 60 minutos.</li>
-              <li>Banner de "FELIZ CUMPLEAÑOS O FELIZ ANIVERSARIO"</li>
+              <li>Banner de " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO "</li>
               <li>Botella de vino blanco espumoso para brindar durante el vuelo.</li>
               <li>Certificado de vuelo por pasajero</li>
               <li>Desayuno Buffet en Restaurante Gran Teocalli.</li>
@@ -177,7 +178,7 @@
                    <input type="hidden" name="cmd" value="_s-xclick">
                    <input type="hidden" name="hosted_button_id" value="DJM46LWVSNJ2E">
                    <table>
-                      <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado VIP">Paquete Vuelo Privado VIP</td></tr><tr><td><select name="os0">
+                      <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado VIP"></td></tr><tr><td><select name="os0">
                         <option value="Vuelo madrugador (por pareja)">Vuelo madrugador (por pareja) $6,200.00 MXN</option>
                         <option value="Vuelo madrugador de LUNES a VIERNES(por pareja)">Vuelo madrugador de LUNES a VIERNES(por pareja) $5,800.00 MXN</option>
                    </select> </td></tr>
@@ -207,10 +208,10 @@
               <li>Coffee break en zona de despegue.</li>
               <li>Vuelo exclusivo para dos personas de 45 a 60 minutos.</li>
               <li>Botella de vino blanco espumoso para brindar durante el vuelo.</li>
-              <li>Banner " FELIZ CUMPLEAÑOS O FELIZ ANIVERSARIO ".</li>
+              <li>Banner " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO ".</li>
               <li>Pastel individual para el cumpleañero durante el desayuno.</li>
               <li>Desayuno buffet  en restaurante Gran Teocalli.</li>
-              <li>Transportacion local durante la actividad.</li>
+              <li>Transportación local durante la actividad.</li>
               <li>Seguro de pasajeros.</li>
             </ul>
             <br>
@@ -232,7 +233,7 @@
                   <input type="hidden" name="cmd" value="_s-xclick">
                   <input type="hidden" name="hosted_button_id" value="G96YV3MXGYDHC">
                   <table>
-                  <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado">Paquete Vuelo Privado</td></tr><tr><td><select name="os0">
+                  <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado"></td></tr><tr><td><select name="os0">
                     <option value="Vuelo privado (por persona)">Vuelo privado (por persona) $3,000.00 MXN</option>
                     <option value="Vuelo privado de LUNES a VIERNES (por persona)">Vuelo privado de LUNES a VIERNES (por persona) $2,800.00 MXN</option>
                   </select> </td></tr>
@@ -260,12 +261,12 @@
             <h4 class="text-warning">Incluye:</h4>
             <ul>
               <li>Coffee break en zona de despegue.</li>
-              <li>Banner " FELIZ CUMPLEAÑOS O FELIZ ANIVERSARIO ".</li>
+              <li>Banner " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO ".</li>
               <li>Vuelo en globo de 45 a 60 minutos.</li>
-              <li>Botella de vino blanco espumoso para brindar durante el vuelo.</li>
+              <li>Brindis de vino blanco espumoso. </li>
               <li>Fotos del vuelo para el festejado.</li>
               <li>Pastel individual para el cumpleañero durante el desayuno.</li>
-              <li>Transportacion local durante la actividad.</li>
+              <li>Transportación local durante la actividad.</li>
               <li>Seguro de pasajeros.</li>
             </ul>
             <br>
