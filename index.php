@@ -61,22 +61,7 @@
                         <br><br>
                         <a class="btn btn-success btn-md sombra" href="./vuelos.php#vueloCompartido">Ver detalles <i class="fa fa-chevron-right"></i></a>
 
-                        <br><br><br>
-
-                        <i class="texto3d textoBlanco textBienvenida2 dancing">
-                           Vuelo VIP:
-                        </i>
-                        <br>
-                        <i class="texto3d textoAmarillo juntion"><i class="fa fa-star" aria-hidden="true" id="estrella"></i>
-                             MXN $ 6,200.<sup>00</sup>
-                             <i class="fa fa-star" aria-hidden="true" id="estrella"></i>
-                        </i>
-                        <br><br>
-                        <a class="btn btn-success btn-md sombra" href="./vuelos.php#vueloVip">Ver detalles <i class="fa fa-chevron-right"></i></a>
-
-
-
-                </span></li>
+                  </span></li>
 
 
                 <li><p style="background-image: url(./images/calzada.jpg);" class="fondoP"><span>
@@ -121,7 +106,7 @@
               <h3 class="texto3d textoAmarillo"><i class="fa fa-star" aria-hidden="true" id="estrella"></i> Promociones <i class="fa fa-star" aria-hidden="true" id="estrella"></i></h3>
 
               <div class="row">
-                  <div class="col-md-6">
+                  <div class="col-md-12">
 
                     <p class="texto3d textoBlanco roboto">
                        Vuelo compartido a solo:
@@ -136,20 +121,7 @@
                     <a class="btn btn-warning btn-md sombra" href="./vuelos.php#vueloCompartido">Ver detalles <i class="fa fa-chevron-right"></i></a>
 
                   </div>
-                  <div class="col-md-6">
 
-                    <p class="texto3d textoBlanco roboto">
-                       Vuelo VIP a solo:
-                    </p>
-                    <h3 class="texto3d textoBlanco roboto"><i class="fa fa-star" aria-hidden="true" id="estrella"></i>
-                         MXN $ 6,200.<sup>00</sup>
-                         <i class="fa fa-star" aria-hidden="true" id="estrella"></i>
-                    </h3>
-                    <p>.</p>
-                    <a class="btn btn-warning btn-md sombra" href="./vuelos.php#vueloVip">Ver detalles <i class="fa fa-chevron-right"></i></a>
-
-
-                  </div>
               </div>
 
 
@@ -225,7 +197,9 @@
             <br>
             <h4 class="interlineadoA text-justify"><strong class="juntion">Aventura en Globos</strong> nace en el 2004 con la finalidad de reunir a los mejores pilotos de nuestro país y ellos a su vez con más de 20 años de experiencia volando sobre todo México nos permiten ofrecer un servicio turístico y de publicidad en vuelo de globo aerostático exclusivo,  personalizado y sobretodo más seguro, para que nuestros visitantes se lleven la mejor experiencia de su vida.
             </h4>
-            <h4 class="interlineadoA text-justify"><strong class="juntion">¿CUANDO VOLAMOS?</strong>
+            <br>
+            <h1 class="textBienvenida texto3d textoBlanco dancing"> ¿Cuándo volamos?</h1>
+            <h4 class="interlineadoA text-justify">
             <br>
             Volamos todos los días del año bajo previa reservación, la cita es aproximadamente a las 6:40 am  en nuestra zona de despegue, carretera libre México-Tulancingo km 27, si tu servicio también es con  hospedaje, te recogeremos en tu hotel,  para trasladarte a la zona de despegue. Aquí podrás observar y si lo deseas participar con el proceso de inflado de nuestros equipos, podrás tomarte la fotos que desees siguiendo las indicaciones de nuestro personal, una vez listo comienza “La Aventura de volar en Globo” y disfrutar de la hermosa vista panorámica de Teotihuacán.</h4>
 
