@@ -84,7 +84,7 @@
 
           </div>
                    <div class="col-md-4 text-center">
-            <h3 class="text-primary"> Precio por pasajero.</h3>
+            <h3 class="text-primary junction"> Precio por pasajero.</h3>
           </div>
         </div>
       </article>
@@ -258,7 +258,7 @@
               <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
-            <h3 class="text-primary">Precio por pasajero.</h3>
+            <h3 class="text-primary junction">Precio por pasajero.</h3>
           </div>
         </div>
       </article>
@@ -304,7 +304,7 @@
               <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
-            <h3 class="text-primary">Precio por pasajero.</h3>
+            <h3 class="text-primary junction">Precio por pasajero.</h3>
           </div>
         </div>
       </article>
