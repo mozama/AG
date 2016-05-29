@@ -24,47 +24,48 @@
 
 <body data-spy="scroll" data-target="#barraNav" >
     <?php include ("./secciones/menu.php"); ?>
-<div class="jumbotron principal" id="home">
+    <div class="jumbotron principal" id="home">
              <ul id="moodular">
-                  <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
               <!--  <li><p style="background-image: url(./images/globos.jpg);" class="fondoP"> -->
                   <span>
-                  <br><br><br>
-                  <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="Aventura el Globos">
-                  <br><br><br><br><br><br><br><br><br><br><br><br>
-                  <!--  <a class="btn btn-warning btn-md sombra" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a> -->
-                  <a class="enlaceSimple texto3d textoBlanco textBienvenida2 dancing" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
-                  <br><br>
-                  <i class="fa fa-cc-mastercard fa-3x textMC"></i>
-                  <i class="fa fa-cc-visa fa-3x textMC"></i>
-                  <i class="fa fa-cc-paypal fa-3x textMC"></i>
+                    <br><br><br>
+                    <img class="img-responsive imgPrincipal pull-left"  src="images/logo2.png" alt="Aventura el Globos">
+                    <br><br><br><br><br><br><br><br><br><br><br><br>
+                    <!--  <a class="btn btn-warning btn-md sombra" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a> -->
+                    <a class="enlaceSimple texto3d textoBlanco textBienvenida2 dancing" href="./vuelos.php">Conoce nuestros paquetes <i class="fa fa-chevron-right"></i></a>
+                    <br><br>
+                    <i class="fa fa-cc-mastercard fa-3x textMC"></i>
+                    <i class="fa fa-cc-visa fa-3x textMC"></i>
+                    <i class="fa fa-cc-paypal fa-3x textMC"></i>
+                    <i class="fa fa-chevron-down" aria-hidden="true"></i>
                   </span>
                 </p></li>
 
 
-                <li><p style="background-image: url(./images/arqueologica.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/arqueologica.jpg);" class="fondoP">
+                <span>
                   <br><br><br>
                   <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="dancing texto3d textoAmarillo textBienvenida">Promociones.</i>
                   <br>
-
-                        <i class="texto3d textoBlanco textBienvenida2 dancing">
-                           Vuelo compartido:
-                        </i>
-                        <i class="texto3d textoAmarillo juntion"><i class="fa fa-star" aria-hidden="true" id="estrella"></i>
-                             MXN $ 1,790.<sup>00</sup>
-                             <i class="fa fa-star" aria-hidden="true" id="estrella"></i>
-                        </i>
-                        <br>
-                        <i class="texto3d textoBlanco dancing">
-                           Válido hasta 31 de Junio de 2016
-                        </i>
-                        <br><br>
-                        <a class="btn btn-success btn-md sombra" href="./vuelos.php#vueloCompartido">Ver detalles <i class="fa fa-chevron-right"></i></a>
-
-                  </span></li>
+                  <i class="texto3d textoBlanco textBienvenida2 dancing">
+                     Vuelo compartido:
+                  </i>
+                  <i class="texto3d textoAmarillo juntion"><i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                     MXN $ 1,790.<sup>00</sup>
+                  <i class="fa fa-star" aria-hidden="true" id="estrella"></i>
+                  </i>
+                  <br>
+                  <i class="texto3d textoBlanco dancing">
+                     Válido hasta 31 de Junio de 2016
+                  </i>
+                  <br><br>
+                  <a class="btn btn-success btn-md sombra" href="./vuelos.php#vueloCompartido">Ver detalles <i class="fa fa-chevron-right"></i></a>
+                </span></li>
 
 
-                <li><p style="background-image: url(./images/calzada.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/calzada.jpg);" class="fondoP">
+                <span>
                   <br><br><br>
                   <i class="dancing texto3d textoAmarillo textBienvenida">Vuela sobre el valle de Teotihuacán, <br> vive la emoción.</i>
                   <br><br><br>
@@ -75,7 +76,8 @@
                   <i class="fa fa-cc-paypal fa-3x textMC"></i>
                 </span></p></li>
 
-                <li><p style="background-image: url(./images/arqueologica.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/amanecer.jpg);" class="fondoP">
+                <span>
                   <br><br><br>
                   <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="dancing texto3d textoAmarillo textBienvenida">Certificado de regalo.</i>
                   <br>
@@ -89,7 +91,7 @@
                 </span></li>
 
             </ul>
-</div>
+  </div>
 
   <section class="servicios" id="services">
     <div class="dmaskS1">
