@@ -13,7 +13,9 @@
 
 @font-face {
   font-family: dancing;
-   src: url(../fonts/DancingScript-Regular.otf);
+   src: url(../fonts/dancing-script.regular.ttf) format(opentype),
+        url(../fonts/DancingScript-Regular.otf) format(opentype)
+   ;
 }
 
 body,
@@ -58,7 +60,7 @@ html {
   font-family: pinyon,'Open Sans',serif;
 }
 .dancing{
-  font-family: dancing,'Open Sans',serif;
+  font-family: dancing, pinyon,serif;
 }
 .junction{
   font-family: junction,'Open Sans',serif;
