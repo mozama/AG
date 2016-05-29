@@ -38,7 +38,7 @@
                     <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                     <i class="fa fa-cc-visa fa-3x textMC"></i>
                     <i class="fa fa-cc-paypal fa-3x textMC"></i>
-                    <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                    
                   </span>
                 </p></li>
 

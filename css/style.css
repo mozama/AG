@@ -1,3 +1,8 @@
+@font-face {
+  font-family: dancing;
+   src: url(../fonts/dancing-script.regular.ttf) format('opentype'),
+   url(../fonts/DancingScript-Regular.otf) format('opentype');
+}
 @font-face{
   font-family: junction;
    src: url(../fonts/junction-regular.woff) format('woff');
@@ -11,12 +16,7 @@
    src: url(../fonts/Roboto-Regular.ttf);
 }
 
-@font-face {
-  font-family: dancing;
-   src: url(../fonts/dancing-script.regular.ttf) format(opentype),
-        url(../fonts/DancingScript-Regular.otf) format(opentype)
-   ;
-}
+
 
 body,
 html {
@@ -60,7 +60,7 @@ html {
   font-family: pinyon,'Open Sans',serif;
 }
 .dancing{
-  font-family: dancing, pinyon,serif;
+  font-family: dancing, 'Open Sans',serif;
 }
 .junction{
   font-family: junction,'Open Sans',serif;
@@ -178,7 +178,7 @@ html {
 .texto3d{
   text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+ h3, .h3{
     font-family: junction,'Open Sans',serif;
     font-weight: 400;
 }

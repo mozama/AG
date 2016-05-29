@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -51,7 +50,7 @@
                <input type="hidden" name="cmd" value="_s-xclick">
                <input type="hidden" name="hosted_button_id" value="TWB97YKBALNFL">
                <table>
-               <tr><td><input type="hidden" name="on0" value="Hotel Quinto Sol Habitacion">Hotel Quinto Sol Habitación</td></tr><tr><td><select name="os0">
+               <tr><td><input type="hidden" name="on0" value="Hotel Quinto Sol Habitacion">Hotel Quinto Sol Habitacion</td></tr><tr><td><select name="os0">
                  <option value="Habitacion ocupacion doble">Habitación ocupación doble $1,100.00 MXN</option>
                  <option value="Habitacion ocupacion triple">Habitación ocupación triple $1,350.00 MXN</option>
                  <option value="Habitacion ocupacion cuadruple">Habitación ocupación cuadruple $1,450.00 MXN</option>
@@ -152,7 +151,7 @@
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="WED23N73JYXVG">
                     <table>
-                    <tr><td><input type="hidden" name="on0" value="Posada Jade Hataciones">Posada Jade Hataciones</td></tr><tr><td><select name="os0">
+                    <tr><td><input type="hidden" name="on0" value="Posada Jade Hataciones"></td></tr><tr><td><select name="os0">
                       <option value="Habitacion ocupacion doble">Habitación ocupación doble $600.00 MXN</option>
                       <option value="Habitacion ocupacion tiple">Habitación ocupación tiple $650.00 MXN</option>
                       <option value="Habitacion ocupacion Cuadruple">Habitación ocupación Cuadruple $700.00 MXN</option>
@@ -192,10 +191,10 @@
                    <input type="hidden" name="cmd" value="_s-xclick">
                    <input type="hidden" name="hosted_button_id" value="RJVV425NUCSH6">
                    <table>
-                   <tr><td><input type="hidden" name="on0" value="Posada Ahuehuetes Hataciones">Posada Ahuehuetes Hataciones</td></tr><tr><td><select name="os0">
+                   <tr><td><input type="hidden" name="on0" value="Posada Ahuehuetes Hataciones"></td></tr><tr><td><select name="os0">
                      <option value="Habitacion ocupacion doble">Habitación ocupación doble $600.00 MXN</option>
                      <option value="Habitacion ocupacion tiple">Habitación ocupación tiple $700.00 MXN</option>
-                     <option value="Cabana">Cabaña $1,200.00 MXN</option>
+                     <option value="Cabana">Cabana $1,200.00 MXN</option>
                    </select> </td></tr>
                    </table>
                    <input type="hidden" name="currency_code" value="MXN">

@@ -36,18 +36,18 @@
         </div>
         <div class="row">
           <div class="col-md-7">
-            <h4 class="text-warning">Incluye:</h4>
+            <h4 class="text-warning juntion">Incluye:</h4>
             <ul>
-              <li>Coffee break en zona de despegue.</li>
-              <li>Vuelo en Globo de 45 a 60 minutos.</li>
-              <li>Brindis con vino blanco espumoso al aterrizar.</li>
-              <li>Certificado de vuelo por pasajero.</li>
-              <li>Desayuno Buffet en Restaurante Gran Teocalli.</li>
-              <li>Transportación local durante la actividad.</li>
-              <li>Seguro de pasajeros.</li>
+              <li class="juntion">Coffee break en zona de despegue.</li>
+              <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
+              <li class="juntion">Brindis con vino blanco espumoso al aterrizar.</li>
+              <li class="juntion">Certificado de vuelo por pasajero.</li>
+              <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
+              <li class="juntion">Transportación local durante la actividad.</li>
+              <li class="juntion">Seguro de pasajeros.</li>
             </ul>
             <br>
-            <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
+            <h4 class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
             regreso al DF, pregunta costos.<br> </b></h4>
           </div>
           <div class="col-md-4">
@@ -96,18 +96,18 @@
         </div>
         <div class="row">
           <div class="col-md-7">
-            <h4 class="text-warning">Incluye:</h4>
+            <h4 class="text-warning junction">Incluye:</h4>
             <ul>
-              <li>Coffee break en zona de despegue.</li>
-              <li>Vuelo en Globo de 45 a 60 minutos.</li>
-              <li>Desplegado de banner " TE QUIERES CASAR CONMIGO " " QUIERES SER MI NOVIA " durante el vuelo.</li>
-              <li>Botella de vino blanco espumoso para brindar después de la exhibición  el vuelo.</li>
-              <li>Fotos con cámara fija (Gopro).</li>
-              <li>Certificado de vuelo por pasajero.</li>
-              <li>Desayuno Buffet en Restaurante Gran Teocalli.</li>
-              <li>Ramo de rosas (una docena).</li>
-              <li>Transportacion local durante la actividad.</li>
-              <li>Seguro de pasajeros.</li>
+              <li class="juntion">Coffee break en zona de despegue.</li>
+              <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
+              <li class="juntion">Desplegado de banner " TE QUIERES CASAR CONMIGO " " QUIERES SER MI NOVIA " durante el vuelo.</li>
+              <li class="juntion">Botella de vino blanco espumoso para brindar después de la exhibición  el vuelo.</li>
+              <li class="juntion">Fotos con cámara fija (Gopro).</li>
+              <li class="juntion">Certificado de vuelo por pasajero.</li>
+              <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
+              <li class="juntion">Ramo de rosas (una docena).</li>
+              <li class="juntion">Transportacion local durante la actividad.</li>
+              <li class="juntion">Seguro de pasajeros.</li>
             </ul>
       <br>
         <!--    <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
@@ -157,18 +157,18 @@
         </div>
         <div class="row">
           <div class="col-md-7">
-            <h4 class="text-warning">Incluye:</h4>
+            <h4 class="text-warning junction">Incluye:</h4>
             <ul>
-              <li>Coffee break en zona de despegue.</li>
-              <li>Vuelo en Globo de 45 a 60 minutos.</li>
-              <li>Banner de " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO "</li>
-              <li>Botella de vino blanco espumoso para brindar durante el vuelo.</li>
-              <li>Certificado de vuelo por pasajero</li>
-              <li>Desayuno Buffet en Restaurante Gran Teocalli.</li>
-              <li>Transportacion local durante la actividad</li>
+              <li class="juntion">Coffee break en zona de despegue.</li>
+              <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
+              <li class="juntion">Banner de " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO "</li>
+              <li class="juntion">Botella de vino blanco espumoso para brindar durante el vuelo.</li>
+              <li class="juntion">Certificado de vuelo por pasajero</li>
+              <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
+              <li class="juntion">Transportacion local durante la actividad</li>
             </ul>
             <br>
-            <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
+            <h4 class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
             regreso al DF, pregunta costos. <br></b></h4>
           </div>
           <div class="col-md-4">
@@ -206,21 +206,21 @@
       <article >
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Vuelo Privado: <small class="textoBlanco"> Exclusivo para ti y tus acompañantes mínimo dos personas</small></h2>
+            <h3><i class="fa fa-bookmark"></i> Vuelo Privado: <small class="textoBlanco"> Exclusivo para ti y tus acompañantes mínimo dos personas</small></h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
-            <h4 class="text-warning">Incluye:</h4>
+            <h5 class="text-warning junction">Incluye:</h5>
             <ul>
-              <li>Coffee break en zona de despegue.</li>
-              <li>Vuelo exclusivo para dos personas de 45 a 60 minutos.</li>
-              <li>Botella de vino blanco espumoso para brindar durante el vuelo.</li>
-              <li>Banner " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO ".</li>
-              <li>Pastel individual para el cumpleañero durante el desayuno.</li>
-              <li>Desayuno buffet  en restaurante Gran Teocalli.</li>
-              <li>Transportación local durante la actividad.</li>
-              <li>Seguro de pasajeros.</li>
+              <li class="juntion">Coffee break en zona de despegue.</li>
+              <li class="juntion">Vuelo exclusivo para dos personas de 45 a 60 minutos.</li>
+              <li class="juntion">Botella de vino blanco espumoso para brindar durante el vuelo.</li>
+              <li class="juntion">Banner " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO ".</li>
+              <li class="juntion">Pastel individual para el cumpleañero durante el desayuno.</li>
+              <li class="juntion">Desayuno buffet  en restaurante Gran Teocalli.</li>
+              <li class="juntion">Transportación local durante la actividad.</li>
+              <li class="juntion">Seguro de pasajeros.</li>
             </ul>
             <br>
             <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
@@ -266,19 +266,19 @@
         </div>
         <div class="row">
           <div class="col-md-7">
-            <h4 class="text-warning">Incluye:</h4>
+            <h4 class="text-warning junction">Incluye:</h4>
             <ul>
-              <li>Coffee break en zona de despegue.</li>
-              <li>Banner " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO ".</li>
-              <li>Vuelo en globo de 45 a 60 minutos.</li>
-              <li>Brindis de vino blanco espumoso. </li>
-              <li>Fotos del vuelo para el festejado.</li>
-              <li>Pastel individual para el cumpleañero durante el desayuno.</li>
-              <li>Transportación local durante la actividad.</li>
-              <li>Seguro de pasajeros.</li>
+              <li class="juntion">Coffee break en zona de despegue.</li>
+              <li class="juntion">Banner " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO ".</li>
+              <li class="juntion">Vuelo en globo de 45 a 60 minutos.</li>
+              <li class="juntion">Brindis de vino blanco espumoso. </li>
+              <li class="juntion">Fotos del vuelo para el festejado.</li>
+              <li class="juntion">Pastel individual para el cumpleañero durante el desayuno.</li>
+              <li class="juntion">Transportación local durante la actividad.</li>
+              <li class="juntion">Seguro de pasajeros.</li>
             </ul>
             <br>
-            <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
+            <h4 class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
             regreso al DF, pregunta costos. <br> </b></h4>
           </div>
           <div class="col-md-4">
