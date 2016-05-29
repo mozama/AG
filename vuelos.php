@@ -91,7 +91,7 @@
       <article id="vueloVip">
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Vuelo VIP: <!--small class="textoBlanco">Vuelo para entregar anillo de compromiso o quieres ser mi novia</small--></h2>
+            <h2><i class="fa fa-bookmark"></i> Vuelo VIP: <small class="textoBlanco">Para esa ocación especial</small></h2>
           </div>
         </div>
         <div class="row">
@@ -101,7 +101,7 @@
               <li class="juntion">Coffee break en zona de despegue.</li>
               <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
               <li class="juntion">Desplegado de banner " TE QUIERES CASAR CONMIGO " " QUIERES SER MI NOVIA " durante el vuelo.</li>
-              <li class="juntion">Botella de vino blanco espumoso para brindar después de la exhibición  el vuelo.</li>
+              <li class="juntion">Botella de vino blanco espumoso para brindar después de la exhibición  del banner.</li>
               <li class="juntion">Fotos con cámara fija (Gopro).</li>
               <li class="juntion">Certificado de vuelo por pasajero.</li>
               <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
@@ -114,8 +114,8 @@
             regreso al DF, pregunta costos.<br> </b></h4> -->
           </div>
           <div class="col-md-4">
-            <br><br><br><br><br>
-              <img class="img-responsive img-rounded img" src="images/galeria/10.jpg" alt="anillo de compromiso">
+            <br><br>
+              <center><img class="img-responsive img-rounded img" src="images/galeria/10.jpg" alt="anillo de compromiso"></center>
           </div>
         </div>
         <div class="row">
@@ -161,11 +161,13 @@
             <ul>
               <li class="juntion">Coffee break en zona de despegue.</li>
               <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
-              <li class="juntion">Banner de " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO "</li>
+              <li class="juntion">Banner de " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO ".</li>
               <li class="juntion">Botella de vino blanco espumoso para brindar durante el vuelo.</li>
-              <li class="juntion">Certificado de vuelo por pasajero</li>
+              <li class="juntion">Certificado de vuelo por pasajero.</li>
               <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
-              <li class="juntion">Transportacion local durante la actividad</li>
+              <li class="juntion">Pastel individual para el cumpleañero durante el desayuno.</li>
+              <li class="juntion">Transportacion local durante la actividad.</li>
+              <li class="juntion">Seguro de pasajero.</li>
             </ul>
             <br>
             <h4 class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
@@ -228,7 +230,7 @@
           </div>
           <div class="col-md-4">
             <br>
-            <img class="img-responsive img-rounded img" src="images/cumpleanios.jpg" alt="cumpleanos">
+            <img class="img-responsive img-rounded img" src="images/galeria/16.jpg" alt="cumpleanos">
           </div>
         </div>
         <div class="row">

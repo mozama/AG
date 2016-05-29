@@ -34,6 +34,11 @@
             <p class="text-justify juntion">
               Somos una empresa dedicada a generar experiencias en globo, contamos con pilotos certificados por la DGAC ( Dirección General de Aeronáutica Civil ), 17 años de experiencia nos avalan.
             </p>
+            <br>
+            <p>
+              <h4></i> ¿Cuándo volamos?</h4>
+              Volamos todos los días del año bajo previa reservación, la cita es aproximadamente a las 6:40 am  en nuestra zona de despegue, carretera libre México-Tulancingo km 27, si tu servicio también es con  hospedaje, te recogeremos en tu hotel,  para trasladarte a la zona de despegue. Aquí podrás observar y si lo deseas participar con el proceso de inflado de nuestros equipos, podrás tomarte la fotos que desees siguiendo las indicaciones de nuestro personal, una vez listo comienza “La Aventura de volar en Globo” y disfrutar de la hermosa vista panorámica de Teotihuacán.
+            </p>
           </div>
           <div class="col-md-4">
             <img class="img-responsive img-rounded imgP" src="images/aventura.jpg" alt="valle de teotihuacan" />
