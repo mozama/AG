@@ -31,12 +31,13 @@
       <article id="vueloCompartido">
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Vuelo Compartido: <small class="textoBlanco">Canastilla compartida con otros pasajeros</small></h2>
+            <h3 class="junction"><i class="fa fa-bookmark"></i> Vuelo Compartido: <small class="textoBlanco">Canastilla compartida con otros pasajeros</small></h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
-            <h4 class="text-warning juntion">Incluye:</h4>
+            <br>
+            <p class="text-warning juntion"><b>Incluye:</b></p>
             <ul>
               <li class="juntion">Coffee break en zona de despegue.</li>
               <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
@@ -47,8 +48,8 @@
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
             <br>
-            <h4 class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos.<br> </b></h4>
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
+            regreso al DF, pregunta costos.<br> </b></p>
           </div>
           <div class="col-md-4">
             <br><br>
@@ -58,9 +59,9 @@
         <div class="row">
           <div class="col-md-7 text-center ">
               <!--<h3 class="textoNaranja">MXN $ 2,100.<sup>00</sup></h3>-->
-              <h3 class="textoAmber">Promoción de $2,100.<sup>00</sup></h3>
-              <h3 class="textoNaranja"><i class="fa fa-star" id="estrella"></i>  a solo $1,790.<sup>00</sup> MXN <i class="fa fa-star" id="estrella"></i></h3>
-              <h4 class="text-warning">Válido hasta el 31 de Junio 2016</h4>
+              <p class="textoAmber textoPromocion">Promoción de $2,100.<sup>00</sup></p>
+              <p class="textoNaranja textoPromocion"><i class="fa fa-star" id="estrella"></i>  a solo $1,790.<sup>00</sup> MXN <i class="fa fa-star" id="estrella"></i></p>
+              <p class="text-warning roboto">Válido hasta el 31 de Junio 2016</p>
         <!-- vuelo compartido -->
               <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
               <input type="hidden" name="cmd" value="_s-xclick">
@@ -91,7 +92,7 @@
       <article id="vueloVip">
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Vuelo VIP: <small class="textoBlanco">Para esa ocación especial</small></h2>
+            <h3 class="junction"><i class="fa fa-bookmark"></i> Vuelo VIP: <small class="textoBlanco">Para esa ocación especial</small></h3>
           </div>
         </div>
         <div class="row">
@@ -120,9 +121,9 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-              <h3 class="textoNaranja">Sábados y Domingos: $ 6,600.<sup>00</sup> MXN</h3>
-              <h3 class="textoAmber"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 6,200.<sup>00</sup> MXN</h3>
-              <h4 class="text-warning">No aplica en días festivos</h4>
+              <p class="textoNaranja textoPromocion">Sábados y Domingos: $ 6,600.<sup>00</sup> MXN</p>
+              <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 6,200.<sup>00</sup> MXN</p>
+              <p class="text-warning roboto">No aplica en días festivos</p>
               <br>
               <!--Carrito vip-->
 
@@ -152,7 +153,7 @@
       <article >
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Vuelo Madrugador: <small class="textoBlanco">Vive la experiencia de ver el amanecer del valle de Teotihuacán</small></h2>
+            <h3 class="junction"><i class="fa fa-bookmark"></i> Vuelo Madrugador: <small class="textoBlanco">Vive la experiencia de ver el amanecer del valle de Teotihuacán</small></p>
           </div>
         </div>
         <div class="row">
@@ -170,8 +171,8 @@
               <li class="juntion">Seguro de pasajero.</li>
             </ul>
             <br>
-            <h4 class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br></b></h4>
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
+            regreso al DF, pregunta costos. <br></b></p>
           </div>
           <div class="col-md-4">
             <br><br>
@@ -180,9 +181,10 @@
 
         <div class="row">
           <div class="col-md-7 text-center">
-              <h3 class="textoNaranja">Sábados y Domingos: $ 6,200.<sup>00</sup> MXN</h3>
-               <h3 class="textoAmber"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 5,800.<sup>00</sup> MXN</h3>
-              <h4 class="text-warning">No aplica en días festivos</h4>
+            <br><br>
+              <p class="textoNaranja textoPromocion">Sábados y Domingos: $ 6,200.<sup>00</sup> MXN</p>
+              <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 5,800.<sup>00</sup> MXN</p>
+              <p class="text-warning roboto">No aplica en días festivos</p>
               <!--vuelo madrugador carrito-->
                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                    <input type="hidden" name="cmd" value="_s-xclick">
@@ -208,12 +210,12 @@
       <article >
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h3><i class="fa fa-bookmark"></i> Vuelo Privado: <small class="textoBlanco"> Exclusivo para ti y tus acompañantes mínimo dos personas</small></h3>
+            <h3 class="junction"><i class="fa fa-bookmark"></i> Vuelo Privado: <small class="textoBlanco"> Exclusivo para ti y tus acompañantes mínimo dos personas</small></h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
-            <h5 class="text-warning junction">Incluye:</h5>
+            <h4 class="text-warning junction">Incluye:</h4>
             <ul>
               <li class="juntion">Coffee break en zona de despegue.</li>
               <li class="juntion">Vuelo exclusivo para dos personas de 45 a 60 minutos.</li>
@@ -225,8 +227,8 @@
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
             <br>
-            <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br> </b></h4>
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
+            regreso al DF, pregunta costos. <br> </b></p>
           </div>
           <div class="col-md-4">
             <br>
@@ -235,9 +237,10 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-                <h3 class="textoNaranja">Sábados y Domingos: $ 3,000.<sup>00</sup> MXN</h3>
-                <h3 class="textoAmber"><i class="fa fa-star"></i> Promoción Lunes a Viernes: $ 2,800.<sup>00</sup> MXN</h3>
-                <h4 class="text-warning">No aplica en días festivos</h4>
+            <br><br>
+                <p class="textoNaranja textoPromocion">Sábados y Domingos: $ 3,000.<sup>00</sup> MXN</p>
+                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción Lunes a Viernes: $ 2,800.<sup>00</sup> MXN</p>
+                <p class="text-warning roboto">No aplica en días festivos</p>
               <!--carrito vuelo privado-->
                   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                   <input type="hidden" name="cmd" value="_s-xclick">
@@ -263,7 +266,7 @@
       <article >
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bookmark"></i> Vuelo Cumpleañero:</h2>
+            <h3 class="junction"><i class="fa fa-bookmark"></i> Vuelo Cumpleañero:</p>
           </div>
         </div>
         <div class="row">
@@ -280,8 +283,8 @@
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
             <br>
-            <h4 class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br> </b></h4>
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
+            regreso al DF, pregunta costos. <br> </b></p>
           </div>
           <div class="col-md-4">
             <br>

@@ -21,22 +21,21 @@
 <?php include ("./secciones/menu.php"); ?>
 
 <div class="contenidoPag">
-      <article>
+      <article class="">
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2 class="juntion"><i class="fa fa-users"></i> Nosotros:</h2>
+            <h3 class="juntion"><i class="fa fa-users"></i> Nosotros:</h3>
           </div>
         </div>
         <br>
         <div class="row">
-
           <div class="col-md-8">
-            <p class="text-justify juntion">
+            <p class="text-justify ">
               Somos una empresa dedicada a generar experiencias en globo, contamos con pilotos certificados por la DGAC ( Dirección General de Aeronáutica Civil ), 17 años de experiencia nos avalan.
             </p>
             <br>
-            <p>
-              <h4></i> ¿Cuándo volamos?</h4>
+            <h4>¿Cuándo volamos?</h4>
+            <p class="">
               Volamos todos los días del año bajo previa reservación, la cita es aproximadamente a las 6:40 am  en nuestra zona de despegue, carretera libre México-Tulancingo km 27, si tu servicio también es con  hospedaje, te recogeremos en tu hotel,  para trasladarte a la zona de despegue. Aquí podrás observar y si lo deseas participar con el proceso de inflado de nuestros equipos, podrás tomarte la fotos que desees siguiendo las indicaciones de nuestro personal, una vez listo comienza “La Aventura de volar en Globo” y disfrutar de la hermosa vista panorámica de Teotihuacán.
             </p>
           </div>
@@ -48,14 +47,14 @@
 <br>
   <div class="row">
     <div class="col-md-6">
-      <article >
+      <article>
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
-            <h2 class="juntion"><i class="fa fa-users"></i> Visión:</h2>
+            <h3 class="juntion"><i class="fa fa-users"></i> Visión:</h3>
           </div>
         </div>
         <br>
-        <p class="text-justify juntion">
+        <p class="text-justify ">
           Consolidarnos como una de las empresas más importantes y reconocidas por sus altos estándares de calidad en el servicio de vuelos en globo aerostático en México.
         </p>
         <div aling="center">
@@ -71,11 +70,11 @@
           <article >
             <div class="row cabeceraVuelo">
               <div class="col-lg-12">
-                <h2 class="juntion"><i class="fa fa-users"></i> Misión:</h2>
+                <h3 class="juntion"><i class="fa fa-users"></i> Misión:</h3>
               </div>
             </div>
             <br>
-            <p class="text-justify juntion">
+            <p class="text-justify ">
               Prestar servicios turísticos de vuelo en globo aerostático con el compromiso de cumplir a las necesidades, deseos y demandas de cada uno de nuestros visitantes mediante un servicio exclusivo, altamente seguro y de calidad que contribuya de igual manera al desarrollo sustentable de la región del Valle de Teotihuacán.
             </p>
           </article>
@@ -87,11 +86,11 @@
           <article >
             <div class="row cabeceraVuelo">
               <div class="col-lg-12">
-                <h2 class="juntion"><i class="fa fa-users"></i> Valores:</h2>
+                <h3 class="juntion"><i class="fa fa-users"></i> Valores:</h3>
               </div>
             </div>
             <br>
-            <p class="text-justify juntion">
+            <p class="text-justify ">
               Nuestra empresa cree en el profesionalismo, la honestidad, la responsabilidad, la honradez, el respeto, el cuidado al medio ambiente y la capacitación constante para alcanzar la excelencia en el servicio que ofrecemos a nuestros visitantes.
             </p>
           </article>

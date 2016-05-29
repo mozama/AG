@@ -30,7 +30,7 @@
   <article >
     <div class="row cabecera">
       <div class="col-lg-12">
-        <h2><i class="fa fa-picture-o"></i> Fotos</h2>
+        <h3 class="junction"><i class="fa fa-picture-o"></i> Fotos</h3>
       </div>
     </div>
     <br>

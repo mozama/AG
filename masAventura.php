@@ -32,7 +32,7 @@
       <article >
         <div class="row cabeceraAventura">
           <div class="col-lg-12">
-            <h2><i class="fa fa-paper-plane"></i> Ultraligero: <small class="textoBlanco">Ven a sentir la adrenalina de volar sobre el Valle de Teotihuacán</small></h2>
+            <h3 class="junction"><i class="fa fa-paper-plane"></i> Ultraligero: <small class="textoBlanco">Ven a sentir la adrenalina de volar sobre el Valle de Teotihuacán</small></h3>
           </div>
         </div>
         <div class="row">
@@ -40,9 +40,9 @@
             <br>
             <h4 class="text-warning">Sabados y domingos.</h4>
             <ul>
-              <li>Vuelo en Ultraligero de 15 min sobre el Valle de Teotihuacan.</li>
-              <li> Horario de 10:00 am a 2:00 pm.</li>
-              <li>Si quieres adquirir el video de tu experiencia tiene un costo extra, el cual puedes pedir antes de tu vuelo.</li>
+              <li class="junction">Vuelo en Ultraligero de 15 min sobre el Valle de Teotihuacan.</li>
+              <li class="junction"> Horario de 10:00 am a 2:00 pm.</li>
+              <li class="junction">Si quieres adquirir el video de tu experiencia tiene un costo extra, el cual puedes pedir antes de tu vuelo.</li>
             </ul>
           </div>
           <div class="col-md-4">
@@ -53,7 +53,7 @@
 
         <div class="row">
           <div class="col-md-7 text-center">
-              <h3 class="textoNaranja">MXN $ 1,200.<sup>00</sup></h3>
+              <p class="textoNaranja textoPromocion">MXN $ 1,200.<sup>00</sup></p>
         <!--carrito ultraligero-->
          <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 			<input type="hidden" name="cmd" value="_s-xclick">
@@ -74,20 +74,21 @@
         <div class="row cabeceraAventura">
           <div class="col-lg-12">
 
-            <h2><i class="fa fa-cloud"></i> Temazcal: <small class="textoBlanco">Temazcal prehispánico</small></h2>
+            <h3 class="junction"><i class="fa fa-cloud"></i> Temazcal: <small class="textoBlanco">Temazcal prehispánico</small></h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
             <br><br>
-            <h4 class="text-warning">Incluye:</h4>
+            <h4 class="text-warning junction">Incluye:</h4>
             <ul>
-              <li>Explicación sobre Temazcal.</li>
-              <li>Temazcal de 2 horas (4 puertas).</li>
-              <li>Té o agua.</li>
-              <li>Mascarilla de sábila o barro durante el Temazcal.</li>
+              <li class="junction">Explicación sobre Temazcal.</li>
+              <li class="junction">Temazcal de 2 horas (4 puertas).</li>
+              <li class="junction">Té o agua.</li>
+              <li class="junction">Mascarilla de sábila o barro durante el Temazcal.</li>
             </ul>
-            <h3 class="text-warning" >Duración 2 horas aproximadamente.</h3>
+            <br><br>
+            <p class="text-warning textoIndex2">Duración 2 horas aproximadamente.</p>
           </div>
           <div class="col-md-4">
             <br>
@@ -97,7 +98,7 @@
 
         <div class="row">
           <div class="col-md-6 text-center">
-              <h3 class="textoNaranja">MXN $ 400.<sup>00</sup></h3>
+              <p class="textoNaranja textoPromocion">MXN $ 400.<sup>00</sup></p>
 				<!--carrito-->
 				<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 					<input type="hidden" name="cmd" value="_s-xclick">
@@ -119,25 +120,25 @@
       <article >
         <div class="row cabeceraAventura">
           <div class="col-lg-12">
-            <h2><i class="fa fa-users"></i> Visita Guiada: <small class="textoBlanco">Conoce más sobre la zona arqueológica</small></h2>
+            <h3 class="junction"><i class="fa fa-users"></i> Visita Guiada: <small class="textoBlanco">Conoce más sobre la zona arqueológica</small></h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
             <br>
-            <h4 class="text-warning">Incluye:</h4>
+            <h4 class="text-warning junction">Incluye:</h4>
             <ul>
-              <li>El recorrido comienza por la Puerta 1.</li>
-              <li>Visita al Templo de Quetzalcoatl y ciudadela.</li>
-              <li>Recorrido por la calzada de los muertos.</li>
-              <li>Ascenso a la Pirámide del sol.</li>
-              <li>Visita al conjunto de la Plaza Oeste.</li>
-              <li>Ascenso a la Pirámide de la Luna.</li>
-              <li>Visita a la Plaza de Quetzapapalotl.</li>
-              <li>Visita al conjunto de Jaguares.</li>
-              <li>Museo.</li>
+              <li class="junction">El recorrido comienza por la Puerta 1.</li>
+              <li class="junction">Visita al Templo de Quetzalcoatl y ciudadela.</li>
+              <li class="junction">Recorrido por la calzada de los muertos.</li>
+              <li class="junction">Ascenso a la Pirámide del sol.</li>
+              <li class="junction">Visita al conjunto de la Plaza Oeste.</li>
+              <li class="junction">Ascenso a la Pirámide de la Luna.</li>
+              <li class="junction">Visita a la Plaza de Quetzapapalotl.</li>
+              <li class="junction">Visita al conjunto de Jaguares.</li>
+              <li class="junction">Museo.</li>
             </ul>
-            <h3 class="text-warning">Duración de 3 a 4 horas aproximadamente.</h3>
+            <p class="text-warning textoIndex2">Duración de 3 a 4 horas aproximadamente.</p>
           </div>
           <div class="col-md-4" align="center">
             <br>
@@ -147,8 +148,8 @@
 
         <div class="row">
           <div class="col-md-7 text-center">
-              <h3 class="text-warning">Idioma español: <span class="textoNaranja">MXN $ 750.<sup>00</sup></span></h3>
-              <h3 class="text-warning">Idioma inglés: <span class="textoNaranja">MXN $ 850.<sup>00</sup></span></h3>
+              <p class="text-warning textoPromocion">Idioma español: <span class="textoNaranja">MXN $ 750.<sup>00</sup></span></p>
+              <p class="text-warning textoPromocion">Idioma inglés: <span class="textoNaranja">MXN $ 850.<sup>00</sup></span></p>
 
               <!--Carrito-->
               <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -178,25 +179,25 @@
       <article >
         <div class="row cabeceraAventura">
           <div class="col-lg-12">
-            <h2><i class="fa fa-motorcycle"></i> Tour en Cuatrimoto: <small class="textoBlanco">Aventura al máximo</small></h2>
+            <h3 class="junction"><i class="fa fa-motorcycle"></i> Tour en Cuatrimoto: <small class="textoBlanco">Aventura al máximo</small></h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
             <br>
-          <h4 class="text-warning">Incluye:</h4>
+          <h4 class="text-warning junction">Incluye:</h4>
             <ul>
-              <li>Renta de cuatrimoto, casco y chaleco reflejante.</li>
-              <li>Hidratación (botella de agua o bebida energética).</li>
-              <li>Visita a fábrica de licores y dulces típicos de la región.</li>
-              <li>Entrada a cuevas de zona conocida  como Oxtoyahualco.</li>
-              <li>Tirolesa.</li>
-              <li>Visita palacio de Tetitla y Atetelco.</li>
-              <li>Visita taller de artesanías.</li>
-              <li>Taller de maguey.</li>
-              <li>Guía durante el recorrido.</li>
+              <li class="junction">Renta de cuatrimoto, casco y chaleco reflejante.</li>
+              <li class="junction">Hidratación (botella de agua o bebida energética).</li>
+              <li class="junction">Visita a fábrica de licores y dulces típicos de la región.</li>
+              <li class="junction">Entrada a cuevas de zona conocida  como Oxtoyahualco.</li>
+              <li class="junction">Tirolesa.</li>
+              <li class="junction">Visita palacio de Tetitla y Atetelco.</li>
+              <li class="junction">Visita taller de artesanías.</li>
+              <li class="junction">Taller de maguey.</li>
+              <li class="junction">Guía durante el recorrido.</li>
             </ul>
-            <h3 class="text-warning">Duración 3 horas 30 minutos aproximadamente.</h3>
+            <p class="text-warning textoIndex2">Duración 3 horas 30 minutos aproximadamente.</p>
           </div>
           <div class="col-md-4">
             <br><br><br>
@@ -206,7 +207,7 @@
 
         <div class="row">
           <div class="col-md-7 text-center">
-              <h3 class="textoNaranja">MXN $ 850.<sup>00</sup></h3>
+          <p class="textoNaranja textoPromocion">MXN $ 850.<sup>00</sup></p>
           <!--carroti-->
           <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -228,26 +229,26 @@
       <article >
         <div class="row cabeceraAventura">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bicycle"></i> Tour en bici: <small class="textoBlanco"> Ruta pulque-arqueológica</small></h2>
+            <h3 class="junction"><i class="fa fa-bicycle"></i> Tour en bici: <small class="textoBlanco"> Ruta pulque-arqueológica</small></h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
             <br>
-            <h4 class="text-warning">Incluye</h4>
+            <h4 class="text-warning junction">Incluye</h4>
             <ul>
-              <li>Renta de Bici</li>
-              <li>Paseo por el Valle de Teotihuacan.</li>
-              <li>Visita guiada por la ruta de los Murales (Tetitla, Atetelco y Tepantitla).</li>
-              <li>Visita Taller de Obsidianas.</li>
-              <li>Degustación del Pulque mientras a Pie de maguey conocemos su história.</li>
-              <li>Visita a la Fábrica de productos de Tuna, Nopal y Xoconoxtle.</li>
-              <li>Guía en todo el recorrido.</li>
-              <li>Botella de agua y Lunch.</li>
-              <li>De Lunes a Domingo a las 9:00 hrs.</li>
-              <li>Distancia promedio 10 km.</li>
+              <li class="junction">Renta de Bici</li>
+              <li class="junction">Paseo por el Valle de Teotihuacan.</li>
+              <li class="junction">Visita guiada por la ruta de los Murales (Tetitla, Atetelco y Tepantitla).</li>
+              <li class="junction">Visita Taller de Obsidianas.</li>
+              <li class="junction">Degustación del Pulque mientras a Pie de maguey conocemos su história.</li>
+              <li class="junction">Visita a la Fábrica de productos de Tuna, Nopal y Xoconoxtle.</li>
+              <li class="junction">Guía en todo el recorrido.</li>
+              <li class="junction">Botella de agua y Lunch.</li>
+              <li class="junction">De Lunes a Domingo a las 9:00 hrs.</li>
+              <li class="junction">Distancia promedio 10 km.</li>
             </ul>
-            <h3 class="text-warning">Duración 5 horas aproximadamente.</h3>
+            <p class="text-warning textoIndex2">Duración 5 horas aproximadamente.</p>
           </div>
           <div class="col-md-4">
             <br><br><br><br><br>
@@ -257,7 +258,7 @@
 
         <div class="row">
           <div class="col-md-7 text-center">
-              <h3 class="textoNaranja">MXN $ 400.<sup>00</sup> </h3>
+          <p class="textoNaranja textoPromocion">MXN $ 400.<sup>00</sup> </p>
           <!--carrito-->
           <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 			<input type="hidden" name="cmd" value="_s-xclick">
@@ -278,25 +279,25 @@
       <article >
         <div class="row cabeceraAventura">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bicycle"></i> Bicitour Teotihuacan: <small class="textoBlanco">Bike Cueva</small></h2>
+            <h3 class="junction"><i class="fa fa-bicycle"></i> Bicitour Teotihuacan: <small class="textoBlanco">Bike Cueva</small></h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
             <br>
-            <h4 class="text-warning">Incluye</h4>
+            <h4 class="text-warning junction">Incluye</h4>
             <ul>
-              <li>Renta de Bici.</li>
-              <li>Paseo por el Valle de Teotihuacan.</li>
-              <li>Visita a la Cueva de la Región.</li>
-              <li>Visita Taller de Obsidianas.</li>
-              <li>Visita a la Fabrica de productos de Tuna, Nopal y Xoconoxtle.</li>
-              <li>Guía en todo el recorrido.</li>
-              <li>Botella de agua y Lunch.</li>
-              <li>De Lunes a Domingo a las 9:00 hrs.</li>
-              <li>Distancia promedio 10 km.</li>
+              <li class="junction">Renta de Bici.</li>
+              <li class="junction">Paseo por el Valle de Teotihuacan.</li>
+              <li class="junction">Visita a la Cueva de la Región.</li>
+              <li class="junction">Visita Taller de Obsidianas.</li>
+              <li class="junction">Visita a la Fabrica de productos de Tuna, Nopal y Xoconoxtle.</li>
+              <li class="junction">Guía en todo el recorrido.</li>
+              <li class="junction">Botella de agua y Lunch.</li>
+              <li class="junction">De Lunes a Domingo a las 9:00 hrs.</li>
+              <li class="junction">Distancia promedio 10 km.</li>
             </ul>
-            <h3 class="text-warning">Duración 5 horas aproximadamente.</h3>
+            <p class="text-warning textoIndex2">Duración 5 horas aproximadamente.</p>
             <span class="text-warning">
             * Puedes llevar tu propia bici (aplica 10% descuento).<br>
             * Pregunta por guías en ingles, frances, italiano (costo adicional).<br>
@@ -311,7 +312,7 @@
 
         <div class="row">
           <div class="col-md-7 text-center">
-              <h3 class="textoNaranja">MXN $ 400.<sup>00</sup></h3>
+          <p class="textoNaranja textoPromocion">MXN $ 400.<sup>00</sup></p>
 
               <!--carrito-->
           <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -334,25 +335,25 @@
       <article >
         <div class="row cabeceraAventura">
           <div class="col-lg-12">
-            <h2><i class="fa fa-bicycle"></i> Bike tour Teotihuacan: <small class="textoBlanco">Rodada-nadada</small></h2>
+            <h3 class="junction"><i class="fa fa-bicycle"></i> Bike tour Teotihuacan: <small class="textoBlanco">Rodada-nadada</small></h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-7">
             <br>
-            <h4 class="text-warning">Incluye</h4>
+            <h4 class="text-warning junction">Incluye</h4>
             <ul>
-              <li>Renta de Bici.</li>
-              <li>Recorrido en bici por el Valle de Teotihuacan.</li>
-              <li>Visita al Taller de Artesanías.</li>
-              <li>Visita a la Fábrica de Licores (Tuna, Nopal y Xoconoxtle).</li>
-              <li>Botella de Agua.</li>
-              <li>Guía en todo el recorrido.</li>
-              <li>Estancia en Alberca Villas Arqueológicas (libre).</li>
-              <li>Únicamente Domingos a las 9:00 hs.</li>
-              <li>Distancia promedio 10 km.</li>
+              <li class="junction">Renta de Bici.</li>
+              <li class="junction">Recorrido en bici por el Valle de Teotihuacan.</li>
+              <li class="junction">Visita al Taller de Artesanías.</li>
+              <li class="junction">Visita a la Fábrica de Licores (Tuna, Nopal y Xoconoxtle).</li>
+              <li class="junction">Botella de Agua.</li>
+              <li class="junction">Guía en todo el recorrido.</li>
+              <li class="junction">Estancia en Alberca Villas Arqueológicas (libre).</li>
+              <li class="junction">Únicamente Domingos a las 9:00 hs.</li>
+              <li class="junction">Distancia promedio 10 km.</li>
             </ul>
-            <h3 class="text-warning">Duración 3 horas aproximadamente.</h3>
+            <p class="text-warning textoIndex2">Duración 3 horas aproximadamente.</p>
           </div>
           <div class="col-md-4" align="center">
             <br>
@@ -362,7 +363,7 @@
 
         <div class="row">
           <div class="col-md-7 text-center">
-              <h3 class="textoNaranja">MXN $ 400.<sup>00</sup></h3>
+          <p class="textoNaranja textoPromocion">MXN $ 400.<sup>00</sup></p>
 
               <!--carrito-->
           <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -384,24 +385,24 @@
             <article >
               <div class="row cabeceraAventura">
                 <div class="col-lg-12">
-                  <h2><i class="fa fa-bicycle"></i> Biketour Teotihuacan: <small class="textoBlanco">Ruta gastronómica</small></h2>
+                  <h3 class="junction"><i class="fa fa-bicycle"></i> Biketour Teotihuacan: <small class="textoBlanco">Ruta gastronómica</small></h3>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-7">
                   <br>
-                  <h4 class="text-warning">Incluye</h4>
+                  <h4 class="text-warning junction">Incluye</h4>
                   <ul>
-                    <li>Renta de Bici.</li>
-                    <li>Recorrido en bici por el Valle de Teotihuacan.</li>
-                    <li>Visita a diferentes lugares de la Región donde probaremos comida típica de Teotihuacán.</li>
-                    <li>Visita Taller de Obsidianas.</li>
-                    <li>Visita a la Fabrica de productos de Tuna, Nopal y Xoconoxtle.</li>
-                    <li>Guía en todo el recorrido.</li>
-                    <li>De Lunes a Domingo a las 9:00 hrs.</li>
-                    <li>Distancia promedio 10 km.</li>
+                    <li class="junction">Renta de Bici.</li>
+                    <li class="junction">Recorrido en bici por el Valle de Teotihuacan.</li>
+                    <li class="junction">Visita a diferentes lugares de la Región donde probaremos comida típica de Teotihuacán.</li>
+                    <li class="junction">Visita Taller de Obsidianas.</li>
+                    <li class="junction">Visita a la Fabrica de productos de Tuna, Nopal y Xoconoxtle.</li>
+                    <li class="junction">Guía en todo el recorrido.</li>
+                    <li class="junction">De Lunes a Domingo a las 9:00 hrs.</li>
+                    <li class="junction">Distancia promedio 10 km.</li>
                   </ul>
-                  <h3 class="text-warning">Duración 5 horas aproximadamente.</h3>
+                  <p class="text-warning textoIndex2">Duración 5 horas aproximadamente.</p>
                 </div>
           <div class="col-md-4" align="center">
             <br><br><br><br>
@@ -411,7 +412,7 @@
 
               <div class="row">
                 <div class="col-md-7 text-center">
-                    <h3 class="textoNaranja">MXN $ 400.<sup>00</sup></h3>
+                <p class="textoNaranja textoPromocion">MXN $ 400.<sup>00</sup></p>
 
                     <!--carrito-->
           <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -434,24 +435,24 @@
             <article >
               <div class="row cabeceraAventura">
                 <div class="col-lg-12">
-                  <h2><i class="fa fa-bicycle"></i> Bici-Campamento: <small class="textoBlanco">Solo los fines de semana</small></h2>
+                  <h3 class="junction"><i class="fa fa-bicycle"></i> Bici-Campamento: <small class="textoBlanco">Solo los fines de semana</small></h3>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-7">
                   <br>
-                  <h4 class="text-warning">Incluye</h4>
+                  <h4 class="text-warning junction">Incluye</h4>
                   <ul>
-                    <li>Espacio para acampar.</li>
-                    <li>3 alimentos que te harán sentir como en casa.</li>
-                    <li>Recorrido en Bici a elegir: Ruta Arqueológica, BikeCueva o Gastronómica.</li>
-                    <li>Visita Taller de Obsidianas.</li>
-                    <li>Visita a la Fábrica de licores (Tuna, Nopal y Xoconoxtle).</li>
-                    <li>Guía en todo el recorrido.</li>
-                    <li>De Lunes a Domingo a las 9:00 hrs.</li>
-                    <li>Distancia promedio 10 km.</li>
+                    <li class="junction">Espacio para acampar.</li>
+                    <li class="junction">3 alimentos que te harán sentir como en casa.</li>
+                    <li class="junction">Recorrido en Bici a elegir: Ruta Arqueológica, BikeCueva o Gastronómica.</li>
+                    <li class="junction">Visita Taller de Obsidianas.</li>
+                    <li class="junction">Visita a la Fábrica de licores (Tuna, Nopal y Xoconoxtle).</li>
+                    <li class="junction">Guía en todo el recorrido.</li>
+                    <li class="junction">De Lunes a Domingo a las 9:00 hrs.</li>
+                    <li class="junction">Distancia promedio 10 km.</li>
                   </ul>
-                  <h3 class="text-warning">Duración 2 dias.</h3>
+                  <p class="text-warning textoIndex2">Duración 2 dias.</p>
                   <span class="text-warning">* No incluye tienda de campaña.</span>
                 </div>
                 <div class="col-md-4" align="center">
@@ -462,14 +463,14 @@
 
               <div class="row">
                 <div class="col-md-7 text-center">
-                  <h3 class="text-warning">Zona de Campamento en Teotihuacán:<br> <span class="textoNaranja">MXN $ 600.<sup>00</sup></span></h3>
-                  <h3 class="text-warning">Campamento Ex hacienda de Ometusco:<br> <span class="textoNaranja">MXN $ 700.<sup>00</sup></span></h3>
+                  <p class="text-warning textoPromocion">Zona de Campamento en Teotihuacán:<br> <span class="textoNaranja">MXN $ 600.<sup>00</sup></span></p>
+                  <p class="text-warning textoPromocion">Campamento Ex hacienda de Ometusco:<br> <span class="textoNaranja">MXN $ 700.<sup>00</sup></span></p>
                 <!--carrito campamento-->
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 					<input type="hidden" name="cmd" value="_s-xclick">
 					<input type="hidden" name="hosted_button_id" value="V29MTTVQG4R64">
 					<table>
-					<tr><td><input type="hidden" name="on0" value="Bici-Campamento">Bici-Campamento</td></tr><tr><td><select name="os0">
+					<tr><td><input type="hidden" name="on0" value="Bici-Campamento"></td></tr><tr><td><select name="os0">
 					  <option value="Zona de Campamento en Teotihacan">Zona de Campamento en Teotihuacan $600.00 MXN</option>
 					  <option value="Campamento Ex Hacienda de Ometusco">Campamento Ex Hacienda de Ometusco $700.00 MXN</option>
 					</select> </td></tr>
@@ -492,27 +493,27 @@
                   <article >
                     <div class="row cabeceraAventura">
                       <div class="col-lg-12">
-                        <h2><i class="fa fa-bus"></i> Reino Animal: <small class="textoBlanco"></small></h2>
+                        <h3 class="junction"><i class="fa fa-bus"></i> Reino Animal: <small class="textoBlanco"></small></h3>
                       </div>
                     </div>
                     <div class="row">
                       <div class="col-md-7">
                         <br>
-                        <h4 class="text-warning">Incluye</h4>
+                        <h4 class="text-warning junction">Incluye</h4>
                         <ul>
-                          <li>Espectáculo de aves Rapaces.</li>
-                          <li>Espectáculo Canino.</li>
-                          <li>Exhibición de Caballos.</li>
-                          <li>Espectáculo Teatro del árbol.</li>
-                          <li>Establo.</li>
-                          <li>Contacto Conejos.</li>
-                          <li>Incubadora.</li>
-                          <li>Granja Mexicana.</li>
-                          <li>Leones blancos.</li>
-                          <li>Safari.</li>
-                          <li>Paseo en Pony.</li>
-                          <li>Aviario.</li>
-                          <li>Reptilario.</li>
+                          <li class="junction">Espectáculo de aves Rapaces.</li>
+                          <li class="junction">Espectáculo Canino.</li>
+                          <li class="junction">Exhibición de Caballos.</li>
+                          <li class="junction">Espectáculo Teatro del árbol.</li>
+                          <li class="junction">Establo.</li>
+                          <li class="junction">Contacto Conejos.</li>
+                          <li class="junction">Incubadora.</li>
+                          <li class="junction">Granja Mexicana.</li>
+                          <li class="junction">Leones blancos.</li>
+                          <li class="junction">Safari.</li>
+                          <li class="junction">Paseo en Pony.</li>
+                          <li class="junction">Aviario.</li>
+                          <li class="junction">Reptilario.</li>
                         </ul>
                         <span class="text-warning">* Horarios del Parque  de 10:00-18:00 de martes a domingo.</span>
                       </div>
@@ -524,7 +525,7 @@
 
                     <div class="row">
                       <div class="col-md-7 text-center">
-                          <h3 class="textoNaranja">MXN $ 189.<sup>00</sup></h3>
+                      <p class="textoNaranja textoPromocion">MXN $ 189.<sup>00</sup></p>
                       <!-- carrito de compras-->
 			          <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 						<input type="hidden" name="cmd" value="_s-xclick">

@@ -31,7 +31,7 @@
       <article >
         <div class="row cabeceraConoce">
           <div class="col-lg-12">
-            <h2><i class="fa fa-suitcase"></i> Xochimilco <small class="textoBlanco"></small></h2>
+            <h3 class="junction"><i class="fa fa-suitcase"></i> Xochimilco <small class="textoBlanco"></small></h3>
           </div>
         </div>
         <div class="row">
@@ -54,7 +54,7 @@
         </div>
         <div class="row">
           <div class="col-md-12 text-center ">
-              <h3 class="textoNaranja">Ponte en contacto con nosotros para conocer precios.</h3>
+              <h3 class="textoNaranja junction">Ponte en contacto con nosotros para conocer precios.</h3>
               <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos!</button></a>
         </div>
       </article>
@@ -62,7 +62,7 @@
       <article >
         <div class="row cabeceraConoce">
           <div class="col-lg-12">
-            <h2><i class="fa fa-suitcase"></i> Grutas de Tolantongo <small class="textoBlanco"></small></h2>
+            <h3 class="junction"><i class="fa fa-suitcase"></i> Grutas de Tolantongo <small class="textoBlanco"></small></h3>
           </div>
         </div>
         <div class="row">
@@ -86,7 +86,7 @@
         </div>
         <div class="row">
           <div class="col-md-12 text-center ">
-              <h3 class="textoNaranja">Ponte en contacto con nosotros para conocer precios.</h3>
+              <h3 class="textoNaranja junction">Ponte en contacto con nosotros para conocer precios.</h3>
               <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos para saber más!</button></a>
           </div>
         </div>
@@ -94,7 +94,7 @@
       <article >
         <div class="row cabeceraConoce">
           <div class="col-lg-12">
-            <h2><i class="fa fa-suitcase"></i> Taxco <small class="textoBlanco"></small></h2>
+            <h3 class="junction"><i class="fa fa-suitcase"></i> Taxco <small class="textoBlanco"></small></h3>
           </div>
         </div>
         <div class="row">
@@ -119,7 +119,7 @@
         </div>
         <div class="row">
           <div class="col-md-12 text-center ">
-              <h3 class="textoNaranja">Ponte en contacto con nosotros para conocer precios.</h3>
+              <h3 class="textoNaranja junction">Ponte en contacto con nosotros para conocer precios.</h3>
               <a href="index.php#contact"><button class="btn btn-success btn-xlg sombra" type="submit">¡Contactanos para conocer precios!</button></a>
           </div>
                    <div class="col-md-4 text-center">

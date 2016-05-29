@@ -1,7 +1,6 @@
 @font-face {
   font-family: dancing;
-   src: url(../fonts/dancing-script.regular.ttf) format('opentype'),
-   url(../fonts/DancingScript-Regular.otf) format('opentype');
+   src: url(../fonts/dancing-script.regular.ttf);
 }
 @font-face{
   font-family: junction;
@@ -15,7 +14,6 @@
   font-family: roboto;
    src: url(../fonts/Roboto-Regular.ttf);
 }
-
 
 
 body,
@@ -63,8 +61,7 @@ html {
   font-family: dancing, 'Open Sans',serif;
 }
 .junction{
-  font-family: junction,'Open Sans',serif;
-  font-weight: 600;
+  font-family: junction, roboto, 'Open Sans',serif;
 }
 .roboto{
   font-family: roboto,'Open Sans',serif;
@@ -178,10 +175,7 @@ html {
 .texto3d{
   text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
- h3, .h3{
-    font-family: junction,'Open Sans',serif;
-    font-weight: 400;
-}
+
 p{
   color:#212121;
 }
@@ -691,7 +685,6 @@ section.contact{
   animation-duration: 2.5s;
   animation-iteration-count: infinite;
   animation-name: escalando;
-/*  animation-name: girando;*/
 }
 
 @keyframes escalando {
@@ -711,26 +704,15 @@ section.contact{
 
   }
 }
-
-@keyframes girando {
-  0% {
-    -moz-transform:rotate(0deg);
-    -webkit-transform: rotate(0deg);
-  }
-  70% {
-    -moz-transform:rotate(0deg);
-    -webkit-transform: rotate(0deg);
-  }
-  80% {
-    -moz-transform:rotate(60deg);
-    -webkit-transform: rotate(60deg);
-  }
-  90% {
-    -moz-transform:rotate(-60deg);
-    -webkit-transform: rotate(-60deg);
-  }
-  100% {
-    -moz-transform:rotate(30deg);
-    -webkit-transform: rotate(30deg);
-  }
+.textoIndex{
+  font-size: 1.6em;
+  font-family: junction,'Open Sans',serif;
+}
+.textoIndex2{
+  font-size: 1.3em;
+  font-family: junction,'Open Sans',serif;
+}
+.textoPromocion{
+  font-size: 1.6em;
+  font-family: roboto,'Open Sans',serif;
 }

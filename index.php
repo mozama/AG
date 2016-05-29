@@ -38,7 +38,7 @@
                     <i class="fa fa-cc-mastercard fa-3x textMC"></i>
                     <i class="fa fa-cc-visa fa-3x textMC"></i>
                     <i class="fa fa-cc-paypal fa-3x textMC"></i>
-                    
+
                   </span>
                 </p></li>
 
@@ -100,7 +100,9 @@
         <div class="col-md-12 text-center">
           <a href="./vuelos.php" class="enlaceSimple">
             <h1 class="textBienvenida texto3d textoBlanco dancing"> Paquetes de vuelo </h1>
-            <h3 class="texto3d textoBlanco">Vuelos al amanecer, compartido, privado, eventos especiales.</h3>
+            <br>
+            <p class="texto3d textoBlanco textoIndex">Vuelos al amanecer, compartido, privado, eventos especiales.
+            </p>
           </a>
           <br><br>
           <div class="row">
@@ -161,7 +163,7 @@
           <a href="./hospedaje.php" class="enlaceSimple">
             <h1 class="textBienvenida texto3d textoBlanco dancing"> Hospedaje </h1>
           <br>
-            <h3 class="texto3d textoBlanco">Completa tu paquete con hospedaje, ocupación doble.</h3>
+            <p class="texto3d textoBlanco textoIndex">Completa tu paquete con hospedaje, ocupación doble.</p>
           </a>
           <br><br>
           <a class="btn btn-success btn-md sombra" href="./hospedaje.php">Ver paquetes de hospedaje <i class="fa fa-chevron-right"></i></a>
@@ -177,7 +179,7 @@
           <a href="./masAventura.php" class="enlaceSimple">
             <h1 class="textBienvenida texto3d textoBlanco dancing">  Más Aventura </h1>
             <br>
-            <h3 class="texto3d textoBlanco">Paseo en bici, cuatrimotos, visitas guiadas.</h3>
+            <p class="texto3d textoBlanco textoIndex">Paseo en bici, cuatrimotos, visitas guiadas.</p>
           </a>
           <br><br>
           <a class="btn btn-success btn-md sombra" href="./masAventura.php">Ver opciones de aventura <i class="fa fa-chevron-right"></i></a>
@@ -197,13 +199,19 @@
           <a href="./nosotros.php" class="enlaceNosotros texto3d">
             <h1 class="textBienvenida texto3d textoBlanco dancing">Sobre Nosotros</h1>
             <br>
-            <h4 class="interlineadoA text-justify"><strong class="juntion">Aventura en Globos</strong> nace en el 2004 con la finalidad de reunir a los mejores pilotos de nuestro país y ellos a su vez con más de 20 años de experiencia volando sobre todo México nos permiten ofrecer un servicio turístico y de publicidad en vuelo de globo aerostático exclusivo,  personalizado y sobretodo más seguro, para que nuestros visitantes se lleven la mejor experiencia de su vida.
-            </h4>
+            <p class="interlineadoA text-justify texto3d textoBlanco textoIndex2">
+              <strong class="juntion">Aventura en Globos</strong> nace en el 2004 con la finalidad de reunir a los mejores pilotos de nuestro país y ellos a su vez con más de 20 años de experiencia volando sobre todo México nos permiten ofrecer un servicio turístico y de publicidad en vuelo de globo aerostático exclusivo,  personalizado y sobretodo más seguro, para que nuestros visitantes se lleven la mejor experiencia de su vida.
+            </p>
             <br>
             <h1 class="textBienvenida texto3d textoBlanco dancing"> ¿Cuándo volamos?</h1>
-            <h4 class="interlineadoA text-justify">
+
             <br>
-            Volamos todos los días del año bajo previa reservación, la cita es aproximadamente a las 6:40 am  en nuestra zona de despegue, carretera libre México-Tulancingo km 27, si tu servicio también es con  hospedaje, te recogeremos en tu hotel,  para trasladarte a la zona de despegue. Aquí podrás observar y si lo deseas participar con el proceso de inflado de nuestros equipos, podrás tomarte la fotos que desees siguiendo las indicaciones de nuestro personal, una vez listo comienza “La Aventura de volar en Globo” y disfrutar de la hermosa vista panorámica de Teotihuacán.</h4>
+          <p class="interlineadoA text-justify texto3d textoBlanco textoIndex2">
+                Volamos todos los días del año bajo previa reservación, la cita es aproximadamente a las 6:40 am  en nuestra zona de despegue, carretera libre México-Tulancingo km 27, si tu servicio también es con  hospedaje, te recogeremos en tu hotel,  para trasladarte a la zona de despegue. Aquí podrás observar y si lo deseas participar con el proceso de inflado de nuestros equipos, podrás tomarte la fotos que desees siguiendo las indicaciones de nuestro personal, una vez listo comienza “La Aventura de volar en Globo” y disfrutar de la hermosa vista panorámica de Teotihuacán.</h4>
+          </p>
+
+
+
 
           </a>
           <br>
@@ -268,8 +276,10 @@
                   <div class="row">
                     <div class="col-md-12">
                       <h3 class="dancing">Zona despegue <a class="enlaceSimple2" href="./mapaDespegue.php"><i class="fa fa-map-marker"></i> Ver zona despegue</a>  </h3>
-
+                      <p class="text-justify junction">
                         <i class="icon-map-marker"></i> <strong><i class="fa fa-map-marker"></i></strong> Carretera libre México-Tulancingo Km 27,<br> San Francisco Mazapa,<br> Teotihuacán, Estado de México
+                      </p>
+
 
                     </div>
                   </div>
@@ -284,14 +294,15 @@
                   <div class="row">
                     <div class="col-md-12">
                         <h3 class="dancing">Oficinas <a class="enlaceSimple2" href="./mapa.php"><i class="fa fa-map-marker"></i> Ver mapa de oficinas</a> </h3>
-
-                            <i class="icon-map-marker"></i> <strong><i class="fa fa-map-marker"></i></strong> Privada de niños heroes No.3,<br> San Martín de las Pirámides, <br>Estado de México
+                          <p class="text-justify junction">
+                            <i class="icon-map-marker textoIndex2"></i> <strong><i class="fa fa-map-marker"></i></strong> Privada de niños heroes No.3,<br> San Martín de las Pirámides, <br>Estado de México
                             <br><br>
                             <i class="icon-phone"></i> <strong><i class="fa fa-phone"></i></strong> 01 594 95 8 53 72
                             <br><br>
                             <i class="fa fa-mobile"></i></strong> 55 51 98 63 99
                             <br><br>
                             <i class="icon-envelope"></i> <strong><i class="fa fa-envelope"></i></strong> <a href="mailto:ventas@aventuraenglobos.com">ventas@aventuraenglobos.com</a>
+                          </p>
                     </div>
                   </div>
                   </article>

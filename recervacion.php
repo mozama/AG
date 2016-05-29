@@ -23,7 +23,7 @@
   <article >
     <div class="row cabeceraVuelo">
       <div class="col-lg-12">
-        <h2><i class="fa fa-calendar"></i> Reservación:</h2>
+        <h3 class="junction"><i class="fa fa-calendar"></i> Reservación:</h3>
       </div>
     </div>
     <br>
