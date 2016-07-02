@@ -122,6 +122,9 @@
         <div class="bb-item">
           <img class="imgF" src="images/galeria/27.jpg" alt="inflado globo"/>
         </div>
+        <div class="bb-item">
+          <img class="imgF" src="images/galeria/28.jpg" alt="inflado globo"/>
+        </div>
 
 
 

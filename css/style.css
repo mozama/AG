@@ -94,7 +94,7 @@ html {
   color: #eceff1;
 }
 .imgI{
-  padding: 2%;
+  padding: 0%;
 }
 .navbar-default {
   border-color: transparent;
@@ -576,7 +576,7 @@ article {
 }
 
 .servicios{
-  background: url(../images/arqueologica.jpg);
+  background: url(../images/aventura.jpg);
   min-height: 400px;
   position: relative;
   background-repeat:no-repeat;
@@ -609,7 +609,7 @@ section.about .dmask{
   padding: 10% 0 15% 0;
 }
 section.contact{
-  background: url(../images/aerostatico2.jpg);
+  background: url(../images/piramide.jpg);
   min-height: 400px;
   background-repeat:no-repeat;
 	background-size:cover;

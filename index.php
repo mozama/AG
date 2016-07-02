@@ -26,7 +26,7 @@
     <?php include ("./secciones/menu.php"); ?>
     <div class="jumbotron principal" id="home">
              <ul id="moodular">
-                <li><p style="background-image: url(./images/aventuraEnGlobos.jpg);" class="fondoP"><span>
+                <li><p style="background-image: url(./images/aerostatico2.jpg);" class="fondoP"><span>
               <!--  <li><p style="background-image: url(./images/globos.jpg);" class="fondoP"> -->
                   <span>
                     <br><br><br>
@@ -55,7 +55,7 @@
                   <i class="fa fa-cc-paypal fa-3x textMC"></i>
                 </span></p></li>
 
-                <li><p style="background-image: url(./images/amanecer.jpg);" class="fondoP">
+                <li><p style="background-image: url(./images/arqueologica.jpg);" class="fondoP">
                 <span>
                   <br><br><br>
                   <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="dancing texto3d textoAmarillo textBienvenida">Certificado de regalo.</i>

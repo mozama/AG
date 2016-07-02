@@ -110,7 +110,7 @@
           </div>
           <div class="col-md-4">
             <br><br>
-              <center><img class="img-responsive img-rounded img" src="images/galeria/10.jpg" alt="anillo de compromiso"></center>
+              <center><img class="img-responsive img-rounded img" src="images/galeria/29.jpg" alt="anillo de compromiso"></center>
           </div>
         </div>
         <div class="row">
@@ -170,7 +170,7 @@
           </div>
           <div class="col-md-4">
             <br><br>
-              <img class="img-responsive img-rounded img" src="images/amanecer.jpg" alt="vuelo amananecer">
+              <img class="img-responsive img-rounded img" src="images/galeria/30.jpg" alt="vuelo amananecer">
           </div>
 
         <div class="row">
