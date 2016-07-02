@@ -59,12 +59,12 @@
         <div class="row">
           <div class="col-md-7 text-center ">
             			<!-- fin del carrito-->
-
+                <p class="textoNaranja textoPromocion">$ 2,100.<sup>00</sup> MXN</p>
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="6ATDWKVSXNWTJ">
                 <table>
-                <tr><td><input type="hidden" name="on0" value="Vuelo Compartido">Vuelo Compartido</td></tr><tr><td><select name="os0">
+                <tr><td><input type="hidden" name="on0" value="Vuelo Compartido"></td></tr><tr><td><select name="os0">
                   <option value="Vuelo compartido (por persona)">Vuelo compartido (por persona) $2,100.00 MXN</option>
                   <option value="Menores, de 5 a 12 anos">Menores, de 5 a 12 años $1,700.00 MXN</option>
                 </select> </td></tr>
@@ -105,8 +105,8 @@
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
       <br>
-        <!--    <h4 class="text-warning text-center"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos.<br> </b></h4> -->
+          <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
+            regreso al DF, pregunta costos. <br></b></p>
           </div>
           <div class="col-md-4">
             <br><br>

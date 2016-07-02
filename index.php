@@ -43,27 +43,6 @@
                 </p></li>
 
 
-                <li><p style="background-image: url(./images/arqueologica.jpg);" class="fondoP">
-                <span>
-                  <br><br><br>
-                  <i class="fa fa-bookmark texto3d textoAmarillo textBienvenida"></i> <i class="dancing texto3d textoAmarillo textBienvenida">Promociones.</i>
-                  <br>
-                  <i class="texto3d textoBlanco textBienvenida2 dancing">
-                     Vuelo compartido:
-                  </i>
-                  <i class="texto3d textoAmarillo juntion"><i class="fa fa-star" aria-hidden="true" id="estrella"></i>
-                     MXN $ 1,790.<sup>00</sup>
-                  <i class="fa fa-star" aria-hidden="true" id="estrella"></i>
-                  </i>
-                  <br>
-                  <i class="texto3d textoBlanco dancing">
-                     Válido hasta 31 de Junio de 2016
-                  </i>
-                  <br><br>
-                  <a class="btn btn-success btn-md sombra" href="./vuelos.php#vueloCompartido">Ver detalles <i class="fa fa-chevron-right"></i></a>
-                </span></li>
-
-
                 <li><p style="background-image: url(./images/calzada.jpg);" class="fondoP">
                 <span>
                   <br><br><br>
@@ -107,9 +86,9 @@
           <br><br>
           <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-10 col-ms-offset-1 col-xs-10 col-xs-offset-1 text-center">
-              <h3 class="texto3d textoAmarillo"><i class="fa fa-star" aria-hidden="true" id="estrella"></i> Promociones <i class="fa fa-star" aria-hidden="true" id="estrella"></i></h3>
+            <!--    <h3 class="texto3d textoAmarillo"><i class="fa fa-star" aria-hidden="true" id="estrella"></i> Promociones <i class="fa fa-star" aria-hidden="true" id="estrella"></i></h3> -->
 
-              <div class="row">
+              <!--  <div class="row">
                   <div class="col-md-12">
 
                     <p class="texto3d textoBlanco roboto">
@@ -126,7 +105,7 @@
 
                   </div>
 
-              </div>
+              </div> -->
 
 
             </div>
