@@ -58,27 +58,21 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center ">
-              <!--<h3 class="textoNaranja">MXN $ 2,100.<sup>00</sup></h3>-->
-              <p class="textoAmber textoPromocion">Promoción de $2,100.<sup>00</sup></p>
-              <p class="textoNaranja textoPromocion"><i class="fa fa-star" id="estrella"></i>  a solo $1,790.<sup>00</sup> MXN <i class="fa fa-star" id="estrella"></i></p>
-              <p class="text-warning roboto">Válido hasta el 31 de Junio 2016</p>
-        <!-- vuelo compartido -->
-              <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-              <input type="hidden" name="cmd" value="_s-xclick">
-              <input type="hidden" name="hosted_button_id" value="6ATDWKVSXNWTJ">
+            			<!-- fin del carrito-->
 
-				<!-- fin del carrito-->
-
-              <!--<table>
-              <tr><td><input type="hidden" name="on0" value="Vuelo compartido">Vuelo compartido</td></tr><tr><td><select name="os0">
-              <option value="Vuelo compartido (por persona)">Vuelo compartido (por persona) $2,100.00 MXN</option>  Nota este es para cuando se termine la promocion ya sera visible jiji
-              <option value="Vuelo compartido promocion (por persona)">Vuelo compartido promocion (por persona) $1,790.00 MXN</option>
-              <option value="Menores de 5 a 12">Menores de 5 a 12 $1,700.00 MXN</option>
-              </select> </td></tr>
-              </table>-->
-              <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-              <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-              </form>
+                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="6ATDWKVSXNWTJ">
+                <table>
+                <tr><td><input type="hidden" name="on0" value="Vuelo Compartido">Vuelo Compartido</td></tr><tr><td><select name="os0">
+                  <option value="Vuelo compartido (por persona)">Vuelo compartido (por persona) $2,100.00 MXN</option>
+                  <option value="Menores, de 5 a 12 anos">Menores, de 5 a 12 años $1,700.00 MXN</option>
+                </select> </td></tr>
+                </table>
+                <input type="hidden" name="currency_code" value="MXN">
+                <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                </form>
 
         <!-- fin del carrito-->
 
