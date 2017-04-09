@@ -39,7 +39,7 @@
             <br>
             <p class="text-warning juntion"><b>Incluye:</b></p>
             <ul>
-              <li class="juntion">Coffee break en zona de despegue.</li>
+              <li class="juntion">Coffee break en zona de despegue (Sábados y Domingos).</li>
               <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
               <li class="juntion">Brindis con vino blanco espumoso al aterrizar.</li>
               <li class="juntion">Certificado de vuelo por pasajero.</li>
@@ -62,17 +62,18 @@
                 <p class="textoNaranja textoPromocion">$ 2,300.<sup>00</sup> MXN</p>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
                 <!-- p class="text-warning roboto">No aplica en días festivos</p -->
+                <!-- carrito vuelo compartido-->
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="6ATDWKVSXNWTJ">
-                <table>
-                <tr><td><input type="hidden" name="on0" value="Vuelo Compartido"></td></tr><tr><td><select name="os0">
-                  <option value="Vuelo compartido (por persona)">Vuelo compartido (por persona) $2,300.00 MXN</option>
-                  <option value="Menores, de 5 a 12 anos">Menores, de 5 a 12 años $1,800.00 MXN</option>
-                </select> </td></tr>
-                </table>
-                <input type="hidden" name="currency_code" value="MXN">
-                <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                 <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="X2269XC93PKXE">
+                       <table>
+                       <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Compartido">Paquete Vuelo Compartido</td></tr><tr><td><select <name>      </name>="os0">
+                          <option value="Vuelo compartido (costo por persona)">Vuelo compartido (costo por persona) $2,300.00 MXN</option>
+                           <option value="Menores de 5 a 12 anos">Menores de 5 a 12 anos $1,800.00 MXN</option>
+                        </select> </td></tr>
+                        </table>
+                  <input type="hidden" name="currency_code" value="MXN">
+                 <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
                 <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
                 </form>
 
@@ -95,9 +96,9 @@
           <div class="col-md-7">
             <h4 class="text-warning junction">Incluye:</h4>
             <ul>
-              <li class="juntion">Coffee break en zona de despegue.</li>
+              <li class="juntion">Coffee break en zona de despegue (Sábados y Domingos).</li>
               <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
-              <li class="juntion">Desplegado de banner " TE QUIERES CASAR CONMIGO " " QUIERES SER MI NOVIA " durante el vuelo.</li>
+              <li class="juntion">Desplegado de banner " TE QUIERES CASAR CONMIGO ", " QUIERES SER MI NOVIA " durante el vuelo.</li>
               <li class="juntion">Botella de vino blanco espumoso para brindar después de anillo.</li>
               <li class="juntion">Fotos con cámara fija (Gopro).</li>
               <li class="juntion">Certificado de vuelo por pasajero.</li>
@@ -124,15 +125,11 @@
               <!--Carrito vip-->
 
               <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-              <input type="hidden" name="cmd" value="_s-xclick">
-              <input type="hidden" name="hosted_button_id" value="7KYNSL6L8VPJ6">
-
-              <input type="hidden" name="currency_code" value="MXN">
-              <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-              <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-              </form>
-
-
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="7KYNSL6L8VPJ6">
+                <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+               </form>
             <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
@@ -156,7 +153,7 @@
               <li class="juntion">Botella de vino blanco espumoso para brindar durante el vuelo.</li>
               <li class="juntion">Certificado de vuelo por pasajero.</li>
               <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
-              <li class="juntion">Transportacion local durante la actividad.</li>
+              <li class="juntion">Transportación local durante la actividad.</li>
               <li class="juntion">Seguro de pasajero.</li>
             </ul>
             <br>
@@ -175,13 +172,12 @@
               <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
               <!-- p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 5,800.<sup>00</sup> MXN</p-->
               <!--vuelo madrugador carrito-->
-                   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                   <input type="hidden" name="cmd" value="_s-xclick">
-                   <input type="hidden" name="hosted_button_id" value="DJM46LWVSNJ2E">
-                   <input type="hidden" name="currency_code" value="MXN">
-                   <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                   </form>
+                  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                     <input type="hidden" name="cmd" value="_s-xclick">
+                     <input type="hidden" name="hosted_button_id" value="DJM46LWVSNJ2E">
+                     <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                     <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                  </form>
               <!-- fin de carrito-->
           </div>
           <div class="col-md-4 text-center">
@@ -228,9 +224,9 @@
                   <input type="hidden" name="cmd" value="_s-xclick">
                   <input type="hidden" name="hosted_button_id" value="G96YV3MXGYDHC">
                   <table>
-                  <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado"></td></tr><tr><td><select name="os0">
+                  <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Privado">Paquete Vuelo Privado</td></tr><tr><td><select name="os0">
                     <option value="Vuelo privado (por persona)">Vuelo privado (por persona) $3,200.00 MXN</option>
-                    <option value="Menores, de 5 a 12 anos">Menores, de 5 a 12 años $2,500.00 MXN</option>
+                    <option value="Menores de 5 a 12">Menores de 5 a 12 $2,500.00 MXN</option>
                   </select> </td></tr>
                   </table>
                   <input type="hidden" name="currency_code" value="MXN">
@@ -259,6 +255,7 @@
               <li class="juntion">Vuelo exclusivo para dos personas de 45 a 60 minutos.</li>
               <li class="juntion">Banner " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO ".</li>
               <li class="juntion">Botella de vino blanco espumoso para brindar durante el vuelo.</li>
+               <li class="juntion">Desayuno buffet  en restaurante Gran Teocalli.</li>
               <li class="juntion">Pastelito individual paa l festejado (sólo cumpleaños).</li>
               <li class="juntion">Fotos.</li>
               <li class="juntion">Transportación local durante la actividad.</li>
@@ -278,12 +275,12 @@
                 <h3 class="textoNaranja"> $ 6,500.<sup>00</sup> MXN</h3>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
               <!--carrito vuelo cumpleañ-->
-                   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                   <input type="hidden" name="cmd" value="_s-xclick">
-                   <input type="hidden" name="hosted_button_id" value="RWLBTFRPPGQMY">
-                   <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                   </form>
+                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="RWLBTFRPPGQMY">
+                <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                </form>
               <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
@@ -302,10 +299,10 @@
           <div class="col-md-7">
             <h4 class="text-warning junction">Incluye:</h4>
             <ul>
-              <li class="juntion">Transportacion (punto de encuentro Ángel de la independencia u hoteles cercanos).</li>
+              <li class="juntion">Transportación (punto de encuentro Ángel de la independencia u hoteles cercanos).</li>
               <li class="juntion">Coffee break en zona de despegue (Sábados y Domingos).</li>
               <li class="juntion">Vuelo en globo de 45 a 60 minutos.</li>
-              <li class="juntion">Brindis de vino blanco espumoso al aterrizar. </li>
+              <li class="juntion">Brindis con vino blanco espumoso al aterrizar. </li>
               <li class="juntion">Certificado de vuelo por pasajero.</li>
               <li class="juntion">Desayuno buffet en restaurante Gran Teocalli.</li>
               <li class="juntion">Transporte delrestaurante a zona arqueológica.</li>
@@ -336,13 +333,13 @@
                 <h3 class="textoNaranja"> $ 2,990.<sup>00</sup> MXN</h3>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
                 <p class="textoNaranja"> Mínimo 2 personas</p>
-              <!--carrito vuelo cumpleañ-->
-                   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                   <input type="hidden" name="cmd" value="_s-xclick">
-                   <input type="hidden" name="hosted_button_id" value="RWLBTFRPPGQMY">
-                   <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                   </form>
+              <!--carrito vuelo cultural-->
+                  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="U2BUBFSG3CHSU">
+                  <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                  </form>
               <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
@@ -388,13 +385,13 @@
           <div class="col-md-7 text-center">
                 <h3 class="textoNaranja"> $ 2,600.<sup>00</sup> MXN</h3>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
-              <!--carrito vuelo cumpleañ-->
-                   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                   <input type="hidden" name="cmd" value="_s-xclick">
-                   <input type="hidden" name="hosted_button_id" value="RWLBTFRPPGQMY">
-                   <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                   </form>
+              <!--carrito vuelo y rueda-->
+                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="Z9QRS3NR4AWSS">
+                <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                </form>
               <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
@@ -419,7 +416,7 @@
               <li class="juntion">Certificado de vuelo por pasajero.</li>
               <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
               <li class="juntion">Seguro de pasajeros.</li>
-              <li class="juntion">Renta de cuatrimoto casco y chaleco.</li>
+              <li class="juntion">Renta de cuatrimoto, casco y chaleco.</li>
               <li class="juntion">Hidratación.</li>
               <li class="juntion">Guía en todo el recorrido</li>
               <li class="juntion">Recorrido por cueva milenaria.</li>
@@ -442,13 +439,13 @@
           <div class="col-md-7 text-center">
                 <h3 class="textoNaranja"> $ 3,000.<sup>00</sup> MXN</h3>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
-              <!--carrito vuelo cumpleañ-->
-                   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                   <input type="hidden" name="cmd" value="_s-xclick">
-                   <input type="hidden" name="hosted_button_id" value="RWLBTFRPPGQMY">
-                   <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                   </form>
+              <!--carrito vuelo vueal y aventura-->
+                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="CWN7F5M5LRNLS">
+                <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                </form>
               <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
