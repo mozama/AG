@@ -111,6 +111,11 @@
               <li class="juntion">Transportación de regreso a CDMX.</li>
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
+<<<<<<< HEAD
+=======
+            <br>
+            
+>>>>>>> 38d105d872269b1fdf26e70828e5222bbaa259bd
           </div>
           <div class="col-md-4">
             <br><br><br><br>
