@@ -65,7 +65,7 @@
           </div>
           <div class="col-md-4">
             <br><br>
-              <a class="btn btn-primary btn-block" href="http://www.gshoteles.com.mx/gs-quinto-sol-teotihuacan.html" target=blanck><i class="fa fa-link"></i> Ver sitio web Hotel Quinto Sol </a>
+              <a class="btn btn-primary btn-block" href="https://www.hoteles.com/ho348320/hotel-quinto-sol-teotihuacan-mexico/" target=blanck><i class="fa fa-link"></i> Ver sitio web Hotel Quinto Sol </a>
           </div>
         </div>
 
@@ -188,7 +188,7 @@
                 </div>
                 <div class="col-md-4">
                   <br><br>
-                  <a class="btn btn-primary btn-block" href=" http://www.posadajade.com/amenities.htm" target=blanck><i class="fa fa-link"></i> Ver sitio web Posada Jade </a>
+                  <a class="btn btn-primary btn-block" href="http://www.hotelposadajade.com/" target=blanck><i class="fa fa-link"></i> Ver sitio web Posada Jade </a>
                 </div>
               </div>
 

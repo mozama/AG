@@ -60,6 +60,7 @@
           <div class="col-md-7 text-center ">
             			<!-- fin del carrito-->
                 <p class="textoNaranja textoPromocion">$ 2,300.<sup>00</sup> MXN</p>
+                <p class="textoNaranja textoPromocion">$ 1,800.<sup>00</sup> MXN <small>- menores de 12-15 años </small></p>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
                 <!-- p class="text-warning roboto">No aplica en días festivos</p -->
                 <!-- carrito vuelo compartido-->
@@ -104,7 +105,7 @@
               <li class="juntion">Certificado de vuelo por pasajero.</li>
               <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
               <li class="juntion">Ramo de rosas (una docena).</li>
-              <li class="juntion">Transportacion local durante la actividad.</li>
+              <li class="juntion">Transportación local durante la actividad.</li>
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
       <br>
@@ -118,7 +119,7 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-              <p class="textoNaranja textoPromocion">$ 6,800.<sup>00</sup> MXN</p>
+              <p class="textoNaranja textoPromocion">$ 6,800.<sup>00</sup> MXN <small>- por pareja</small></p>
               <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
               <!-- p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 6,200.<sup>00</sup> MXN</p-->
               <br>
@@ -168,7 +169,7 @@
         <div class="row">
           <div class="col-md-7 text-center">
             <br><br>
-              <p class="textoNaranja textoPromocion">$ 6,500.<sup>00</sup> MXN</p>
+              <p class="textoNaranja textoPromocion">$ 6,500.<sup>00</sup> MXN <small> - por pareja</small></p>
               <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
               <!-- p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 5,800.<sup>00</sup> MXN</p-->
               <!--vuelo madrugador carrito-->
@@ -216,6 +217,7 @@
           <div class="col-md-7 text-center">
             <br><br>
                 <p class="textoNaranja textoPromocion">$ 3,200.<sup>00</sup> MXN</p>
+                <p class="textoNaranja textoPromocion">$ 2,500.<sup>00</sup> MXN <small>- menores de 5-15 años</small></p>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
                 <!-- p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción Lunes a Viernes: $ 2,800.<sup>00</sup> MXN</p-->
                 <!-- p class="text-warning roboto">No aplica en días festivos</p -->
@@ -256,7 +258,7 @@
               <li class="juntion">Banner " FELIZ CUMPLEAÑOS " ó " FELIZ ANIVERSARIO ".</li>
               <li class="juntion">Botella de vino blanco espumoso para brindar durante el vuelo.</li>
                <li class="juntion">Desayuno buffet  en restaurante Gran Teocalli.</li>
-              <li class="juntion">Pastelito individual paa l festejado (sólo cumpleaños).</li>
+              <li class="juntion">Pastelito individual para el festejado (sólo cumpleaños).</li>
               <li class="juntion">Fotos.</li>
               <li class="juntion">Transportación local durante la actividad.</li>
               <li class="juntion">Seguro de pasajeros.</li>
@@ -272,7 +274,7 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-                <h3 class="textoNaranja"> $ 6,500.<sup>00</sup> MXN</h3>
+            <p class="textoNaranja textoPromocion">$ 6,500.<sup>00</sup> MXN <small>- por pareja</small></p>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
               <!--carrito vuelo cumpleañ-->
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -305,7 +307,7 @@
               <li class="juntion">Brindis con vino blanco espumoso al aterrizar. </li>
               <li class="juntion">Certificado de vuelo por pasajero.</li>
               <li class="juntion">Desayuno buffet en restaurante Gran Teocalli.</li>
-              <li class="juntion">Transporte delrestaurante a zona arqueológica.</li>
+              <li class="juntion">Transporte del restaurante a zona arqueológica.</li>
               <li class="juntion">Entrada a zona arqueológica.</li>
               <li class="juntion">Guía durante el recorrido (idioma Español).</li>
               <li class="juntion">Visita al Templo de Quetzalcoatl y ciudadela.</li>
@@ -330,7 +332,8 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-                <h3 class="textoNaranja"> $ 2,990.<sup>00</sup> MXN</h3>
+
+                <p class="textoNaranja textoPromocion">$ 2,990.<sup>00</sup> MXN <small>- por persona</small></p>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
                 <p class="textoNaranja"> Mínimo 2 personas</p>
               <!--carrito vuelo cultural-->
@@ -383,7 +386,8 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-                <h3 class="textoNaranja"> $ 2,600.<sup>00</sup> MXN</h3>
+
+                <p class="textoNaranja textoPromocion">$ 2,600.<sup>00</sup> MXN <small>- por persona</small></p>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
               <!--carrito vuelo y rueda-->
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -419,6 +423,7 @@
               <li class="juntion">Renta de cuatrimoto, casco y chaleco.</li>
               <li class="juntion">Hidratación.</li>
               <li class="juntion">Guía en todo el recorrido</li>
+              <li class="juntion">Visita mirador calzada de los muertos</li>
               <li class="juntion">Recorrido por cueva milenaria.</li>
               <li class="juntion">Puente colgante.</li>
               <li class="juntion">Tirolesa.</li>
@@ -437,7 +442,7 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-                <h3 class="textoNaranja"> $ 3,000.<sup>00</sup> MXN</h3>
+                <p class="textoNaranja textoPromocion">$ 3,000.<sup>00</sup> MXN <small>- por persona</small></p>                
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
               <!--carrito vuelo vueal y aventura-->
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
