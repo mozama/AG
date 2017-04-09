@@ -59,9 +59,10 @@
         <div class="row">
           <div class="col-md-7 text-center ">
             			<!-- fin del carrito-->
+                  <br>
                 <p class="textoNaranja textoPromocion">$ 2,300.<sup>00</sup> MXN</p>
-                <p class="textoNaranja textoPromocion">$ 1,800.<sup>00</sup> MXN <small>- menores de 5 - 12 años </small></p>
-                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
+                <p class="textoNaranja textoPromocion">$ 1,800.<sup>00</sup> MXN <small> - menores de 5-12 años</small></p>
+
                 <!-- p class="text-warning roboto">No aplica en días festivos</p -->
                 <!-- carrito vuelo compartido-->
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -80,8 +81,9 @@
         <!-- fin del carrito-->
 
           </div>
-                   <div class="col-md-4 text-center">
-            <h3 class="text-primary junction"> Precio por pasajero.</h3>
+           <div class="col-md-4 text-center">
+             <br>
+            <p class="textoAmber textoPromocion2"><i class="fa fa-star" id="estrella"></i> <span class="text-danger">10% DE DESCUENTO </span> AL PAGAR EN EFECTIVO</p>
           </div>
         </div>
       </article>
@@ -118,8 +120,9 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-              <p class="textoNaranja textoPromocion">$ 6,800.<sup>00</sup> MXN <small>- por pareja</small></p>
-              <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
+            <br>
+              <p class="textoNaranja textoPromocion">$ 6,800.<sup>00</sup> MXN</p>
+
               <!-- p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 6,200.<sup>00</sup> MXN</p-->
               <br>
               <!--Carrito vip-->
@@ -133,8 +136,8 @@
             <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
-            <h3 class="text-primary">Precio por pareja.</h3>
-          </div>
+            <br>
+           <p class="textoAmber textoPromocion2"><i class="fa fa-star" id="estrella"></i> <span class="text-danger">10% DE DESCUENTO </span> AL PAGAR EN EFECTIVO</p>
         </div>
       </article>
       <br>
@@ -167,9 +170,8 @@
 
         <div class="row">
           <div class="col-md-7 text-center">
-            <br><br>
-              <p class="textoNaranja textoPromocion">$ 6,500.<sup>00</sup> MXN <small> - por pareja</small></p>
-              <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
+            <br>
+              <p class="textoNaranja textoPromocion">$ 6,500.<sup>00</sup> MXN </p>
               <!-- p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 5,800.<sup>00</sup> MXN</p-->
               <!--vuelo madrugador carrito-->
                   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -179,10 +181,9 @@
                      <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
                   </form>
               <!-- fin de carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary">Precio por pareja.</h3>
-          </div>
+          </div><div class="col-md-4 text-center">
+            <br>
+           <p class="textoAmber textoPromocion2"><i class="fa fa-star" id="estrella"></i> <span class="text-danger">10% DE DESCUENTO </span> AL PAGAR EN EFECTIVO</p>
         </div>
       </article>
       <br>
@@ -217,7 +218,7 @@
             <br><br>
                 <p class="textoNaranja textoPromocion">$ 3,200.<sup>00</sup> MXN</p>
                 <p class="textoNaranja textoPromocion">$ 2,500.<sup>00</sup> MXN <small>- menores de 5 - 12 años</small></p>
-                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
+
                 <!-- p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción Lunes a Viernes: $ 2,800.<sup>00</sup> MXN</p-->
                 <!-- p class="text-warning roboto">No aplica en días festivos</p -->
               <!--carrito vuelo privado-->
@@ -237,8 +238,8 @@
               <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
-            <h3 class="text-primary junction">Precio por pasajero.</h3>
-          </div>
+            <br>
+           <p class="textoAmber textoPromocion2"><i class="fa fa-star" id="estrella"></i> <span class="text-danger">10% DE DESCUENTO </span> AL PAGAR EN EFECTIVO</p>
         </div>
       </article>
 
@@ -273,8 +274,8 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-            <p class="textoNaranja textoPromocion">$ 6,500.<sup>00</sup> MXN <small>- por pareja</small></p>
-                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
+            <p class="textoNaranja textoPromocion">$ 6,500.<sup>00</sup> MXN</p>
+
               <!--carrito vuelo cumpleañ-->
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                 <input type="hidden" name="cmd" value="_s-xclick">
@@ -283,10 +284,9 @@
                 <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
                 </form>
               <!--fin del carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary junction">Precio por pareja.</h3>
-          </div>
+          </div><div class="col-md-4 text-center">
+            <br>
+           <p class="textoAmber textoPromocion2"><i class="fa fa-star" id="estrella"></i> <span class="text-danger">10% DE DESCUENTO </span> AL PAGAR EN EFECTIVO</p>
         </div>
       </article>
     </div>  <!-- /contenido -->

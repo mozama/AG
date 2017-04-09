@@ -65,8 +65,8 @@
 
         <div class="row">
           <div class="col-md-6 text-center">
-              <p class="textoNaranja textoPromocion">MXN $ 2,700.<sup>00</sup> MNX <small>- por persona</small></p>
-              <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
+              <p class="textoNaranja textoPromocion">MXN $ 2,700.<sup>00</sup> MNX </p>
+
 				<!--carrito-->
             <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
             <input type="hidden" name="cmd" value="_s-xclick">
@@ -75,13 +75,12 @@
             <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
             </form>
 				<!-- fin carrito-->
-          </div>
-          <div class="col-md-6 text-center">
-            <h3 class="text-primary">Por persona.</h3>
-          </div>
+          </div><div class="col-md-4 text-center">
+            <br>
+           <p class="textoAmber textoPromocion2"><i class="fa fa-star" id="estrella"></i> <span class="text-danger">10% DE DESCUENTO </span> AL PAGAR EN EFECTIVO</p>
         </div>
       </article>
-      
+
       <article >
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
@@ -124,8 +123,8 @@
         <div class="row">
           <div class="col-md-7 text-center">
 
-                <p class="textoNaranja textoPromocion">$ 2,990.<sup>00</sup> MXN <small>- por persona</small></p>
-                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
+                <p class="textoNaranja textoPromocion">$ 2,990.<sup>00</sup> MXN </p>
+
                 <p class="textoNaranja"> Mínimo 2 personas</p>
               <!--carrito vuelo cultural-->
                   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -135,10 +134,9 @@
                   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
                   </form>
               <!--fin del carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary junction">Precio por persona.</h3>
-          </div>
+          </div><div class="col-md-4 text-center">
+            <br>
+           <p class="textoAmber textoPromocion2"><i class="fa fa-star" id="estrella"></i> <span class="text-danger">10% DE DESCUENTO </span> AL PAGAR EN EFECTIVO</p>
         </div>
       </article>
 
@@ -178,8 +176,8 @@
         <div class="row">
           <div class="col-md-7 text-center">
 
-                <p class="textoNaranja textoPromocion">$ 2,600.<sup>00</sup> MXN <small>- por persona</small></p>
-                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
+                <p class="textoNaranja textoPromocion">$ 2,600.<sup>00</sup> MXN </p>
+
               <!--carrito vuelo y rueda-->
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                 <input type="hidden" name="cmd" value="_s-xclick">
@@ -188,10 +186,9 @@
                 <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
                 </form>
               <!--fin del carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary junction">Precio por persona.</h3>
-          </div>
+          </div><div class="col-md-4 text-center">
+            <br>
+           <p class="textoAmber textoPromocion2"><i class="fa fa-star" id="estrella"></i> <span class="text-danger">10% DE DESCUENTO </span> AL PAGAR EN EFECTIVO</p>
         </div>
       </article>
 
@@ -233,8 +230,8 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-                <p class="textoNaranja textoPromocion">$ 3,000.<sup>00</sup> MXN <small>- por persona</small></p>
-                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
+                <p class="textoNaranja textoPromocion">$ 3,000.<sup>00</sup> MXN </p>
+
               <!--carrito vuelo vueal y aventura-->
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                 <input type="hidden" name="cmd" value="_s-xclick">
@@ -243,10 +240,9 @@
                 <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
                 </form>
               <!--fin del carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary junction">Precio por persona.</h3>
-          </div>
+          </div><div class="col-md-4 text-center">
+            <br>
+           <p class="textoAmber textoPromocion2"><i class="fa fa-star" id="estrella"></i> <span class="text-danger">10% DE DESCUENTO </span> AL PAGAR EN EFECTIVO</p>
         </div>
       </article>
     </div>  <!-- /contenido -->
