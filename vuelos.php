@@ -64,19 +64,19 @@
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
                 <!-- p class="text-warning roboto">No aplica en días festivos</p -->
                 <!-- carrito vuelo compartido-->
-                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                 <input type="hidden" name="cmd" value="_s-xclick">
-                  <input type="hidden" name="hosted_button_id" value="X2269XC93PKXE">
-                       <table>
-                       <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Compartido">Paquete Vuelo Compartido</td></tr><tr><td><select <name>      </name>="os0">
-                          <option value="Vuelo compartido (costo por persona)">Vuelo compartido (costo por persona) $2,300.00 MXN</option>
-                           <option value="Menores de 5 a 12 anos">Menores de 5 a 12 anos $1,800.00 MXN</option>
-                        </select> </td></tr>
-                        </table>
-                  <input type="hidden" name="currency_code" value="MXN">
-                 <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                </form>
+                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="X2269XC93PKXE">
+                    <table>
+                    <tr><td><input type="hidden" name="on0" value="Paquete Vuelo Compartido">Paquete Vuelo Compartido</td></tr><tr><td><select name="os0">
+                      <option value="Vuelo compartido (costo por persona)">Vuelo compartido (costo por persona) $2,300.00 MXN</option>
+                      <option value="Menores de 5 a 12 anos">Menores de 5 a 12 anos $1,800.00 MXN</option>
+                    </select> </td></tr>
+                    </table>
+                    <input type="hidden" name="currency_code" value="MXN">
+                    <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                    <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                    </form>
 
         <!-- fin del carrito-->
 
