@@ -624,8 +624,8 @@ section.contact{
 }
 .vuelosFondo {
 	background:url(../images/globos.jpg);
-	background-repeat:no-repeat;
-	background-size:cover;
+	background-repeat:repeat;
+	/*background-size:cover;*/
 	background-attachment: fixed;
 	line-height:20px;
 }

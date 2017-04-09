@@ -326,7 +326,7 @@
           </div>
           <div class="col-md-4">
             <br><br><br><br>
-            <img class="img-responsive img-rounded img" src="" alt="">
+            <img class="img-responsive img-rounded img" src="./images/calzada.jpg" alt="">
           </div>
         </div>
         <div class="row">
@@ -380,7 +380,7 @@
           </div>
           <div class="col-md-4">
             <br>
-            <img class="img-responsive img-rounded img" src="" alt="">
+            <img class="img-responsive img-rounded img" src="./images/bicip.jpg" alt="">
           </div>
         </div>
         <div class="row">
@@ -436,12 +436,12 @@
           </div>
           <div class="col-md-4">
             <br>
-            <img class="img-responsive img-rounded img" src="" alt="">
+            <img class="img-responsive img-rounded img" src="./images/tcuatri.jpg" alt="">
           </div>
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-                <p class="textoNaranja textoPromocion">$ 3,000.<sup>00</sup> MXN <small>- por persona</small></p>                
+                <p class="textoNaranja textoPromocion">$ 3,000.<sup>00</sup> MXN <small>- por persona</small></p>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
               <!--carrito vuelo vueal y aventura-->
                 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
