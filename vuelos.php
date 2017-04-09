@@ -48,8 +48,8 @@
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
             <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos.<br> </b></p>
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX vaje redondo,
+              pregunta costos.<br> </b></p>
           </div>
           <div class="col-md-4">
             <br><br>
@@ -110,8 +110,8 @@
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
       <br>
-          <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br></b></p>
+      <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX vaje redondo,
+        pregunta costos.<br> </b></p>
           </div>
           <div class="col-md-4">
             <br><br>
@@ -160,8 +160,8 @@
               <li class="juntion">Seguro de pasajero.</li>
             </ul>
             <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br></b></p>
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX vaje redondo,
+              pregunta costos.<br> </b></p>
           </div>
           <div class="col-md-4">
             <br><br>
@@ -205,8 +205,8 @@
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
             <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br> </b></p>
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX vaje redondo,
+              pregunta costos.<br> </b></p>
           </div>
           <div class="col-md-4">
             <br>
@@ -264,8 +264,8 @@
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
             <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br> </b></p>
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX vaje redondo,
+              pregunta costos.<br> </b></p>
           </div>
           <div class="col-md-4">
             <br>
