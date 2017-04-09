@@ -60,7 +60,7 @@
           <div class="col-md-7 text-center ">
             			<!-- fin del carrito-->
                 <p class="textoNaranja textoPromocion">$ 2,300.<sup>00</sup> MXN</p>
-                <p class="textoNaranja textoPromocion">$ 1,800.<sup>00</sup> MXN <small>- menores de 12-15 años </small></p>
+                <p class="textoNaranja textoPromocion">$ 1,800.<sup>00</sup> MXN <small>- menores de 5 - 12 años </small></p>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
                 <!-- p class="text-warning roboto">No aplica en días festivos</p -->
                 <!-- carrito vuelo compartido-->
@@ -216,7 +216,7 @@
           <div class="col-md-7 text-center">
             <br><br>
                 <p class="textoNaranja textoPromocion">$ 3,200.<sup>00</sup> MXN</p>
-                <p class="textoNaranja textoPromocion">$ 2,500.<sup>00</sup> MXN <small>- menores de 5-15 años</small></p>
+                <p class="textoNaranja textoPromocion">$ 2,500.<sup>00</sup> MXN <small>- menores de 5 - 12 años</small></p>
                 <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
                 <!-- p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción Lunes a Viernes: $ 2,800.<sup>00</sup> MXN</p-->
                 <!-- p class="text-warning roboto">No aplica en días festivos</p -->
@@ -289,175 +289,6 @@
           </div>
         </div>
       </article>
-
-      <article >
-        <div class="row cabeceraVuelo">
-          <div class="col-lg-12">
-            <h3 class="junction"><i class="fa fa-bookmark"></i> Paquete Cultural: <small class="textoBlanco"> Vuelo + Transportación + Entrada a zona Arqueológica. </small></p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7">
-            <h4 class="text-warning junction">Incluye:</h4>
-            <ul>
-              <li class="juntion">Transportación (punto de encuentro Ángel de la independencia u hoteles cercanos).</li>
-              <li class="juntion">Coffee break en zona de despegue (Sábados y Domingos).</li>
-              <li class="juntion">Vuelo en globo de 45 a 60 minutos.</li>
-              <li class="juntion">Brindis con vino blanco espumoso al aterrizar. </li>
-              <li class="juntion">Certificado de vuelo por pasajero.</li>
-              <li class="juntion">Desayuno buffet en restaurante Gran Teocalli.</li>
-              <li class="juntion">Transporte del restaurante a zona arqueológica.</li>
-              <li class="juntion">Entrada a zona arqueológica.</li>
-              <li class="juntion">Guía durante el recorrido (idioma Español).</li>
-              <li class="juntion">Visita al Templo de Quetzalcoatl y ciudadela.</li>
-              <li class="juntion">Recorrido por la calzada de los muertos.</li>
-              <li class="juntion">Ascenso a la Pirámide del sol.</li>
-              <li class="juntion">Visita al conjunto de la Plaza Oeste.</li>
-              <li class="juntion">Ascenso a la Pirámide de la Luna.</li>
-              <li class="juntion">Visita a la Plaza de Quetzapapalotl.</li>
-              <li class="juntion">Visita al conjunto de Jaguares.</li>
-              <li class="juntion">Museo.</li>
-              <li class="juntion">Transportación de regreso a CDMX.</li>
-              <li class="juntion">Seguro de pasajeros.</li>
-            </ul>
-            <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br> </b></p>
-          </div>
-          <div class="col-md-4">
-            <br><br><br><br>
-            <img class="img-responsive img-rounded img" src="./images/calzada.jpg" alt="">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7 text-center">
-
-                <p class="textoNaranja textoPromocion">$ 2,990.<sup>00</sup> MXN <small>- por persona</small></p>
-                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
-                <p class="textoNaranja"> Mínimo 2 personas</p>
-              <!--carrito vuelo cultural-->
-                  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                  <input type="hidden" name="cmd" value="_s-xclick">
-                  <input type="hidden" name="hosted_button_id" value="U2BUBFSG3CHSU">
-                  <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                  <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                  </form>
-              <!--fin del carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary junction">Precio por persona.</h3>
-          </div>
-        </div>
-      </article>
-
-      <article >
-        <div class="row cabeceraVuelo">
-          <div class="col-lg-12">
-            <h3 class="junction"><i class="fa fa-bookmark"></i> Paquete vuela y rueda:</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7">
-            <h4 class="text-warning junction">Incluye:</h4>
-            <ul>
-              <li class="juntion">Coffee break en zona de despegue (Sábados y Domingos).</li>
-              <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
-              <li class="juntion">Brindis con vino blanco espumoso al aterrizar.</li>
-              <li class="juntion">Certificado de vuelo por pasajero.</li>
-              <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
-              <li class="juntion">Seguro de pasajeros.</li>
-              <li class="juntion">Renta de bicicleta.</li>
-              <li class="juntion">Paseo por el Valle de Teotihuacán.</li>
-              <li class="juntion">Visita guiada por la ruta de los Murales (Tetitla, Atetelco y Tepantitla).</li>
-              <li class="juntion">Degustación del Pulque mientras a Pie de maguey conocemos su historia.</li>
-              <li class="juntion">Visita a la fabrica de productos de Tuna, Nopal y Xoconoxtle.</li>
-              <li class="juntion">Guía en todo el recorrido.</li>
-              <li class="juntion">Botella de agua y Lunch.</li>
-            </ul>
-            <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br> </b></p>
-          </div>
-          <div class="col-md-4">
-            <br>
-            <img class="img-responsive img-rounded img" src="./images/bicip.jpg" alt="">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7 text-center">
-
-                <p class="textoNaranja textoPromocion">$ 2,600.<sup>00</sup> MXN <small>- por persona</small></p>
-                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
-              <!--carrito vuelo y rueda-->
-                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="Z9QRS3NR4AWSS">
-                <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                </form>
-              <!--fin del carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary junction">Precio por persona.</h3>
-          </div>
-        </div>
-      </article>
-
-      <article >
-        <div class="row cabeceraVuelo">
-          <div class="col-lg-12">
-            <h3 class="junction"><i class="fa fa-bookmark"></i> Paquete vuela + aventura:</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7">
-            <h4 class="text-warning junction">Incluye:</h4>
-            <ul>
-              <li class="juntion">Coffee break en zona de despegue (Sábados y Domingos).</li>
-              <li class="juntion">Vuelo en Globo de 45 a 60 minutos.</li>
-              <li class="juntion">Brindis con vino blanco espumoso al aterrizar.</li>
-              <li class="juntion">Certificado de vuelo por pasajero.</li>
-              <li class="juntion">Desayuno Buffet en Restaurante Gran Teocalli.</li>
-              <li class="juntion">Seguro de pasajeros.</li>
-              <li class="juntion">Renta de cuatrimoto, casco y chaleco.</li>
-              <li class="juntion">Hidratación.</li>
-              <li class="juntion">Guía en todo el recorrido</li>
-              <li class="juntion">Visita mirador calzada de los muertos</li>
-              <li class="juntion">Recorrido por cueva milenaria.</li>
-              <li class="juntion">Puente colgante.</li>
-              <li class="juntion">Tirolesa.</li>
-              <li class="juntion">Degustación de duces y licores típicos de la región.</li>
-              <li class="juntion">Degustación de puque.</li>
-              <li class="juntion">Comida regional (Sábados y Domingos)</li>
-            </ul>
-            <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte del DF a Teotihucán y de
-            regreso al DF, pregunta costos. <br> </b></p>
-          </div>
-          <div class="col-md-4">
-            <br>
-            <img class="img-responsive img-rounded img" src="./images/tcuatri.jpg" alt="">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7 text-center">
-                <p class="textoNaranja textoPromocion">$ 3,000.<sup>00</sup> MXN <small>- por persona</small></p>
-                <p class="textoAmber textoPromocion"><i class="fa fa-star"></i> 10% DE DESCUENTO AL PAGAR EN EFECTIVO</p>
-              <!--carrito vuelo vueal y aventura-->
-                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="CWN7F5M5LRNLS">
-                <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                </form>
-              <!--fin del carrito-->
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-primary junction">Precio por persona.</h3>
-          </div>
-        </div>
-      </article>
-
     </div>  <!-- /contenido -->
   </div>
 

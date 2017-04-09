@@ -138,25 +138,6 @@
                                   Cumpleaños o aniversario
                                 </label>
                               </div>
-                              <div class="checkbox">
-                                <label>
-                                  <input type="checkbox" name="vuelo[]" value="6">
-                                  Vuelo cultural
-                                </label>
-                              </div>
-                              <div class="checkbox">
-                                <label>
-                                  <input type="checkbox" name="vuelo[]" value="7">
-                                  Vuela y rueda
-                                </label>
-                              </div>
-                              <div class="checkbox">
-                                <label>
-                                  <input type="checkbox" name="vuelo[]" value="8">
-                                  Vuela y aventura
-                                </label>
-                              </div>
-
                             </div>
                           </div>
 
@@ -205,70 +186,27 @@
                               <div class="checkbox">
                                 <label>
                                   <input type="checkbox" name="aventura[]" value="1">
-                                  Ultraligero
+                                  Paquete Vuela y temazcal
                                 </label>
                               </div>
                               <div class="checkbox">
                                 <label>
                                   <input type="checkbox" name="aventura[]" value="2">
-                                  Temazcal
+                                  Paquete cultural
                                 </label>
                               </div>
                               <div class="checkbox">
                                 <label>
                                   <input type="checkbox" name="aventura[]" value="3">
-                                  Visita Guiada
+                                  Paquete Vuela y rueda
                                 </label>
                               </div>
                               <div class="checkbox">
                                 <label>
                                   <input type="checkbox" name="aventura[]" value="4">
-                                  Tour en Cuatrimoto
+                                  Paquete Vuela y aventura
                                 </label>
                               </div>
-                              <div class="checkbox">
-                                <label>
-                                  <input type="checkbox" name="aventura[]" value="5">
-                                  Reino Animal
-                                </label>
-                              </div>
-                            </div>
-                            <div class="col-md-6">
-                              <div class="checkbox">
-                                <label>
-                                  <input type="checkbox" name="aventura[]" value="6">
-                                  Tour en bici: Ruta pulque-arqueológica
-                                </label>
-                              </div>
-
-                              <div class="checkbox">
-                                <label>
-                                  <input type="checkbox" name="aventura[]" value="7">
-                                  Bicitour Teotihuacan: Bike Cueva
-                                </label>
-                              </div>
-
-                              <div class="checkbox">
-                                <label>
-                                  <input type="checkbox" name="aventura[]" value="8">
-                                  Bike tour Teotihuacan: Rodada-nadada
-                                </label>
-                              </div>
-
-                              <div class="checkbox">
-                                <label>
-                                  <input type="checkbox" name="aventura[]" value="9">
-                                  Bici-Campamento: Solo los fines de semana
-                                </label>
-                              </div>
-
-                              <div class="checkbox">
-                                <label>
-                                  <input type="checkbox" name="aventura[]" value="10">
-                                  Biketour Teotihuacan: Ruta gastronómica
-                                </label>
-                              </div>
-
                             </div>
                           </div>
                         </div>
