@@ -198,13 +198,13 @@
                               <div class="checkbox">
                                 <label>
                                   <input type="checkbox" name="aventura[]" value="3">
-                                  Paquete Vuela y rueda
+                                  Paquete vuela y rueda
                                 </label>
                               </div>
                               <div class="checkbox">
                                 <label>
                                   <input type="checkbox" name="aventura[]" value="4">
-                                  Paquete Vuela y aventura
+                                  Paquete vuela y aventura
                                 </label>
                               </div>
                             </div>
