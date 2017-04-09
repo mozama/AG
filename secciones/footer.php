@@ -44,7 +44,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
   </div>
   <div class="row">
     <div class="col-md-12 text-center">
-      &copy; 2015 Aventura en Globos | Diseño:<a href="http://www.mozama.com.mx/" class="enlaceSimple" target=blanck> MOZAMA</a>
+      &copy; 2015 Aventura en Globos | Diseño:<a href="http://www.mozama.com.mx/" class="enlaceSimple" target="blank"> MOZAMA</a>
     </div>
   </div>
 

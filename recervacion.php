@@ -132,6 +132,30 @@
                                   Vuelo Privado
                                 </label>
                               </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="vuelo[]" value="5">
+                                  Cumpleaños o aniversario
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="vuelo[]" value="6">
+                                  Vuelo cultural
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="vuelo[]" value="7">
+                                  Vuela y rueda
+                                </label>
+                              </div>
+                              <div class="checkbox">
+                                <label>
+                                  <input type="checkbox" name="vuelo[]" value="8">
+                                  Vuela y aventura
+                                </label>
+                              </div>
 
                             </div>
                           </div>
