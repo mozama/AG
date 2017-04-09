@@ -65,7 +65,7 @@
 
         <div class="row">
           <div class="col-md-6 text-center">
-              <p class="textoNaranja textoPromocion">MXN $ 2,700.<sup>00</sup> MNX </p>
+              <p class="textoNaranja textoPromocion">$ 2,700.<sup>00</sup> MNX </p>
 
 				<!--carrito-->
             <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -111,11 +111,6 @@
               <li class="juntion">Transportación de regreso a CDMX.</li>
               <li class="juntion">Seguro de pasajeros.</li>
             </ul>
-<<<<<<< HEAD
-=======
-            <br>
-            
->>>>>>> 38d105d872269b1fdf26e70828e5222bbaa259bd
           </div>
           <div class="col-md-4">
             <br><br><br><br>
@@ -124,9 +119,8 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-
+            <br>
                 <p class="textoNaranja textoPromocion">$ 2,990.<sup>00</sup> MXN </p>
-
                 <p class="textoNaranja"> Mínimo 2 personas</p>
               <!--carrito vuelo cultural-->
                   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
