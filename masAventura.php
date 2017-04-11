@@ -54,7 +54,7 @@
               <li class="junction">Mascarilla de sábila o barro durante el Temazcal.</li>
             </ul>
             <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX vaje redondo,
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX viaje redondo,
               pregunta costos.<br> </b></p>
           </div>
           <div class="col-md-4">
@@ -161,7 +161,7 @@
               <li class="juntion">Botella de agua y Lunch.</li>
             </ul>
             <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX vaje redondo,
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX viaje redondo,
               pregunta costos.<br> </b></p>
           </div>
           <div class="col-md-4">
@@ -216,7 +216,7 @@
               <li class="juntion">Comida regional (Sábados y Domingos)</li>
             </ul>
             <br>
-            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX vaje redondo,
+            <p class="text-warning text-center junction"><b>Contamos con servicio de transporte a la CDMX viaje redondo,
               pregunta costos.<br> </b></p>
           </div>
           <div class="col-md-4">
