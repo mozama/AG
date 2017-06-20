@@ -120,15 +120,16 @@
         <div class="row">
           <div class="col-md-7 text-center">
             <br>
-                <p class="textoNaranja textoPromocion">$ 2,990.<sup>00</sup> MXN </p>
+                <p class="textoNaranja textoPromocion">$ 3,200.<sup>00</sup> MXN </p>
                 <p class="textoNaranja"> Mínimo 2 personas</p>
               <!--carrito vuelo cultural-->
-                  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                  <input type="hidden" name="cmd" value="_s-xclick">
-                  <input type="hidden" name="hosted_button_id" value="U2BUBFSG3CHSU">
-                  <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                  <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                  </form>
+                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="U2BUBFSG3CHSU">
+                    <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                    <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                    </form>
+
               <!--fin del carrito-->
           </div><div class="col-md-4 text-center">
             <br>

@@ -121,18 +121,18 @@
         <div class="row">
           <div class="col-md-7 text-center">
             <br>
-              <p class="textoNaranja textoPromocion">$ 6,800.<sup>00</sup> MXN</p>
+              <p class="textoNaranja textoPromocion">$ 7,000.<sup>00</sup> MXN</p>
 
               <!-- p class="textoAmber textoPromocion"><i class="fa fa-star"></i> Promoción de Lunes a Viernes: $ 6,200.<sup>00</sup> MXN</p-->
               <br>
               <!--Carrito vip-->
-
-              <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="7KYNSL6L8VPJ6">
                 <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
                 <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-               </form>
+                </form>
+                
             <!--fin del carrito-->
           </div>
           <div class="col-md-4 text-center">
@@ -141,7 +141,7 @@
         </div>
       </article>
       <br>
-      <article >
+      <article >            
         <div class="row cabeceraVuelo">
           <div class="col-lg-12">
             <h3 class="junction"><i class="fa fa-bookmark"></i> Vuelo Madrugador: <small class="textoBlanco">Vive la experiencia de ver el amanecer del valle de Teotihuacán</small></p>
@@ -274,15 +274,16 @@
         </div>
         <div class="row">
           <div class="col-md-7 text-center">
-            <p class="textoNaranja textoPromocion">$ 6,500.<sup>00</sup> MXN</p>
+            <p class="textoNaranja textoPromocion">$ 6,800.<sup>00</sup> MXN</p>
 
               <!--carrito vuelo cumpleañ-->
-                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="RWLBTFRPPGQMY">
-                <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                </form>
+                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="RWLBTFRPPGQMY">
+                    <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                    <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                    </form>
+                    
               <!--fin del carrito-->
           </div><div class="col-md-4 text-center">
             <br>
